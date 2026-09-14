@@ -7,7 +7,7 @@ import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "data")
-REVIEWS_DIR = os.path.join(ROOT, "docs", "reviews")
+REVIEWS_DIR = os.path.join(ROOT, "reviews")  # 影评源（一部作品一篇），不在 docs/ 下，不生成详情页
 MEDIA_DIR = os.path.join(ROOT, "docs", "media")
 COVERS_DIR = os.path.join(MEDIA_DIR, "covers")
 CACHE_DIR = os.path.join(ROOT, ".cache")

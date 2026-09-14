@@ -113,11 +113,12 @@ def ensure_cover(douban_id, subject, meta, medium="", fetch_missing=False):
     return cover_url  # 实在下不到就热链，表格照样能看
 
 
-def cover_cell(cover):
+def cover_cell(cover, prefix="../"):
+    # use_directory_urls 下书/影/剧/游戏页位于 media/<page>/，封面在 media/covers/
     if not cover:
         return "—"
     if cover.startswith("covers/"):
-        return f'<img src="{cover}" width="60" loading="lazy">'
+        return f'<img src="{prefix}{cover}" width="72" loading="lazy">'
     return f"[封面]({cover})"
 
 
@@ -142,7 +143,7 @@ def build(fetch_missing=False):
     save_meta(meta)
 
     os.makedirs(lib.MEDIA_DIR, exist_ok=True)
-    # --- 各类型页 ---
+    # --- 各类型页（短评全文展示，无详情页）---
     for medium in lib.MEDIUMS:
         rows = sorted([r for r in all_rows if r["_medium"] == medium],
                       key=lambda r: (r.get("status") != "complete", r.get("timestamp", "")), reverse=False)
@@ -162,13 +163,11 @@ def build(fetch_missing=False):
                 if rev:
                     fm, body = rev["fm"], rev["body"]
                     rating = lib.STARS_TO_CSV.get(fm.get("rating"), "") if fm.get("rating") is not None else ""
-                    short = lib.excerpt(body) or "（全文见影评）"
-                    rel = os.path.relpath(rev["path"], lib.MEDIA_DIR).replace(os.sep, "/")
-                    short = f"{lib.md_cell(short)} [全文]({rel})"
+                    short = lib.md_cell(body.strip()) or "—"
                     stars = lib.stars_text(rating)
                 else:
                     stars = lib.stars_text(r.get("rating", ""))
-                    short = lib.md_cell(lib.excerpt(r.get("comment", "")))
+                    short = lib.md_cell((r.get("comment") or "").strip()) or "—"
                 links = []
                 if lib.first_neodb_url(r.get("links", "")):
                     links.append(f"[NeoDB]({lib.first_neodb_url(r.get('links', ''))})")
@@ -184,40 +183,11 @@ def build(fetch_missing=False):
         with open(os.path.join(lib.MEDIA_DIR, {"book": "books.md", "movie": "movies.md", "tv": "tv.md", "game": "games.md"}[medium]),
                   "w", encoding="utf-8", newline="\n") as f:
             f.write("\n".join(lines))
-    # --- 总览 ---
-    total = len(all_rows)
-    lines = ["# 书影音\n", f"共 {total} 条，有影评 {len(reviews)} 篇。\n",
-             "| 类型 | 总数 | 页面 |", "|---|---|---|"]
-    for medium, page in (("book", "books.md"), ("movie", "movies.md"), ("tv", "tv.md"), ("game", "games.md")):
-        n = len([r for r in all_rows if r["_medium"] == medium])
-        lines.append(f"| {lib.MEDIUM_NAMES[medium]} | {n} | [{lib.MEDIUM_NAMES[medium]}]({page}) |")
-    lines += ["\n## 最近更新\n", "| 日期 | 类型 | 标题 | 评分 | 短评 |", "|---|---|---|---|---|"]
-    for r in sorted(all_rows, key=lambda r: r.get("timestamp", ""), reverse=True)[:8]:
-        rev = reviews.get(r["_key"])
-        short = lib.md_cell(lib.excerpt(rev["body"])) if rev else lib.md_cell(lib.excerpt(r.get("comment", "")))
-        lines.append(f"| {(r.get('timestamp') or '')[:10]} | {lib.MEDIUM_NAMES[r['_medium']]} | "
-                     f"{lib.md_cell((r.get('title') or '未命名').strip())} | {lib.stars_text(r.get('rating', ''))} | {short} |")
-    with open(os.path.join(lib.MEDIA_DIR, "index.md"), "w", encoding="utf-8", newline="\n") as f:
-        f.write("\n".join(lines) + "\n")
-    # --- 影评索引 ---
-    items = []
-    for key, rev in reviews.items():
-        fm = rev["fm"]
-        rel = os.path.relpath(rev["path"], lib.REVIEWS_DIR).replace(os.sep, "/")
-        items.append((fm.get("date", ""), fm.get("medium", ""), fm.get("title", ""), fm.get("rating"), rel, rev["body"]))
-    items.sort(reverse=True)
-    lines = ["# 影评\n", f"共 {len(items)} 篇，一部作品一篇，源文件在 `docs/reviews/`。\n",
-             "| 日期 | 类型 | 标题 | 评分 | 摘要 |", "|---|---|---|---|---|"]
-    for date, medium, title, stars, rel, body in items:
-        csv_r = lib.STARS_TO_CSV.get(stars, "") if stars is not None else ""
-        lines.append(f"| {date} | {lib.MEDIUM_NAMES.get(medium, medium)} | [{lib.md_cell(title)}]({lib.md_cell(rel)}) | "
-                     f"{lib.stars_text(csv_r)} | {lib.md_cell(lib.excerpt(body))} |")
-    os.makedirs(lib.REVIEWS_DIR, exist_ok=True)
-    with open(os.path.join(lib.REVIEWS_DIR, "index.md"), "w", encoding="utf-8", newline="\n") as f:
-        f.write("\n".join(lines) + "\n")
+    # --- 影评页不再生成详情页：reviews/ 仅为本地写作源 ---
 
     with open(FAIL_PATH, "w", encoding="utf-8") as f:
         json.dump({"missing_covers": failures}, f, ensure_ascii=False, indent=1)
+    total = len(all_rows)
     n_covers = len([f for f in os.listdir(lib.COVERS_DIR) if f.endswith(".jpg")] ) if os.path.isdir(lib.COVERS_DIR) else 0
     print(f"rows={total} reviews={len(reviews)} covers_local={n_covers} failures={len(failures)}")
     for fb in failures[:10]:

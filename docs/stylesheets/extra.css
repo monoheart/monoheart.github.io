@@ -1,0 +1,43 @@
+/* 书影音表格：封面列固定窄，短评列吃掉剩余空间 */
+.md-typeset__table {
+  width: 100%;
+}
+.md-typeset table:not([class]) {
+  width: 100%;
+  table-layout: auto;
+}
+.md-typeset table th,
+.md-typeset table td {
+  vertical-align: top;
+  white-space: normal;
+  word-break: break-word;
+}
+/* 第1列 封面：固定窄 */
+.md-typeset table th:first-child,
+.md-typeset table td:first-child {
+  width: 80px;
+  min-width: 80px;
+  max-width: 80px;
+  text-align: center;
+}
+.md-typeset table td:first-child img {
+  width: 72px;
+  height: auto;
+}
+/* 第2-5列 元信息：紧凑不换行 */
+.md-typeset table td:nth-child(2),
+.md-typeset table td:nth-child(3),
+.md-typeset table td:nth-child(4),
+.md-typeset table td:nth-child(5) {
+  white-space: nowrap;
+}
+/* 第6列 短评：最宽 */
+.md-typeset table th:nth-child(6),
+.md-typeset table td:nth-child(6) {
+  width: 55%;
+  min-width: 320px;
+}
+/* 第7列 链接：紧凑 */
+.md-typeset table td:nth-child(7) {
+  white-space: nowrap;
+}

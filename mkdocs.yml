@@ -8,10 +8,9 @@ theme:
     accent: teal
 nav:
   - 首页: index.md
-  - 书影音:
-    - 总览: media/index.md
-    - 书: media/books.md
-    - 影: media/movies.md
-    - 剧: media/tv.md
-    - 游戏: media/games.md
-  - 影评: reviews/index.md
+  - 书: media/books.md
+  - 影: media/movies.md
+  - 剧: media/tv.md
+  - 游戏: media/games.md
+extra_css:
+  - stylesheets/extra.css
