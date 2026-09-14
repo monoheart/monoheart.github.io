@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: monoheart电波站
+theme:
+  favicon: img/favicon.png
+  name: 'material'
+  logo: img/favicon.png
+  palette:
+    primary: teal
+    accent: teal
+nav:
+  - 首页: index.md
+  - 书影音:
+    - 总览: media/index.md
+    - 书: media/books.md
+    - 影: media/movies.md
+    - 剧: media/tv.md
+    - 游戏: media/games.md
+  - 影评: reviews/index.md
