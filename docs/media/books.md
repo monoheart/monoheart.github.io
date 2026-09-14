@@ -10,7 +10,7 @@
 | [封面](https://img9.doubanio.com/view/subject/s/public/s29610326.jpg) | 我らコンタクティ | 森田るい | ★★★☆☆ | 2026-08-13 | 还算有意思 [全文](../reviews/book-27173667-我らコンタクティ.md) | [NeoDB](https://neodb.social/book/6p6bgNPmCytuBHFnGqHcIX) [豆瓣](https://book.douban.com/subject/27173667/) |
 | <img src="covers/x-35005045.jpg" width="60" loading="lazy"> | 夜晚的潜水艇 | 陈春成 | ★★★★☆ | 2026-06-14 | 相当喜欢，很对上电波 [全文](../reviews/book-35005045-夜晚的潜水艇.md) | [NeoDB](https://neodb.social/book/6qPDyUhNN8ZEP9v5YVU7tx) [豆瓣](https://book.douban.com/subject/35005045/) |
 | — | 明日仍將戀上他 | 入間人間/左 | ★★☆☆☆ | 2026-04-02 | 1 [全文](../reviews/book-20272305-明日仍將戀上他.md) | [NeoDB](https://neodb.social/book/3aajKpki7gzMoXhYf5Ky0R) [豆瓣](https://book.douban.com/subject/20272305/) |
-| — | 昨日也曾愛著他 | 入間人間/左 | ★★☆☆☆ | 2026-04-02 | 水课在轻小说文库里偶然翻到遂把上下两本都看了 [全文](../reviews/book-10824791-昨日也曾愛著他.md) | [NeoDB](https://neodb.social/book/43g4Z0sOeETUNGFJKeMnX9) [豆瓣](https://book.douban.com/subject/10824791/) |
+| <img src="covers/x-10824791.jpg" width="60" loading="lazy"> | 昨日也曾愛著他 | 入間人間/左 | ★★☆☆☆ | 2026-04-02 | 水课在轻小说文库里偶然翻到遂把上下两本都看了 [全文](../reviews/book-10824791-昨日也曾愛著他.md) | [NeoDB](https://neodb.social/book/43g4Z0sOeETUNGFJKeMnX9) [豆瓣](https://book.douban.com/subject/10824791/) |
 | [封面](https://img9.doubanio.com/view/subject/s/public/s34758936.jpg) | 藤本树短篇集 17-21 | [日] 藤本树 | ★★★★★ | 2026-03-25 | 水课上读完了第二遍 [全文](../reviews/book-36639380-藤本树短篇集-17-21.md) | [NeoDB](https://neodb.social/book/018Pg2dgdK5do0NOV8GHce) [豆瓣](https://book.douban.com/subject/36639380/) |
 | — | 炎拳 | 藤本タツキ | ★★★★★ | 2026-03-18 | 第一遍是大一刚开学坐在操场上读完的，最近读完了第二遍，很短特的一部作品 [全文](../reviews/book-book-50TIwTCjd3UR1X5IEaB2Th-炎拳.md) | [NeoDB](https://neodb.social/book/50TIwTCjd3UR1X5IEaB2Th) |
 | [封面](https://img9.doubanio.com/view/subject/s/public/s34667686.jpg) | 雪国（2022） | [日] 川端康成 | ★★★★☆ | 2025-05-13 | 补标 [全文](../reviews/book-35818897-雪国（2022）.md) | [NeoDB](https://neodb.social/book/1qO0OJSarmlaMgLgeD8MT0) [豆瓣](https://book.douban.com/subject/35818897/) |
@@ -127,7 +127,7 @@
 
 | 封面 | 标题 | 作者/导演 | 评分 | 时间 | 短评 | 链接 |
 |---|---|---|---|---|---|---|
-| — | 米格尔街 | V.S.奈保尔 (V.S.Naipaul) | 未评分 | 2026-09-14 |  | [NeoDB](https://neodb.social/book/1aUnzR8EgYkXFJf5Ygn5nT) [豆瓣](https://book.douban.com/subject/21346008/) |
+| <img src="covers/x-21346008.jpg" width="60" loading="lazy"> | 米格尔街 | V.S.奈保尔 (V.S.Naipaul) | 未评分 | 2026-09-14 |  | [NeoDB](https://neodb.social/book/1aUnzR8EgYkXFJf5Ygn5nT) [豆瓣](https://book.douban.com/subject/21346008/) |
 | <img src="covers/x-33590444.jpg" width="60" loading="lazy"> | 生命与新物理学 | 【英国】保罗·戴维斯（Paul Davies） | 未评分 | 2026-08-20 |  | [NeoDB](https://neodb.social/book/0qugApnNnC0KUhn2QrLy97) [豆瓣](https://book.douban.com/subject/33590444/) |
 | <img src="covers/x-4618955.jpg" width="60" loading="lazy"> | 去吧，摩西 | [美] 威廉·福克纳 | 未评分 | 2026-05-27 |  | [NeoDB](https://neodb.social/book/2uX3YCfJZHV3VouXJZDrTU) [豆瓣](https://book.douban.com/subject/4618955/) |
 | <img src="covers/x-26952166.jpg" width="60" loading="lazy"> | 指匠 | [英] 萨拉·沃特斯 | 未评分 | 2026-04-01 |  | [NeoDB](https://neodb.social/book/3qHsZpvnxVVdumQ5zeWMGW) [豆瓣](https://book.douban.com/subject/26952166/) |
