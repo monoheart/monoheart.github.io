@@ -5,9 +5,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-25gEBsXGDFGsXYU1ataKGu.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">电锯人</div>
-<div class="media-author">中山龙/吉原达矢</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">中山龙、Tatsuya Yoshihara</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">チェンソーマン</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2022-10-11</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动作 / 动画</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">8</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -19,9 +25,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-2pctBXAnE1l4zdZJLtpxW4.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">绝命毒师 第五季</div>
-<div class="media-author">迈克尔·斯洛维斯、米歇尔·麦克拉伦、亚当·伯恩斯坦等</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">迈克尔·斯洛维斯、米歇尔·麦克拉伦 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Breaking Bad</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2012-07-15</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 犯罪</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">16</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -33,9 +45,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-6UCSSRLU5Qdd9MmH8sIFqz.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">绝命毒师 第四季</div>
-<div class="media-author">亚当·伯恩斯坦、米歇尔·麦克拉伦、大卫·斯雷德等</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">亚当·伯恩斯坦、米歇尔·麦克拉伦 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Breaking Bad</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2011-07-17</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 犯罪</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">13</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -47,9 +65,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-6L5z00kzyf1azBurjZ0cEK.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">安达与岛村</div>
-<div class="media-author">桑原智、矢花馨、吉村文宏等</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">桑原智、矢花馨 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">安達としまむら</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2020-10-09</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">爱情 / 动画 / 同性</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">12</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -61,9 +85,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-4bVyZkZaoNlogewapuc817.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">安达与岛村</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Akari Kito、Miku Ito 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">安達としまむら</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2020-10-09</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 喜剧 / 剧情</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -75,9 +104,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-5r6zBcSaLY8Z08Zwc6gqMV.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">迷宫饭</div>
-<div class="media-author">宫岛善博</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">宫岛善博</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ダンジョン飯</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2023-12-08</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 奇幻 / 冒险</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">24</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -89,9 +124,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-75MyuGLyRnRFsZ4nCuJzqF.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">迷宫饭</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Kentaro Kumagai、Sayaka Senbongi 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ダンジョン飯</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2024-01-04</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 动作冒险 / 科幻</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">21</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -103,9 +144,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-3AcEhHBoS9vyZABHQsCAb6.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">绝命毒师 第三季</div>
-<div class="media-author">布莱恩·克兰斯顿、亚当·伯恩斯坦、米歇尔·麦克拉伦等</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">布莱恩·科兰斯顿、Adam Bernstein 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Breaking Bad</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2010-03-21</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 犯罪</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">13</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -117,9 +164,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-1mXAyR60koQYq5kCM31SjN.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">绝命毒师 第一季</div>
-<div class="media-author">亚当·伯恩斯坦、文斯·吉利根、翠西亚·布洛克等</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Adam Bernstein、文斯·吉里根 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Breaking Bad</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2008-01-20</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 犯罪</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">7</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -131,9 +184,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-0hf3Ri6zjTS8KKMwNrVZx7.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">绝命毒师 第二季</div>
-<div class="media-author">亚当·伯恩斯坦、米歇尔·麦克拉伦、布莱恩·克兰斯顿等</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Adam Bernstein、米歇尔·麦克拉伦 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Breaking Bad</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2009-03-08</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 犯罪</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">13</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -145,9 +204,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-5QjxyOiGAJX5gpzpEmv72U.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">绝命毒师</div>
-<div class="media-author">/person/1WVYeB6BpLEA3Ui03SVRQ6</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Vince Gilligan</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Breaking Bad</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2008-01-20</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 犯罪</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">62</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -159,9 +224,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-3fmh0MBT2R8NmTHMU9jQmo.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">下流梗不存在的灰暗世界</div>
-<div class="media-author">铃木洋平、湖山祯崇、笹原嘉文等</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">铃木洋平、湖山祯崇 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">下ネタという概念が存在しない退屈な世界</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2015-07-04</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -173,9 +243,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-0Bfrb1Zaw3zlEwRixPAHxo.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">没有黄段子的无聊世界</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">石上静香、新井里美 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">下ネタという概念が存在しない退屈な世界</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2015-07-04</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -187,9 +262,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-3Sl6rGuf7hz6KqZj1FQWxD.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">异国日记</div>
-<div class="media-author">大城美幸</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">大城美幸</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">違国日記</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2026-01-04</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动画</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">13</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -201,9 +282,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-6eja39p5HBqWJiiQZcumqo.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">异国日记</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Miyuki Sawashiro、森风子 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">違国日記</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2026-01-04</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 剧情</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -215,9 +301,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-4w56ReWydrY9MLKiasBke6.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">白箱</div>
-<div class="media-author">水岛努、今泉贤一、菱川直树等</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Tsutomu Mizushima、今泉贤一 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">SHIROBAKO</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2014-10-09</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 动画</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">24</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -229,9 +321,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-3BJ9AxyM2z10thVAVYd5Tx.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">白箱</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Asami Takano、Juri Kimura 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">SHIROBAKO</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2014</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动画 / 喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -243,9 +340,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-4VG50NqArbZUHP7wtbUQ17.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">这个美术部有问题！</div>
-<div class="media-author">及川启/池端隆史/平峰义大/岩崎光洋/山本天志/冈村正弘/直</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">及川启、池端隆史 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">この美術部には問題がある！</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2016-07-07</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -257,9 +359,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-3cTilD1wZTJta2rml9yEp8.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">章鱼哔的原罪</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Kurumi Mamiya、Reina Ueda 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">タコピーの原罪</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2025-06-28</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 剧情 / 科幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -271,9 +378,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-4vILs2ReCChMjDhKQnOcep.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">时光流逝，饭菜依旧美味</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Hana Shimano、Ai Kakuma 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">日々は過ぎれど飯うまし</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2025-04-13</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -285,9 +397,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-1yxnm79oB2Dp6L91utjjKJ.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">我们不可能成为恋人！绝对不行。 (※似乎可行？)</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">中村栞奈、Saori Onishi 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2025-07-08</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -299,9 +416,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-0iaRfY9fWa2VFr7cvoX5TM.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">Lycoris Recoil: Friends are thieves of time.</div>
-<div class="media-author">—</div>
+
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2025</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 短片 / 喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -313,9 +434,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-5wwEZln4AngImoIbNaYVSZ.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">颂乐人偶</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Rico Sasaki、Yuzuki Watase 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">BanG Dream! Ave Mujica</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2025-01-02</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 剧情</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -327,9 +453,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-44dhebrxJeXcF7aSGSaN81.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">Lycoris Recoil</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Chika Anzai、Shion Wakayama 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">リコリス・リコイル</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2022-07-02</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -341,9 +472,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-1HJJ1FxIqTYyBev2lLLTZ4.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">境界的彼方</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Ayako Kawasumi、Yuri Yamaoka 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">境界の彼方</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2013</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动作冒险 / 动画 / 喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -355,9 +491,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-73MpSbwIWGNBEhIynRskhA.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">迷途之子!!!!!</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">羊宫妃那、立石凛 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">BanG Dream! It&#x27;s MyGO!!!!!</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2023-06-29</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 剧情</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -369,9 +510,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-1bvtfeCDnYbrruqekdao8k.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">少女乐队Cry</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Rina、Yuri 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ガールズバンドクライ</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2024-04-06</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 剧情</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -383,9 +529,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-2YGkGdpZ4HSAErbsAkNtN7.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">比宇宙更遥远的地方</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Inori Minase、Kana Hanazawa 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">宇宙よりも遠い場所</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2018</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 喜剧 / 剧情</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -397,9 +548,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-4Rs26OQ53esongvgABUm1b.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">少女终末旅行</div>
-<div class="media-author">つくみず/尾崎隆晴</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">つくみず、Takaharu Ozaki</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">少女終末旅行</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2017-10-06</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">悬疑 / 动作冒险 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -411,9 +567,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-3ybwEBIdl6agZ8Gw9HsrBt.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">败犬女主太多了！</div>
-<div class="media-author">Takibi Amamori</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Takibi Amamori</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">負けヒロインが多すぎる！</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2024-07-14</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -425,9 +586,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-0cwXxlUlZlnhTayRYF7skY.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">我的青春恋爱物语果然有问题。 (我的青春恋爱物语果然有问题 第二季 续)</div>
-<div class="media-author">及川启、高桥知也、池端隆史等</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">及川启、Tomoya Takahashi 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">やはり俺の青春ラブコメはまちがっている。続</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2015-04-02</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动画</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">13</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -439,9 +606,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-05dRijFA2AlAqRH7iaINhq.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">我的青春恋爱物语果然有问题。 (我的青春恋爱物语果然有问题)</div>
-<div class="media-author">吉村爱、高桥秀弥、有富兴二等</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Ai Yoshimura、Hideya Takahashi 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">やはり俺の青春ラブコメはまちがっている。</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2013-04-04</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 爱情 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -453,9 +625,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-0wv3va1urLlQMAWdHtB32x.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">我的青春恋爱物语果然有问题。 (我的青春恋爱物语果然有问题 第三季 完)</div>
-<div class="media-author">及川启</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">及川启</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">やはり俺の青春ラブコメはまちがっている。完</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2020-07-09</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">爱情 / 动画</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">12</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -467,9 +645,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-0QiePF8j8n9DQUS9PKdiuV.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">来自深渊：烈日的黄金乡</div>
-<div class="media-author">小岛正幸</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Masayuki Kojima</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">メイドインアビス 烈日の黄金郷</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2022-07-06</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动画 / 冒险</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">12</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -481,9 +665,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-00ihYcB4WqIhFADD8O7sNU.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">动物新世代</div>
-<div class="media-author">/person/4eb7vLYbX78uxoqMPsa9rw</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Kazuki Nakashima</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">BNA ビー・エヌ・エー</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2020-04-09</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 动作冒险 / 科幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -495,9 +684,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-1kxv6KWIAzcGeCKolKMw8V.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">来自深渊</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Miyu Tomita、Mariya Ise 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">メイドインアビス</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2017</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 剧情 / 动作</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -509,9 +703,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-5noZz25nBmIEPMJVGV8cKD.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">瑞克和莫蒂 第四季</div>
-<div class="media-author">雅各布·海尔、艾丽卡·海耶斯</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">雅各布·海尔、艾丽卡·海斯</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Rick and Morty</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2019-11-10</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">科幻 / 动画 / 冒险</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">10</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -523,9 +723,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-6gxHyds5NBA9ELZhoPOCVV.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">瑞克和莫蒂 第五季</div>
-<div class="media-author">贾斯汀·罗兰</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">贾斯汀·罗兰</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Rick and Morty</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2021-06-20</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 科幻 / 动画</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">10</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -537,9 +743,12 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-episode-0xeNnoWbtd5BDSLPgGuNtF.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">第1集</div>
-<div class="media-author">—</div>
+
+<div class="media-facts">
+
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -551,9 +760,12 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-episode-4MqKeWyMaZRPrzjN1A96Qd.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">第1集</div>
-<div class="media-author">—</div>
+
+<div class="media-facts">
+
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -565,9 +777,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-1mn1NuIAnKsDkLUTmDhE0r.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">玉子市场</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Aya Suzaki、Rina Hidaka 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">たまこまーけっと</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2013-01-10</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -579,9 +796,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-6TNfzQZ1DYzSt0Pc716wQ1.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">新世纪福音战士</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">编剧</span><span class="media-author-v">Hideaki Anno</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">新世紀エヴァンゲリオン</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">1995-10-04</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">科幻 / 奇幻 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -593,9 +815,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-2wxMqFipwGwHkrEswmD6Ar.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">冰果</div>
-<div class="media-author">武本康弘/木上益治/石原立也/山田尚子/石立太一/北之原孝将</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Yasuhiro Takemoto、木上益治 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">氷菓</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2012</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 悬疑</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">22</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -607,9 +835,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-3xZm9T5OLsoJeat1KI9R4o.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">樱花庄的宠物女孩</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Yoshitsugu Matsuoka、Ai Kayano 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">さくら荘のペットな彼女</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2012-10-09</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -621,9 +854,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-6ZAS8SyCCyp2MgvL69PAlO.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">孤独摇滚！</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Yoshino Aoyama、Sayumi Suzushiro 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ぼっち・ざ・ろっく！</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2022-10-09</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -635,9 +873,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-6VWP6HIIxzAgihuOWk2CSQ.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">疯狂动物城+</div>
-<div class="media-author">—</div>
+
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Zootopia+</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2022</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 家庭 / 动作冒险</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -649,9 +892,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-3Dqn1qPiRZqmZqUQ0v1GXT.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">赛博朋克：边缘行者</div>
-<div class="media-author">/person/5bp058t91vNvuHmOgei3ee</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Hiroyuki Imaishi</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Cyberpunk: Edgerunners</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2022-09-13</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">科幻 / 动画</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">10</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -663,9 +912,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-5uPXMaPaTU0q7P91axFcb0.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">瑞克和莫蒂</div>
-<div class="media-author">/person/6Y1KjVJrPk7wqJWMZ6scF0</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Dan Harmon、Justin Roiland</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Rick and Morty</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2013-12-02</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 喜剧 / 科幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -677,9 +931,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-6scbRb82MKHOshrjL93GMk.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">功勋</div>
-<div class="media-author">—</div>
+
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2021-09-26</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -691,9 +949,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-74ZQUjZuJK8tQdhCNcWrBm.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">动物狂想曲 第二季</div>
-<div class="media-author">松见真一、则座诚、下司泰弘</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Shinichi Matsumi</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">BEASTARS 2nd Season</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2021-01-06</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">12</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -705,9 +969,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-6Ge0kzTPYzfUdyXpdAF59Z.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">动物狂想曲</div>
-<div class="media-author">—</div>
+<div class="media-author"><span class="media-author-k">主演</span><span class="media-author-v">Chikahiro Kobayashi</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ビースターズ</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2019-10-10</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 剧情 / 悬疑</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -719,9 +988,15 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-season-72HJDhrt816bT0CwDUGVjD.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">去他*的世界 第二季</div>
-<div class="media-author">戴斯特尼·埃卡拉加、露西·福布斯</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">戴斯特尼·埃卡拉加、露西·福布斯</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The End of the F***ing World</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2019-11-04</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 喜剧 / 爱情</span></div>
+<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">8</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -733,9 +1008,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-tv-6RVeKzVWuWRvGS5C6P6gAT.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">去他*的世界</div>
-<div class="media-author">/person/5FiWW9aAlU7GXWHEv2zjbX</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Jonathan Entwistle</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The End of the F***ing World</span></div>
+<div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2017-10-24</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 剧情 / 犯罪</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">

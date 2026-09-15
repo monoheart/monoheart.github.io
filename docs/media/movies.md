@@ -5,9 +5,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-1AxUFeaDV4H5N5IcwtWnFk.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">夏日幽灵</div>
-<div class="media-author">loundraw</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Loundraw</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">サマーゴースト</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2021-11-12</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 剧情 / 悬疑</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -19,9 +24,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-2Ff9EIa95mO2huHIEH35cK.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">白箱剧场版</div>
-<div class="media-author">水岛努</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Tsutomu Mizushima</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">劇場版 SHIROBAKO</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2020-02-29</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 喜剧 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -33,9 +43,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-663Gu3KlrQArAfC574vbvk.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">奇异世界</div>
-<div class="media-author">唐·霍尔、阮基</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Don Hall、Qui Nguyen</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Strange World</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2022-11-23</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 冒险</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -47,9 +62,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-7jpkuuGTX6Bn2stDQdPYyB.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">关于莉莉周的一切</div>
-<div class="media-author">岩井俊二</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">岩井俊二</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">リリイ·シュシュのすべて</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2001-09-07</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -61,9 +81,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-6D1PGu699aqZWUvEtRZRQ1.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">的士速递5</div>
-<div class="media-author">弗兰克·盖思堂彼得</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">弗兰克·盖思堂彼得</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Taxi 5</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2018-04-11</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 动作 / 犯罪</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -75,9 +100,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-33LWgbD3AIK7K8wSxAhtTp.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">搏击俱乐部</div>
-<div class="media-author">大卫·芬奇</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">David Fincher</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Fight Club</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">1999-09-10</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动作 / 悬疑</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -89,9 +119,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-3kKxQBRSQcUI7ad7Y58fIM.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">超时空辉夜姬</div>
-<div class="media-author">山下清悟</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">山下清悟</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">超かぐや姫！</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2026-01-21</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 音乐 / 奇幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -103,9 +138,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-7X8ORDDXGsiUkk0mkKDJoQ.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">我怎么可能成为你的恋人，不行不行！（※不是不可能！？） 剧场版</div>
-<div class="media-author">内沼菜摘</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Natsumi Uchinuma</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）～ネクストシャイン！～</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2025-11-21</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 动画 / lgbtq</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -117,9 +157,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-5NAjaDqAgZeZ3ZzzPAkYEW.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">电锯人 - 剧场版：蕾塞篇</div>
-<div class="media-author">/person/3w5mgvyeOIOWNaOshEbMnX</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Tatsuya Yoshihara</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">チェンソーマン レゼ篇</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2025-09-19</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 动作 / 奇幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -131,9 +176,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-3c1kyDKUvemvvxWRAKVAt6.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">疯狂动物城2</div>
-<div class="media-author">杰拉德·布什、拜伦·霍华德</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">拜伦·霍华德、Jared Bush</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Zootopia 2</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2025-11-26</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 动画 / 悬疑</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -145,9 +195,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-2OZY3PuhyBar8Os53mFvsK.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">剧场总集篇 『孤独摇滚！』 Re:Re:</div>
-<div class="media-author">斋藤圭一郎</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Keiichiro Saito</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">劇場総集編ぼっち・ざ・ろっく！ Re:Re:</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2024</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动画 / 音乐</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -159,9 +214,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-0jp4OnkuXk8b0abwW4Anea.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">剧场总集篇 『孤独摇滚！』 Re:</div>
-<div class="media-author">斋藤圭一郎</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Keiichiro Saito</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">劇場総集編ぼっち・ざ・ろっく！ Re:</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2024</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 音乐</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -173,9 +233,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-2r0tdYNi9CW69JXlsgDiS8.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">大佛普拉斯</div>
-<div class="media-author">黄信尧</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Huang Hsin-yao</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2017-06-29</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -187,9 +251,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-3ULeoeK0CuJHa1h2bt7ZeK.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">天气之子</div>
-<div class="media-author">新海诚</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">新海诚</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">天気の子</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2019-07-19</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">爱情 / 动画 / 奇幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -201,9 +270,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-2vE4NFmmigU2ofsivNOdcG.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">星际穿越</div>
-<div class="media-author">克里斯托弗·诺兰</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Christopher Nolan</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Interstellar</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2014-11-05</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">冒险 / 剧情 / 科幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -215,9 +289,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-2U8yMOgmiYTtZdxyvrCmBU.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">蓦然回首</div>
-<div class="media-author">押山清高</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Kiyotaka Oshiyama</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ルックバック</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2024-06-10</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -229,9 +308,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-7TjcwpRxvBblxskweu2EFo.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">天空之城</div>
-<div class="media-author">宫崎骏</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Hayao Miyazaki</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">天空の城ラピュタ</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">1986-08-02</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 奇幻 / 冒险</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -243,9 +327,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-3jJ1q0HEw6WyDGA6EzZ05F.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">来自深渊：深魂的黎明</div>
-<div class="media-author">小岛正幸</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Masayuki Kojima</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">劇場版 メイドインアビス 深き魂の黎明</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2020-01-17</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -257,9 +346,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-3QjgE0V4yaQGbcjGtpvRIz.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">绿皮书</div>
-<div class="media-author">彼得·法雷里</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Peter Farrelly</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Green Book</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2018-11-16</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 历史</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -271,9 +365,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-6lOhfXTJjHLL6gAJk0Le3X.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">言语如苏打般涌现</div>
-<div class="media-author">石黑恭平</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Kyohei Ishiguro</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">サイダーのように言葉が湧き上がる</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2020-07-25</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -285,9 +384,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-00QcJRBFuFvrsfE5gUzpOB.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">秒速5厘米</div>
-<div class="media-author">新海诚</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">新海诚、Chise Niitsu</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">秒速5センチメートル</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2007-03-03</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 爱情 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -299,9 +403,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-2yRHCS7gP1d89K58GkRh8K.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">海上钢琴师</div>
-<div class="media-author">朱塞佩·托纳多雷</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Giuseppe Tornatore</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">La leggenda del pianista sull&#x27;oceano</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">1998-10-28</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 音乐</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -313,9 +422,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-0MVNOUeqG77f37182CaLQs.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">利兹与青鸟</div>
-<div class="media-author">山田尚子</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Naoko Yamada</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">リズと青い鳥</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2018-04-21</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动画 / 音乐</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -327,9 +441,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-2USX4wkzGQX2uuHiwrAZKN.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">再见了所有的福音战士！庵野秀明的1214日～</div>
-<div class="media-author">/person/2VL00QFZXDU4HKGaLwktXZ</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Aki Kubota</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">さようなら全てのエヴァンゲリオン～庵野秀明の1214日～</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2021-04-29</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">纪录片</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -341,9 +460,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-5WriphvgP142tnUmMcAs44.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">玉子爱情故事</div>
-<div class="media-author">山田尚子</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Naoko Yamada</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">たまこラブストーリー</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2014-04-26</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 爱情 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -355,9 +479,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-7Z7wwprWqr4J6c5aX9LuoG.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">福音战士新剧场版：破</div>
-<div class="media-author">庵野秀明、摩砂雪、鹤卷和哉</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Hideaki Anno、Masayuki 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ヱヴァンゲリヲン新劇場版：破</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2009-06-27</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 科幻 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -369,9 +498,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-1RXkTv6F3WLxS82XxvQYXu.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">新·福音战士剧场版：终</div>
-<div class="media-author">庵野秀明、鹤卷和哉、中山胜一等</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Hideaki Anno、Kazuya Tsurumaki 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">シン・エヴァンゲリオン劇場版:│▌</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2021-03-08</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 科幻 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -383,9 +517,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-1eiJZ5c3kW3dN0N7c2zMvf.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">福音战士新剧场版：Q</div>
-<div class="media-author">庵野秀明、摩砂雪、前田真宏等</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Hideaki Anno、Masayuki 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ヱヴァンゲリヲン新劇場版：Q</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2012-11-17</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 科幻 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -397,9 +536,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-6tNNgF982mcDPHXUM8Bj4K.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">信条</div>
-<div class="media-author">克里斯托弗·诺兰</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Christopher Nolan</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Tenet</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2020-08-26</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动作 / 科幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -411,9 +555,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-4Xj7ObTh25cyYgQvQQNoDp.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">福音战士新剧场版：序</div>
-<div class="media-author">庵野秀明、摩砂雪、鹤卷和哉</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Hideaki Anno、Masayuki 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ヱヴァンゲリヲン新劇場版：序</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2007-09-01</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 科幻 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -425,9 +574,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-7LXcnrlommYYE4oSom6OXI.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">蜘蛛侠：平行宇宙</div>
-<div class="media-author">鲍勃·佩尔西凯蒂、彼得·拉姆齐、罗德尼·罗斯曼</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Bob Persichetti、Peter Ramsey 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Spider-Man: Into the Spider-Verse</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2018-12-14</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动作 / 科幻 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -439,9 +593,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-4h8SqKxaMXdKF1ADrLeygX.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">新世纪福音战士剧场版：Air/真心为你</div>
-<div class="media-author">庵野秀明、鹤卷和哉</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Hideaki Anno、Kazuya Tsurumaki</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">新世紀エヴァンゲリオン劇場版 Air/まごころを、君に</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">1997-07-19</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 科幻 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -453,9 +612,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-6TvJKU2rJ5SoJSeTLwdDdv.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">蜘蛛侠：纵横宇宙</div>
-<div class="media-author">乔伊姆·多斯·桑托斯、凯普·鲍尔斯、贾斯汀·汤普森</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Kemp Powers、Justin K. Thompson 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Spider-Man: Across the Spider-Verse</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2023-05-31</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 动作 / 冒险</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -467,9 +631,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-0ahGgBuN8ClGcZTRP5RQhw.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">未命名</div>
-<div class="media-author">—</div>
+
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">中国奇谭</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2023</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 奇幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -481,9 +650,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-3TsObdZyDbLC36WYU7wgxA.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">芬奇</div>
-<div class="media-author">米格尔·萨普什尼克</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Miguel Sapochnik</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Finch</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2021-11-05</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 科幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -495,9 +669,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-4JVspcTxu4MPhpPpSQCivw.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">铃芽户缔</div>
-<div class="media-author">新海诚</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">新海诚</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">すずめの戸締まり</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2022-11-11</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 剧情 / 冒险</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -509,9 +688,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-3JnHB0yaMtrOh1c2myeNNW.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">大卫·科波菲尔</div>
-<div class="media-author">彼得·梅达克</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">彼得·梅达克</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">David Copperfield</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2000-12-10</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -523,9 +707,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-5GSE05lhEAWdaQ14bg4Wyp.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">焦裕禄</div>
-<div class="media-author">王冀邢</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Wang Jixing</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">1990</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 传记</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -537,9 +725,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-0OsXZTIt1UOOveQi3UXBil.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">盗梦空间</div>
-<div class="media-author">克里斯托弗·诺兰</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Christopher Nolan</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Inception</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2010-07-16</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 科幻 / 悬疑</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -551,9 +744,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-0G0lGYudHWXsLflicUIaKK.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">大鱼海棠</div>
-<div class="media-author">梁旋、张春</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Liang Xuan、Zhang Chun</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2016-07-08</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动画 / 奇幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -565,9 +762,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-7aXtqaA4yxXqyQa8WQqvUG.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">惊天魔盗团2</div>
-<div class="media-author">朱浩伟</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Jon M. Chu</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Now You See Me 2</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2016-06-10</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 悬疑 / 犯罪</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -579,9 +781,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-27MVbLkD7Rj0kaeK5NNAC3.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">百万英镑</div>
-<div class="media-author">罗纳德·尼姆</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Ronald Neame</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The Million Pound Note</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">1954-01-07</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 爱情</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -593,9 +800,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-5rMGwfiJkuMTmkLEID5uYh.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">美丽人生</div>
-<div class="media-author">罗伯托·贝尼尼</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">罗伯托·贝尼尼</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">La vita è bella</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">1997-12-20</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 喜剧 / 爱情</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -607,9 +819,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-2AhPXx5aklxBDvaaISObKP.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">孔子</div>
-<div class="media-author">胡玫</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Hu Mei</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2010-01-22</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 传记 / 历史</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -621,9 +837,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-50MpKxX2cGuze2MEt3AuyM.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">缝纫机乐队</div>
-<div class="media-author">大鹏</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Dong Chengpeng</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2017-09-29</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 音乐</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -635,9 +855,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-1BcyoGPxN7nvquNDbgJuHA.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">长津湖</div>
-<div class="media-author">陈凯歌、徐克、林超贤</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Chen Kaige、Tsui Hark 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2021-09-30</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 历史 / 战争</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -649,9 +873,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-5DcLlWAneTa5TrQKKa3eG2.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">毒液：致命守护者</div>
-<div class="media-author">鲁本·弗雷斯彻</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Ruben Fleischer</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Venom</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2018-10-05</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动作 / 科幻 / 惊悚</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -663,9 +892,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-1Q3ZY6pi92thyDEElsSyLP.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">境界的彼方 剧场版 未来篇</div>
-<div class="media-author">石立太一</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Ishidate Taichi</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">劇場版 境界の彼方 I’LL BE HERE 未来篇</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2015-04-25</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 奇幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -677,9 +911,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-2adir8obv05uu58h3iR9JY.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">昨日青空</div>
-<div class="media-author">奚超</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">奚超</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2018-10-26</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">爱情 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -691,9 +929,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-0JHvwat1NQ2yPskcpaWD9G.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">青春猪头少年不会梦到怀梦美少女</div>
-<div class="media-author">增井壮一</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Soichi Masui</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">青春ブタ野郎はゆめみる少女の夢を見ない</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2019-06-15</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 爱情 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -705,9 +948,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-5zfBQdxe52Ruq5XQB4XcLC.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">烟花</div>
-<div class="media-author">新房昭之、武内宣之</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Akiyuki Shinbo、Nobuyuki Takeuchi</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">打ち上げ花火、下から見るか？横から見るか？</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2017-08-18</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -719,9 +967,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-3IQmTFFa0x5116fDRInyY2.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">我想吃掉你的胰脏</div>
-<div class="media-author">牛岛新一郎</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Shinichiro Ushijima</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">君の膵臓をたべたい</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2018-09-01</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">爱情 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -733,9 +986,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-00mRnUS4JukAU8091gvE1H.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哪吒之魔童降世</div>
-<div class="media-author">饺子</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Jokelate</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2019-07-13</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 喜剧 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -747,9 +1004,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-5gIyRcPU8vDbyw1sQeRs4Z.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">帕丁顿熊2</div>
-<div class="media-author">保罗·金</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Paul King</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Paddington 2</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2017-11-10</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 动画 / 家庭</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -761,9 +1023,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-2UJhthFDB9Igi76nQG1XUC.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">夏目友人帐：结缘空蝉</div>
-<div class="media-author">大森贵弘、伊藤秀树</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Takahiro Omori、Hideki Ito</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">劇場版 夏目友人帳 ～うつせみに結ぶ～</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2018-09-29</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动画 / 奇幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -775,9 +1042,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-4Z8i1iyhJFzuFxsYM3whzj.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">声之形</div>
-<div class="media-author">山田尚子</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Naoko Yamada</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">聲の形</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2016-09-17</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 爱情 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -789,9 +1061,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-5A5D6rCYElhlCIwKsvrMax.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">言叶之庭</div>
-<div class="media-author">新海诚</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">新海诚</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">言の葉の庭</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2013-05-31</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">爱情 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -803,9 +1080,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-3LMDlofw61HXQDdJitCAVr.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">美食总动员</div>
-<div class="media-author">布拉德·伯德、简·皮克瓦</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Brad Bird、简·皮克瓦</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Ratatouille</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2007-06-29</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 动画 / 奇幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -817,9 +1099,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-0KwCU1TINg9w0Nb54S8ew0.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">消失的爱人</div>
-<div class="media-author">大卫·芬奇</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">David Fincher</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Gone Girl</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2014-09-26</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 悬疑 / 惊悚</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -831,9 +1118,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-6FpTOxsFDSGT97gAIudALr.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">流浪地球</div>
-<div class="media-author">郭帆</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Frant Gwo</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2019-02-05</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">科幻 / 冒险 / disaster</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -845,9 +1136,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-0WgEM5OyiAV60XZsrDyjYd.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">疯狂动物城</div>
-<div class="media-author">拜伦·霍华德、瑞奇·摩尔、杰拉德·布什</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">拜伦·霍华德、瑞奇·摩尔 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Zootopia</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2016-03-04</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 动画 / 冒险</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -859,9 +1155,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-78hXBnbUuPhcRn1igYZF6F.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">怦然心动</div>
-<div class="media-author">罗伯·莱纳</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Rob Reiner</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Flipped</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2010-07-26</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 喜剧 / 爱情</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -873,9 +1174,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-3V4pKFHRBYvdsH1HSoe5m3.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">寻梦环游记</div>
-<div class="media-author">李·昂克里奇、阿德里安·莫利纳</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">李·昂克里奇、阿德里安·莫利纳</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Coco</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2017-11-22</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 动画 / 音乐</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -887,9 +1193,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-7YokK8HuhFi8EwCtl7lGM5.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">摔跤吧！爸爸</div>
-<div class="media-author">涅提·蒂瓦里</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Nitesh Tiwari</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Dangal</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2016-12-23</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 家庭 / 传记</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -901,9 +1212,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-0c0WkLq3zobatTWPrKagFP.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">你的名字。</div>
-<div class="media-author">新海诚</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">新海诚</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">君の名は。</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2016-08-26</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 爱情 / 动画</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -915,9 +1231,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-6fL5ox33A5OoM1OdUarTqn.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">放牛班的春天</div>
-<div class="media-author">克里斯托夫·巴哈蒂</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Christophe Barratier</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Les choristes</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2004-03-17</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 喜剧 / 音乐</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -929,9 +1250,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-7I0X1RnNmIc8PEOnGsjJ5G.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">大话西游之月光宝盒</div>
-<div class="media-author">刘镇伟</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Jeffrey Lau Chun-Wai</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">西遊記第壹佰零壹回之月光寶盒</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">1995-01-21</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 爱情 / 奇幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -943,9 +1269,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-0q3PQhCOfJbmp4yY5qoL31.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">西虹市首富</div>
-<div class="media-author">闫非、彭大魔</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Yan Fei、Peng Damo</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2018-07-27</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -957,9 +1287,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-41bYRpQkGrnC1kRYyL4BmS.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">蝙蝠侠：黑暗骑士</div>
-<div class="media-author">克里斯托弗·诺兰</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Christopher Nolan</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The Dark Knight</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2008-07-14</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动作 / 科幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -971,9 +1306,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-2bpb2kiVZvX9xUcTQPmPij.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">心灵奇旅</div>
-<div class="media-author">彼特·道格特、凯普·鲍尔斯</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Pete Docter、凯普·鲍尔斯</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Soul</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2020-10-11</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 音乐 / 奇幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -985,9 +1325,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-7XDaPG0mH3MdEgmoFs4SRh.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特与魔法石</div>
-<div class="media-author">克里斯·哥伦布</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Chris Columbus</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter and the Sorcerer&#x27;s Stone</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">2001-11-04</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">奇幻 / 冒险</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -999,9 +1344,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-70XFNgP9EiqlvREPNVbT7O.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">大话西游之大圣娶亲</div>
-<div class="media-author">刘镇伟</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">Jeffrey Lau Chun-Wai</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">西遊記大結局之仙履奇緣</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">1995-02-04</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 爱情 / 奇幻</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1013,9 +1363,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-movie-3SohF1ozWD2KgLfHbMYBSK.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">狮子王</div>
-<div class="media-author">罗杰·阿勒斯、罗伯·明可夫</div>
+<div class="media-author"><span class="media-author-k">导演</span><span class="media-author-v">罗杰·阿勒斯、Rob Minkoff</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The Lion King</span></div>
+<div class="media-fact"><span class="media-fact-k">上映</span><span class="media-fact-v">1994-06-15</span></div>
+<div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 歌舞 / 冒险</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">

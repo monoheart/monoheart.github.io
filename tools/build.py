@@ -20,8 +20,79 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import media_lib as lib
 
 META_PATH = os.path.join(lib.CACHE_DIR, "meta.json")
+NEODB_META_PATH = os.path.join(lib.CACHE_DIR, "neodb_meta.json")
 FAIL_PATH = os.path.join(lib.CACHE_DIR, "failures.json")
 UA_BASE = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) monoheart-media/1.0"
+
+# NeoDB API 缓存保留字段
+ND_KEEP = ("display_title", "orig_title", "title", "subtitle", "director", "author",
+           "playwright", "actor", "producer", "developer", "publisher", "translator",
+           "genre", "tags", "release_date", "year", "pub_year", "pub_month",
+           "season_number", "episode_count", "duration", "length", "platform",
+           "area", "language", "origin_country", "isbn", "pages", "binding",
+           "price", "series", "imprint", "brief")
+
+# 常见类型英文 slug -> 中文
+GENRE_ZH = {
+    "animation": "动画", "comedy": "喜剧", "drama": "剧情", "action": "动作",
+    "sci-fi": "科幻", "science fiction": "科幻", "thriller": "惊悚", "crime": "犯罪",
+    "adventure": "冒险", "fantasy": "奇幻", "romance": "爱情", "mystery": "悬疑",
+    "music": "音乐", "musical": "歌舞", "horror": "恐怖", "documentary": "纪录片",
+    "history": "历史", "war": "战争", "family": "家庭", "biography": "传记",
+    "western": "西部", "sport": "运动", "short": "短片", "reality": "真人秀",
+    "talk": "脱口秀", "news": "新闻", "gay/lesbian": "同性", "slice of life": "日常",
+    "mecha": "机甲", "supernatural": "超自然", "psychological": "心理", "school": "校园",
+    "puzzle": "解谜", "platformer": "平台", "rpg": "角色扮演", "shooter": "射击",
+    "simulation": "模拟", "strategy": "策略", "racing": "竞速", "fighting": "格斗",
+    "indie": "独立", "arcade": "街机", "casual": "休闲", "ecchi": "擦边",
+}
+MEDIUM_AUTHOR_KEY = {"book": "author", "movie": "director", "tv": "director", "game": "developer"}
+
+
+def load_neodb_meta():
+    if os.path.exists(NEODB_META_PATH):
+        with open(NEODB_META_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
+def save_neodb_meta(cache):
+    os.makedirs(lib.CACHE_DIR, exist_ok=True)
+    with open(NEODB_META_PATH, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=0)
+
+
+def fetch_neodb_meta_api(neodb_id, timeout=25):
+    url = f"https://neodb.social/api/{neodb_id}"
+    req = urllib.request.Request(url, headers={"User-Agent": UA_BASE, "Referer": "https://neodb.social/"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        data = json.loads(r.read().decode("utf-8", "ignore"))
+    return {k: data[k] for k in ND_KEEP if k in data and data[k] not in (None, [], "")}
+
+
+def as_list(v):
+    if v is None:
+        return []
+    return v if isinstance(v, list) else [v]
+
+
+def names(values, limit=2):
+    vals = [str(v).strip() for v in as_list(values) if v and not str(v).startswith("/")]
+    if not vals:
+        return ""
+    out = "、".join(vals[:limit])
+    if len(vals) > limit:
+        out += " 等"
+    return out
+
+
+def genre_text(genres):
+    out = []
+    for g in as_list(genres):
+        g = str(g).strip()
+        if g:
+            out.append(GENRE_ZH.get(g.lower(), g))
+    return " / ".join(out[:3])
 
 
 def headers_for(url):
@@ -119,8 +190,83 @@ def cover_block(cover, prefix="../"):
     return '<div class="media-cover media-cover--empty">无封面</div>'
 
 
+def creator_text(medium, row, subject, nd):
+    """返回 (角色, 名字)。优先 NeoDB API，逐级回退，尽量避免空。"""
+    nd = nd or {}
+    role_order = {
+        "book": [("author", "作者"), ("translator", "译者")],
+        "movie": [("director", "导演"), ("playwright", "编剧"), ("actor", "主演")],
+        "tv": [("director", "导演"), ("playwright", "编剧"), ("actor", "主演")],
+        "game": [("developer", "开发商"), ("publisher", "发行商")],
+    }.get(medium, [])
+    for key, label in role_order:
+        if nd.get(key):
+            got = names(nd[key], 2)
+            if got:
+                return label, got
+    if subject:
+        info = subject.get("info", {}) or {}
+        for k, label in (("作者", "作者"), ("导演", "导演"), ("艺术家", "艺术家")):
+            if info.get(k):
+                return label, names(info[k], 2)
+    raw = (row.get("info") or "")
+    for pat, label in ((r"author:(.+?)(?: pub_year|$)", "作者"),
+                       (r"director:(.+?)(?: season_number|$)", "导演")):
+        m = re.search(pat, raw)
+        if m:
+            val = m.group(1).strip()
+            if val and not val.startswith("/person/"):
+                return label, val
+    return "", ""
+
+
+def facts_list(medium, nd, local_title):
+    """封面右侧的补充信息：原作名 / 发行日期 / 类型 等，仅保留有值的。"""
+    facts = []
+    orig = (nd or {}).get("orig_title")
+    if orig and str(orig).strip() and str(orig).strip() != (local_title or "").strip():
+        facts.append(("原作名", str(orig).strip()))
+    if medium == "book":
+        y = (nd or {}).get("pub_year")
+        mo = (nd or {}).get("pub_month")
+        if y:
+            facts.append(("出版", f"{y}-{str(mo).zfill(2)}" if mo else str(y)))
+        pub = names((nd or {}).get("publisher"), 2)
+        if pub:
+            facts.append(("出版社", pub))
+    elif medium == "tv":
+        rd = (nd or {}).get("release_date") or (nd or {}).get("year")
+        if rd:
+            facts.append(("首播", str(rd)[:10]))
+        g = genre_text((nd or {}).get("genre"))
+        if g:
+            facts.append(("类型", g))
+        ec = (nd or {}).get("episode_count")
+        if ec:
+            facts.append(("集数", str(ec)))
+    elif medium == "movie":
+        rd = (nd or {}).get("release_date") or (nd or {}).get("year")
+        if rd:
+            facts.append(("上映", str(rd)[:10]))
+        g = genre_text((nd or {}).get("genre"))
+        if g:
+            facts.append(("类型", g))
+    else:  # game
+        rd = (nd or {}).get("release_date") or (nd or {}).get("year")
+        if rd:
+            facts.append(("发行", str(rd)[:10]))
+        g = genre_text((nd or {}).get("genre"))
+        if g:
+            facts.append(("类型", g))
+        plat = names((nd or {}).get("platform"), 3)
+        if plat:
+            facts.append(("平台", plat))
+    return facts
+
+
 def card_html(r, subject, medium, reviews):
     rev = reviews.get(r["_key"])
+    nd = r.get("_nd") or {}
     if rev:
         fm, body = rev["fm"], rev["body"]
         rating = lib.STARS_TO_CSV.get(fm.get("rating"), "") if fm.get("rating") is not None else ""
@@ -131,7 +277,14 @@ def card_html(r, subject, medium, reviews):
         comment = esc_multi(r.get("comment", ""))
     if not comment:
         comment = '<span class="media-comment--empty">（暂无短评）</span>'
-    author = lib.author_line(medium, r, subject) or "—"
+    title = (r.get("title") or "未命名").strip()
+    role, cname = creator_text(medium, r, subject, nd)
+    if cname:
+        author_html = (f'<div class="media-author"><span class="media-author-k">{esc(role)}</span>'
+                       f'<span class="media-author-v">{esc(cname)}</span></div>')
+    else:
+        author_html = ""
+    facts = facts_list(medium, nd, title)
     meta_bits = [stars]
     date = (r.get("timestamp") or "")[:10]
     if date:
@@ -146,13 +299,17 @@ def card_html(r, subject, medium, reviews):
     meta_line = " · ".join(meta_bits)
     if links:
         meta_line += " · " + " ".join(links)
+    facts_html = "\n".join(
+        f'<div class="media-fact"><span class="media-fact-k">{esc(k)}</span>'
+        f'<span class="media-fact-v">{esc(v)}</span></div>' for k, v in facts)
     return (
         '<div class="media-card">\n'
         '<div class="media-head">\n'
         f'{cover_block(r["_cover"])}\n'
-        '<div class="media-titles">\n'
-        f'<div class="media-title">{esc(r.get("title") or "未命名")}</div>\n'
-        f'<div class="media-author">{esc(author)}</div>\n'
+        '<div class="media-info">\n'
+        f'<div class="media-title">{esc(title)}</div>\n'
+        f'{author_html}\n'
+        f'<div class="media-facts">\n{facts_html}\n</div>\n'
         "</div>\n"
         "</div>\n"
         '<div class="media-body">\n'
@@ -166,9 +323,11 @@ def card_html(r, subject, medium, reviews):
 def build(fetch_missing=False):
     subjects = lib.load_subjects()
     meta = load_meta()
+    ndcache = load_neodb_meta()
     reviews = lib.load_reviews()
     failures = []
     all_rows = []
+    nd_new = 0
     for medium in lib.MEDIUMS:
         rows = lib.load_csv_rows(medium)
         for row in rows:
@@ -176,6 +335,17 @@ def build(fetch_missing=False):
             row["_key"] = lib.row_key(medium, row)
             row["_douban"] = lib.extract_douban_id(row.get("links", ""))
             row["_subject"] = subjects.get(row["_douban"]) if row["_douban"] else None
+            nid = lib.extract_neodb_id(row.get("links", ""))
+            row["_neodb_id"] = nid
+            row["_nd"] = ndcache.get(nid, {}) if nid else {}
+            if nid and nid not in ndcache:  # 新条目：自动抓一次 API 元数据
+                try:
+                    time.sleep(0.5)
+                    ndcache[nid] = fetch_neodb_meta_api(nid)
+                    row["_nd"] = ndcache[nid]
+                    nd_new += 1
+                except Exception as e:
+                    meta.setdefault("_errors", {})["meta:" + nid] = str(e)[:120]
             row["_cover"] = ensure_cover(row, row["_subject"], meta, medium,
                                          fetch_missing=True)
             if not row["_cover"]:
@@ -183,6 +353,8 @@ def build(fetch_missing=False):
                                  "neodb": lib.first_neodb_url(row.get("links", ""))})
             all_rows.append(row)
     save_meta(meta)
+    if nd_new:
+        save_neodb_meta(ndcache)
 
     os.makedirs(lib.MEDIA_DIR, exist_ok=True)
     # --- 各类型页（短评全文展示，无详情页）---

@@ -5,9 +5,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-15ywFCXO0pFbTSW0shxmrc.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">燕子呢喃，白鹤鸣叫</div>
-<div class="media-author">阮夕清</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">阮夕清</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2025-05</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -19,9 +23,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-6p6bgNPmCytuBHFnGqHcIX.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">我らコンタクティ</div>
-<div class="media-author">森田るい</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">森田るい</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2017-11</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">講談社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -33,9 +41,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-6qPDyUhNN8ZEP9v5YVU7tx.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">夜晚的潜水艇</div>
-<div class="media-author">陈春成</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">陈春成</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2020-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海三联书店</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -47,9 +59,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-3aajKpki7gzMoXhYf5Ky0R.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">明日仍將戀上他</div>
-<div class="media-author">入間人間/左</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">入間人間、左</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">明日も彼女は恋をする</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2012</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">台灣角川</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -61,9 +78,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-43g4Z0sOeETUNGFJKeMnX9.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">昨日也曾愛著他</div>
-<div class="media-author">入間人間/左</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">入間人間、左</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">昨日は彼女も恋してた</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2012-08</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">台灣角川</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -75,9 +97,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-018Pg2dgdK5do0NOV8GHce.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">藤本树短篇集 17-21</div>
-<div class="media-author">[日] 藤本树</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 藤本树</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">藤本タツキ短編集17-21</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2024-01</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">中信出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -89,9 +116,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-50TIwTCjd3UR1X5IEaB2Th.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">炎拳</div>
-<div class="media-author">藤本タツキ</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">藤本タツキ</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ファイアパンチ</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2016-07</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">集英社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -103,9 +135,12 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1qO0OJSarmlaMgLgeD8MT0.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">雪国（2022）</div>
-<div class="media-author">[日] 川端康成</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 川端康成</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2022-06</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -117,9 +152,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-7J1vDXb5pS3fwfrVhRylPT.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">银河系搭车客指南</div>
-<div class="media-author">[英] 道格拉斯·亚当斯</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] 道格拉斯·亚当斯</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The Hitchhiker&#x27;s Guide to the Galaxy</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2011-07</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海译文出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -131,9 +171,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-7FPmhGluhNTaJFpOhCXzAH.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">兄弟</div>
-<div class="media-author">余华</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Yu Hua</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2012-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">作家出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -145,9 +189,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-3S9OS4tyCJ5goMGE46UKpb.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">与罗摩相会</div>
-<div class="media-author">[英] 阿瑟·克拉克</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] 阿瑟·克拉克</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Rendezvous with Rama</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2018-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">江苏凤凰文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -159,9 +208,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0WhdElm9GvmYjJbcxsoPfL.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">文城</div>
-<div class="media-author">余华</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Yu Hua</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2021-03</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">北京十月文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -173,9 +226,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1Nei2PajjFbpt002jH3FAf.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">星尘</div>
-<div class="media-author">(英) 尼尔·盖曼 (Neil Gaiman)</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">(英) 尼尔·盖曼 (Neil Gaiman)</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Stardust</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2018-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">江苏凤凰文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -187,9 +245,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-3erPShUuTfvq3JloNtYayO.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">晚安，布布(01)</div>
-<div class="media-author">浅野いにお</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日本] 淺野一二O</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2008-02</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">台灣東販</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -201,9 +263,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-6td8kLRbGyYpWeq9KCnHLY.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">莫失莫忘</div>
-<div class="media-author">[英] 石黑一雄</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] 石黑一雄</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Never Let Me Go</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2018-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海译文出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -215,9 +282,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-6VhWnSc9Lotn4MKgDpJBwN.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">书与钥匙的季节</div>
-<div class="media-author">[日] 米泽穗信</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 米泽穗信</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">本と鍵の季節</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2022-03</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">四川文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -229,9 +301,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4L74hoR4OJL8qROiqubs5t.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">恶意</div>
-<div class="media-author">[日] 东野圭吾</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日本] 东野圭吾</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">悪意</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2016-11</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -243,9 +320,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4mjwJUnf2AZ1W2pP1ZfLgm.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">迟来的翅膀</div>
-<div class="media-author">[日] 米泽穗信</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 米泽穗信</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">いまさら翼といわれても</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2017-07</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">百花洲文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -257,9 +339,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0mg5sEl27Dyrgr0IEPPqFE.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">两人距离的概算</div>
-<div class="media-author">[日] 米泽穗信</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 米泽穗信</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ふたりの距離の概算</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2014-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">百花洲文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -271,9 +358,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-3Fa7OmvH80PtaKZnThRGY4.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">恋爱寄生虫</div>
-<div class="media-author">[日] 三秋缒</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 三秋缒</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">恋する寄生虫</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2019-04</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">四川美术出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -285,9 +377,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1otSUJUxaTDcA6ogufblnb.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">尘埃落定</div>
-<div class="media-author">阿来</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">阿来</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2020-10</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">浙江文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -299,9 +395,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1QRbVyXejWqrF9sV9oEoJU.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">红手指</div>
-<div class="media-author">[日] 东野圭吾</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 东野圭吾</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">赤い指</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2015-01</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -313,9 +414,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-5ZowD89qnFhKkaxpznzm63.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">愚者的片尾</div>
-<div class="media-author">[日] 米泽穗信</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 米泽穗信</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">愚者のエンドロール</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2013-08</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">湖南美术出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -327,9 +433,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-7TKNLd3kerzGQ3zp9fMl75.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">冰菓</div>
-<div class="media-author">[日] 米泽穗信</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 米泽穗信</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">氷菓</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2013-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">湖南美术出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -341,9 +452,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-10UR8JmVyyJPl3FT1iPW8y.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">蓦然回首</div>
-<div class="media-author">[日] 藤本树</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 藤本树</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ルックバック</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2022-08</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">新星出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -355,9 +471,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-2jZUicz4exqqGvgGezN9te.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">三日间的幸福</div>
-<div class="media-author">[日] 三秋缒</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 三秋缒</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">三日間の幸福</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2017-03</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">百花洲文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -369,9 +490,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0uAXPF0HGrDadZEZv08RJL.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">通往夏天的隧道，再见的出口</div>
-<div class="media-author">[日] 八目迷</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 八目迷</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2022-11</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">百花文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -383,9 +508,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1jt41ggFdzK0MlaiGFPuSf.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">强风吹拂</div>
-<div class="media-author">[日] 三浦紫苑</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">三浦紫苑</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">风が强く吹いている</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2015-01</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">广西师范大学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -397,9 +527,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1FuOLw3Nhw7ny6ig4WzTMJ.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">祈念守护人</div>
-<div class="media-author">[日] 东野圭吾</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 东野圭吾</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">クスノキの番人</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2020-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -411,9 +546,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-3G3PUT0usVIPE4qHgvpTs0.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">圣女的救济</div>
-<div class="media-author">[日] 东野圭吾</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">东野圭吾</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">聖女の救済</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2017-01</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -425,9 +565,12 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-65K8qy3CwVvHXjAyVaKAfj.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">冰菓漫画 13-14</div>
-<div class="media-author">[日] TASKOHNA 编绘、[日] 米泽穗信 原作</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] TASKOHNA 编绘、[日] 米泽穗信 原作</span></div>
+<div class="media-facts">
+
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -439,9 +582,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4XSJCRNVlWvtYKaZEF8jPk.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">在细雨中呼喊</div>
-<div class="media-author">余华</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Yu Hua</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2012-11</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">作家出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -453,9 +600,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4BnobMXU8EKnaancjG9jvH.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">冰与火之歌</div>
-<div class="media-author">[美]乔治·R.R.马丁</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美]乔治·R.R.马丁</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">A Song of Ice and Fire</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2013-10</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">重庆出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -467,9 +619,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1xbljMe9ztw20sdGbbe7sA.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">灿烂千阳</div>
-<div class="media-author">[美] 卡勒德·胡赛尼</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美] 卡勒德·胡赛尼</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">A Thousand Splendid Suns</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2007-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海人民出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -481,9 +638,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-25Ef7mh4PDn34g7QD2Kc9P.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">第七天</div>
-<div class="media-author">余华</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Yu Hua</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2013-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">新星出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -495,9 +656,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0dx3EfYQ3K5gfrISl7gsKE.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">罗生门</div>
-<div class="media-author">[日] 芥川龙之介</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 芥川龙之介</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">羅生門</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2008-07</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海译文出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -509,9 +675,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0TC2pzkdlnZHB8iOB7HKuE.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">霍乱时期的爱情</div>
-<div class="media-author">[哥伦比亚] 加西亚·马尔克斯</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[哥伦比亚] 加西亚·马尔克斯</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">El amor en los tiempos del cólera</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2012-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -523,9 +694,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0dgpnqTv6UYavkKc2625PN.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">挪威的森林</div>
-<div class="media-author">[日] 村上春树</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 村上春树</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ノルウェイの森</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2001-02</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海译文出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -537,9 +713,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4efLUTHXxl1TFRzDpYbg3w.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">雪国</div>
-<div class="media-author">[日本] 川端康成</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Yasunari Kawabata</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">雪国 [Yukiguni]</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2013-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -551,9 +732,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4MFiRhOCK2RddnliFVq4PG.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">呐喊</div>
-<div class="media-author">鲁迅</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">鲁迅</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">1973-03</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -565,9 +750,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1RKdqQrKWBhlyVEXkC6I6O.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">八十天环游地球</div>
-<div class="media-author">[法] 儒勒·凡尔纳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[法] 儒勒·凡尔纳</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">1958-02</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">中国青年出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -579,9 +768,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4JMAns06qggw7LXanXAugL.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">橙</div>
-<div class="media-author">安东尼</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">安东尼</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2010-10</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">长江文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -593,9 +786,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0fkvhy5RBOChyc3fRgcWXd.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">巴黎圣母院</div>
-<div class="media-author">雨果</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">雨果</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The Hunchback of Notre Dame</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2007-07</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -607,9 +805,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-10GFXy3MzhsXqF4u8LTI5z.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">瓦尔登湖</div>
-<div class="media-author">[美] 梭罗</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">亨利·戴维·梭罗</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">walden</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2006-08</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海译文出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -621,9 +824,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-6A6OkiZHqgZGevcIRSGs0y.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">24个比利</div>
-<div class="media-author">[美] 丹尼尔·凯斯</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美] 丹尼尔·凯斯</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The Minds of Billy Milligan</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2015-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">湖岸出版／外语教学与研究出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -635,9 +843,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-5ApPu0rNPyycLIGeVvxdYe.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">恶意</div>
-<div class="media-author">[日] 东野圭吾</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日本] 东野圭吾</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">悪意</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2009-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -649,9 +862,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-6HEM4B7Qn0zt5Qb1eZpzag.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">活着</div>
-<div class="media-author">余华</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Yu Hua</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2012-08</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">作家出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -663,9 +880,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1N07Tzv7VCE24qK9oCtKYd.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">钢铁是怎样炼成的</div>
-<div class="media-author">奥斯特洛夫斯基</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">奥斯特洛夫斯基</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Как закалялась сталь</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2006-08</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海译文出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -677,9 +899,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-7LYBUSQC50STn6Mn2Go9BJ.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">父与子全集</div>
-<div class="media-author">[德] 埃·奥·卜劳恩 绘</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[德] 埃·奥·卜劳恩 绘</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2003-04</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">中国工人出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -691,9 +917,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-38bisXBEXG4qdj2vHKM5SX.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特与火焰杯</div>
-<div class="media-author">[英] J. K. 罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] J·K·罗琳</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter and the Goblet of Fire</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2001-05</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -705,9 +936,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-7lEW0zDpBsvBhYSzQ34kOv.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">狼王梦</div>
-<div class="media-author">沈石溪</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">沈石溪</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2009-10</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">浙江少年儿童出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -719,9 +954,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1b1CFLGCbXnY067GPMplNE.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">さよなら絵梨 [Sayonara Eri]</div>
-<div class="media-author">藤本 タツキ</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Tatsuki Fujimoto、藤本タツキ</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">さよなら絵梨</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2022-07</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">集英社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -733,9 +973,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-2cb3M0EaJWWnLjnUxR678B.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">放学后</div>
-<div class="media-author">[日] 东野圭吾</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日]东野圭吾</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">放課後</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2017-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -747,9 +992,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-7G89IWkPYx4HPlsjPHC0dR.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">太年轻</div>
-<div class="media-author">[美]加·泽文</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美]加·泽文</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Young Jane Young</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2018-05</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">江苏凤凰文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -761,9 +1011,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-2AbibIOpd5mW3oWslfnrdd.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">岛上书店</div>
-<div class="media-author">[美] 加布瑞埃拉·泽文</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美] 加布瑞埃拉·泽文</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The Storied Life of A. J. Fikry</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2015-05</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">江苏凤凰文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -775,9 +1030,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-6B1TnZHr8bLyWZ9SYmhJHh.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">时光倒流的女孩</div>
-<div class="media-author">[美] 加·泽文</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美国] 加·泽文</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Elsewhere</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2017-05</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">江苏凤凰文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -789,9 +1049,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-2OjE8mBNiQZmp2MGC1kDNG.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">玛格丽特小镇</div>
-<div class="media-author">[美] 加·泽文</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美] 加·泽文</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Margarettown</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2016-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">江苏凤凰文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -803,9 +1068,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-363Q6MYw57OCXWC8NuoP02.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">神们自己</div>
-<div class="media-author">[美] 艾萨克·阿西莫夫</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美] 艾萨克·阿西莫夫</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The Gods Themselves</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2014-12</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">江苏凤凰文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -817,9 +1087,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-25XVDNfwFFVwAF7tCBJbDv.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">巧克力时代</div>
-<div class="media-author">加布瑞埃拉·泽文</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美] 加·泽文</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">All These Things I&#x27;ve Done</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2018</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -831,9 +1106,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-2hDOKC6Hg84PjyNE6wa0yA.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">无人生还</div>
-<div class="media-author">[英] 阿加莎·克里斯蒂</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] 阿加莎·克里斯蒂</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">And Then There Were None</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2013-07</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">新星出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -845,9 +1125,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0CPvFFckO6rZUuuFxDgjyD.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">1984</div>
-<div class="media-author">乔治·奥威尔</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] 乔治·奥威尔</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2016-11</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">中国画报出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -859,9 +1143,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4RcTj1AilRVONB8RIKJSVA.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">献给阿尔吉侬的花束</div>
-<div class="media-author">[美] 丹尼尔·凯斯</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美] 丹尼尔·凯斯</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Flowers for Algernon</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2015-04</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">广西师范大学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -873,9 +1162,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0LyzIHLhIZuApnOXkguZjs.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">寂寞的游戏</div>
-<div class="media-author">袁哲生</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">袁哲生</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2017-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">北京联合出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -887,9 +1180,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4tvMgmCZtnRo56WGqFkWY2.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">许三观卖血记</div>
-<div class="media-author">余华</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Yu Hua</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">1998-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -901,9 +1198,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0nySdV2rTzWePUKrWfi7Pl.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">神奇动物在哪里</div>
-<div class="media-author">[英] J. K. 罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] J·K·罗琳</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Fantastic beasts and where to find them</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2017-04</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -915,9 +1217,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-2JIFavaG46Ut5Mzod9xLbQ.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">你的名字</div>
-<div class="media-author">新海诚</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">加纳新太</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">君の名は。</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2017-01</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">百花洲文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -929,9 +1236,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-7azG0zJkXCkeG6i4hBXAfY.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">许三观卖血记</div>
-<div class="media-author">余华</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Yu Hua</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2012-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">作家出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -943,9 +1254,12 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-2Ke3amuM1NFxYzGMTYNdJP.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">飞吧，黑居易 刘耀辉诗意成长书系</div>
-<div class="media-author">刘耀辉</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">刘耀辉</span></div>
+<div class="media-facts">
+
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -957,9 +1271,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4kWe8S9ckRjkxi28AHwxEA.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">海底两万里</div>
-<div class="media-author">[法国] 儒尔·凡尔纳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[法] 儒勒·凡尔纳</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2002-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">译林出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -971,9 +1289,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-3pJymATNDKQ3amoO7vhFhR.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">骆驼祥子</div>
-<div class="media-author">老舍</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Lao-She</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2000-03</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -985,9 +1307,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-6KzJDSCbQUepJjzc4Amwus.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">夏洛的网</div>
-<div class="media-author">[美] E.B.怀特、[美国] 埃尔温·布鲁克斯·怀特</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美国] E·B·怀特</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Charlotte&#x27;s Web</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2004-05</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海译文出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -999,9 +1326,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4S1wztqpkyuiqZjN8xWzUv.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">草房子</div>
-<div class="media-author">曹文轩</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">曹文轩</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2009-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">江苏少年儿童出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1013,9 +1344,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-3oQZcaWzRDzIP9iEr3h55v.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">老人与海</div>
-<div class="media-author">[美]海明威</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美国] 欧内斯特·海明威</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The Old Man and the Sea</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">1999-10</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海译文出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1027,9 +1363,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1YR33J37soX9GBMsu39Us2.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">巴黎圣母院</div>
-<div class="media-author">[法]雨果</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[法]雨果</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Notre-Dame de Paris</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">1982-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1041,9 +1382,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-47nAirgkQMaHbeq5b1CkwB.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">简爱（英文全本）</div>
-<div class="media-author">[英] 夏洛蒂·勃朗特</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] 夏洛蒂·勃朗特</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Jane Eyre</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2003-11</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">世界图书出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1055,9 +1401,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-5viDBjpbSUtoYJgPIMvtLt.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">永恒的终结</div>
-<div class="media-author">[美] 艾萨克·阿西莫夫</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美] 艾萨克·阿西莫夫</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The End of Eternity</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2014-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">江苏凤凰文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1069,9 +1420,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-09np7N0m5w080oJxOAMhYh.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">窗边的小豆豆</div>
-<div class="media-author">[日] 黑柳彻子 著、岩崎千弘 图</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 黑柳彻子 著、岩崎千弘 图</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">窓ぎわのトットちゃん</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2003-01</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1083,9 +1439,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-2lLmzuquJA68RwHwvQptWY.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">朝花夕拾</div>
-<div class="media-author">鲁迅</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">鲁迅</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">1972-04</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1097,9 +1457,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-6WypX3FL8A6hZikIWuuLHW.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">乡土中国</div>
-<div class="media-author">费孝通</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">费孝通</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">From the Soil: The Foundations of Chinese Society</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2006-04</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海人民出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1111,9 +1476,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0BlI2YA8p1GddzqkFq8F4k.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特</div>
-<div class="media-author">[英] J·K·罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">J.K.罗琳 (J.K.Rowling)</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2008</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1125,9 +1495,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-51bFn01lYsM5uXnOJ9WM3P.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">人类简史</div>
-<div class="media-author">[以色列] 尤瓦尔·赫拉利</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[以色列] 尤瓦尔·赫拉利</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">A brief history of humankind</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2014-11</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">中信出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1139,9 +1514,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0NnNMDppF2bQqFyPMwyuYn.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">福尔摩斯探案全集（上中下）</div>
-<div class="media-author">[英] 阿·柯南道尔</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] 阿瑟·柯南·道尔</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The Complete Sherlock Holmes</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">1981-08</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">群众出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1153,9 +1533,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0zc5Kdk8MzwINNpfAVLSJ0.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">球状闪电</div>
-<div class="media-author">刘慈欣</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Liu Cixin</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2016-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">四川科学技术出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1167,9 +1551,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-2URlzyNSCbC0bQsTzfHeAE.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">三体全集</div>
-<div class="media-author">刘慈欣</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Liu Cixin</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">地球往事</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2012-01</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">重庆出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1181,9 +1570,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-7gbJHnD1XnG3UDdixTy2Vp.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">三国演义（全二册）</div>
-<div class="media-author">[明] 罗贯中</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">罗贯中</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">三国演义</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">1998-05</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1195,9 +1589,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-33uh8882n6e9aNCzWe2qfk.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">红</div>
-<div class="media-author">安东尼</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">安东尼</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2012</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">长江文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1209,9 +1607,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-2mdEocABJPjYSzuEs2c5QC.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">你当像鸟飞往你的山</div>
-<div class="media-author">[美] 塔拉·韦斯特弗</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美] 塔拉·韦斯特弗</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Educated:A Memoir</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2019-10</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1223,9 +1626,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-6VumzkOgPMNK69fjN2yb9P.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">圆圈正义</div>
-<div class="media-author">罗翔</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">罗翔</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2019-08</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">中国法制出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1237,9 +1644,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-2gXt0XzBOfMz0hicFlwYBF.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">天气之子</div>
-<div class="media-author">[日] 新海诚</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 新海诚</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">天気の子</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2019-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">百花洲文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1251,9 +1663,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4mfB3oI7xv9BPTtlicoQeG.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">解忧杂货店</div>
-<div class="media-author">[日] 东野圭吾</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日本] 东野圭吾</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ナミヤ雑貨店の奇蹟</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2014-05</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1265,9 +1682,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-6vRqsoFLMPKEW3ty8lXaXg.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">孤独深处</div>
-<div class="media-author">郝景芳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">郝景芳</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2016-08</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">江苏凤凰文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1279,9 +1700,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1kNyIg0YP721lKHoeHlvFE.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">美丽新世界</div>
-<div class="media-author">【英】奥尔德斯·赫胥黎</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] 赫胥黎</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">BRAVE NEW WORLD,  BRAVE NEW WORLD REVISITED</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2017-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海译文出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1293,9 +1719,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4SIPoJrGSFdemk2B37PnOH.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">我们</div>
-<div class="media-author">尤金·扎米亚金</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">尤金·扎米亚金</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2013-11</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">北京理工大学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1307,9 +1737,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-7j8QVuJtexUzXKSuW8nsyQ.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">奇点遗民</div>
-<div class="media-author">【美】刘宇昆</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美] 刘宇昆</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2017-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">中信出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1321,9 +1755,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0VoNDaHX4R29ovDXOAvKC4.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">肖申克的救赎</div>
-<div class="media-author">[美] 斯蒂芬·金</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美] 斯蒂芬·金</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Different Seasons</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2006-07</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1335,9 +1774,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0c7b2tDSC5kU8Nkzr3ZVBh.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">月亮和六便士</div>
-<div class="media-author">[英] 毛姆</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英国] 威廉·萨默塞特·毛姆</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The Moon and Sixpence</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2006-08</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海译文出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1349,9 +1793,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1AT5MpqfRMd4wEeOE1uGIF.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">小王子</div>
-<div class="media-author">[法] 安东尼·德·圣-埃克苏佩里</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[法国] 安东尼·德·圣-埃克苏佩里</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Le Petit Prince</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2003-08</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1363,9 +1812,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-70PvDMdEMCLCv0sKKg56aI.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">动物农场</div>
-<div class="media-author">[英] 乔治·奥威尔</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] 乔治·奥威尔</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Animal Farm</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2007-03</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海译文出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1377,9 +1831,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-1UBGp593Cb5oNMUANS30Hk.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">追风筝的人</div>
-<div class="media-author">[美] 卡勒德·胡赛尼</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[美] 卡勒德·胡赛尼</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The Kite Runner</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2006-05</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">上海人民出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1391,9 +1850,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-77JSasU4Y3L4yxZ9PcJ022.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">嫌疑人X的献身</div>
-<div class="media-author">[日] 东野圭吾</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日本] 东野圭吾</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">容疑者Xの献身</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2008-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1405,9 +1869,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0oH2luJGCafZKSRnQjAArw.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">白夜行</div>
-<div class="media-author">[日] 东野圭吾</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[日] 东野圭吾</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2013-01</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1419,9 +1887,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4AD6dlBaI5GWtFEWsaPVYl.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">百年孤独</div>
-<div class="media-author">[哥伦比亚] 加西亚·马尔克斯</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[哥伦比亚] 加西亚·马尔克斯</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Cien años de soledad</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2011-06</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">南海出版公司</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1433,9 +1906,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-5UZ10zBWMqkIVbzdc1zdVG.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">1984</div>
-<div class="media-author">[英] 乔治·奥威尔</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] 乔治·奥威尔</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Nineteen Eighty-Four</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2010-04</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">北京十月文艺出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1447,9 +1925,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-71YWWTuNgvwGndv8m8DEBu.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">三体Ⅱ</div>
-<div class="media-author">刘慈欣</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Liu Cixin</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">黑暗森林</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2008-05</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">重庆出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1461,9 +1944,13 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-7OGqnJkxiQZImAxD9aAgMr.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">三体</div>
-<div class="media-author">刘慈欣</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Cixin Liu、Liu Cixin 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2008-01</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">重庆出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1475,9 +1962,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-5TOECyDkPh16BaEcz2eNgI.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">三体Ⅲ</div>
-<div class="media-author">刘慈欣</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">Liu Cixin</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">死神永生</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2010-11</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">重庆出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1489,9 +1981,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-2qqxjbLDSy8nA6KcFcIlUy.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特与魔法石</div>
-<div class="media-author">[英] J. K. 罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] J·K·罗琳</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter and the Philosopher&#x27;s Stone</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2000-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1503,9 +2000,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0JgKhiuVrepPZZmFLKyHrq.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特与凤凰社</div>
-<div class="media-author">[英] J. K. 罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] J·K·罗琳</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter and the Order of the Phoenix</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2003-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1517,9 +2019,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-66F3PLycoKmiRHj2cMRHfJ.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特与被诅咒的孩子</div>
-<div class="media-author">[英] 约翰·蒂法尼、杰克·索恩、J.K.罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] 约翰·蒂法尼、Jack Thorne 等</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter and the Cursed Child</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2016-10</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1531,9 +2038,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4s17W1Y2EcWb3FAbyir50i.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特与魔法石（纪念版）</div>
-<div class="media-author">[英] J. K. 罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">[英] J. K. 罗琳</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter and the Philosopher&#x27;s Stone</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2000-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1545,9 +2057,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-6iwyN7Dp9ykD989IVxi0Rv.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特与密室</div>
-<div class="media-author">[英] J.K.罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">J.K.罗琳 (J.K.Rowling)</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter and the Chamber of Secrets</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2000-09</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1559,9 +2076,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-0xgXnXiO8qL6vp5i34PIvS.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特与死亡圣器</div>
-<div class="media-author">[英] J. K. 罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">J.K.罗琳 (J.K.Rowling)</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter and the Deathly Hallows</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2007-10</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1573,9 +2095,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-7OrpKUEMKaf3vGFkOxbEuC.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特与阿兹卡班囚徒</div>
-<div class="media-author">[英] J. K. 罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">J.K.罗琳 (Rowling J.K.)</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter and the Prisoner of Azkaban</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2009-04</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1587,9 +2114,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-3Tdc8TKLk2JGynt0UjKmlG.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特与火焰杯</div>
-<div class="media-author">J.K.罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">J.K.罗琳 (J.K.Rowling)</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter and the Goblet of Fire</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2001-05</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1601,9 +2133,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-18NTVBcjW9MvN3LGl6Vrdr.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特与&quot;混血王子&quot;</div>
-<div class="media-author">[英] J. K. 罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">J.K.罗琳 (J.K.Rowling)</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter and the Half-Blood Prince</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2005-10</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">
@@ -1615,9 +2152,14 @@
 <div class="media-card">
 <div class="media-head">
 <div class="media-cover"><img src="../covers/neodb-book-4478oKuEHRBQGojB1TR4F8.jpg" alt="" loading="lazy"></div>
-<div class="media-titles">
+<div class="media-info">
 <div class="media-title">哈利·波特与凤凰社</div>
-<div class="media-author">[英] J. K. 罗琳</div>
+<div class="media-author"><span class="media-author-k">作者</span><span class="media-author-v">J.K.罗琳</span></div>
+<div class="media-facts">
+<div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Harry Potter and the Order of Phoenix</span></div>
+<div class="media-fact"><span class="media-fact-k">出版</span><span class="media-fact-v">2009-04</span></div>
+<div class="media-fact"><span class="media-fact-k">出版社</span><span class="media-fact-v">人民文学出版社</span></div>
+</div>
 </div>
 </div>
 <div class="media-body">

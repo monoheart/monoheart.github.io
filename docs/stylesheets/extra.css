@@ -3,9 +3,9 @@
 .md-typeset .media-card {
   display: flex;
   flex-direction: column;
-  height: 280px;               /* 每条统一高度，保证大小一致 */
+  height: 360px;               /* 每条统一高度，保证大小一致 */
   box-sizing: border-box;
-  padding: 16px 18px;
+  padding: 18px 20px;
   margin: 0 0 18px;
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 10px;
@@ -13,19 +13,19 @@
   overflow: hidden;
 }
 
-/* 上半部分：封面 + 标题/作者 */
+/* 上半部分：封面 + 标题/作者/资料 */
 .md-typeset .media-head {
   display: flex;
-  gap: 16px;
+  gap: 18px;
   flex: 0 0 auto;
   min-height: 0;
 }
 
-/* 封面统一尺寸，object-fit 让所有封面填满同一方框 */
+/* 封面统一尺寸；object-fit 让所有封面填满同一方框 */
 .md-typeset .media-cover {
-  flex: 0 0 108px;
-  width: 108px;
-  height: 144px;
+  flex: 0 0 120px;
+  width: 120px;
+  height: 160px;
   border-radius: 6px;
   overflow: hidden;
   background: var(--md-default-fg-color--lightest);
@@ -40,18 +40,19 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.7rem;
+  font-size: 0.72rem;
   color: var(--md-default-fg-color--light);
 }
 
-.md-typeset .media-titles {
+.md-typeset .media-info {
   flex: 1 1 auto;
   min-width: 0;
+  overflow: hidden;
   overflow-wrap: anywhere;
   word-break: break-word;
 }
 .md-typeset .media-title {
-  font-size: 1rem;
+  font-size: 1.05rem;
   font-weight: 700;
   line-height: 1.4;
   display: -webkit-box;
@@ -60,14 +61,47 @@
   overflow: hidden;
 }
 .md-typeset .media-author {
-  margin-top: 8px;
-  font-size: 0.78rem;
-  line-height: 1.55;
+  margin-top: 6px;
+  display: flex;
+  gap: 6px;
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+.md-typeset .media-author-k {
+  flex: 0 0 auto;
   color: var(--md-default-fg-color--light);
+}
+.md-typeset .media-author-v {
+  flex: 1 1 auto;
+  min-width: 0;
+  color: var(--md-default-fg-color);
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+/* 补充资料：原作名 / 发行日期 / 类型 等 */
+.md-typeset .media-facts {
+  margin-top: 8px;
+  font-size: 0.74rem;
+  line-height: 1.5;
+}
+.md-typeset .media-fact {
+  display: flex;
+  gap: 6px;
+  margin-top: 2px;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+.md-typeset .media-fact-k {
+  flex: 0 0 auto;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .media-fact-v {
+  flex: 1 1 auto;
+  min-width: 0;
+  color: var(--md-default-fg-color);
 }
 
 /* 下半部分：评级一行 + 可内部滚动的简评框 */
@@ -82,23 +116,23 @@
 }
 .md-typeset .media-meta {
   flex: 0 0 auto;
-  font-size: 0.74rem;
+  font-size: 0.76rem;
   line-height: 1.6;
   color: var(--md-default-fg-color--light);
-  margin-bottom: 6px;
+  margin-bottom: 8px;
 }
 .md-typeset .media-meta a {
   white-space: nowrap;
 }
 
-/* 简评：内容超出即在框内滚动，不撑大卡片 */
+/* 简评：更大更易读；超出即在框内滚动，不撑大卡片 */
 .md-typeset .media-comment {
   flex: 1 1 auto;
   min-height: 0;
   overflow-y: auto;
-  padding-right: 6px;
-  font-size: 0.82rem;
-  line-height: 1.7;
+  padding-right: 8px;
+  font-size: 0.86rem;
+  line-height: 1.8;
   overflow-wrap: anywhere;
   word-break: break-word;
 }
@@ -117,16 +151,19 @@
 /* 窄屏：整体缩小，仍保持单列、统一大小 */
 @media screen and (max-width: 600px) {
   .md-typeset .media-card {
-    height: 250px;
-    padding: 12px 14px;
+    height: 330px;
+    padding: 14px;
     margin-bottom: 14px;
   }
   .md-typeset .media-cover {
-    flex: 0 0 84px;
-    width: 84px;
-    height: 112px;
+    flex: 0 0 96px;
+    width: 96px;
+    height: 128px;
   }
   .md-typeset .media-title {
-    font-size: 0.92rem;
+    font-size: 0.98rem;
+  }
+  .md-typeset .media-comment {
+    font-size: 0.84rem;
   }
 }
