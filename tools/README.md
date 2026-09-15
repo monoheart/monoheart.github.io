@@ -13,7 +13,10 @@
 只想本地预览不发布：`python tools/build.py` 然后 `mkdocs serve`。
 
 - 可编辑源：`data/*.csv`（改状态/补新条目都在这）。
-- 离线封面库：`data/subjects.ndjson`，封面下载到 `docs/media/covers/`。
+- 离线封面库：`data/subjects.ndjson`（仅补作者/导演等文字信息）。
+  封面图全部来自 neodb.social 条目页，下载到 `docs/media/covers/`。
+  首次用 `python tools/fetch_neodb_covers.py` 全量抓取（2s/条，约20分钟），
+  之后 `build` 会自动给新条目补图。
 - 标题/评分/短评永远以本地为准：有影评文件的用影评全文，否则用 CSV。
 - 缺封面清单：`.cache/failures.json`；限流时过几天跑
   `python tools/backfill_covers.py` 再 `build` 即可补上。

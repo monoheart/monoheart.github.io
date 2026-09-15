@@ -4,168 +4,1426 @@
 
 ## 看过（73）
 
-| 封面 | 标题 | 作者/导演 | 评分 | 时间 | 短评 | 链接 |
-|---|---|---|---|---|---|---|
-| <img src="../covers/x-35368245.jpg" width="72" loading="lazy"> | 夏日幽灵 | loundraw | ★★☆☆☆ | 2026-06-20 | 闲着没事翻有什么可以看的 才发现这部电影居然只有四十分钟 之前也听过配乐 于是看了<br>半成品 本来可以更有意思的 | [NeoDB](https://neodb.social/movie/1AxUFeaDV4H5N5IcwtWnFk) [豆瓣](https://movie.douban.com/subject/35368245/) |
-| <img src="../covers/x-30207998.jpg" width="72" loading="lazy"> | 白箱剧场版 | 水岛努 | ★★★☆☆ | 2026-06-18 | 失望 | [NeoDB](https://neodb.social/movie/2Ff9EIa95mO2huHIEH35cK) [豆瓣](https://movie.douban.com/subject/30207998/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2882098775.jpg) | 奇异世界 | 唐·霍尔、阮基 | 未评分 | 2026-05-15 | 补标，当时应该是看完了 | [NeoDB](https://neodb.social/movie/663Gu3KlrQArAfC574vbvk) [豆瓣](https://movie.douban.com/subject/35018488/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p649141235.jpg) | 关于莉莉周的一切 | 岩井俊二 | ★★★☆☆ | 2026-05-15 | 很讨厌。没有对上电波。<br>音乐很棒，画面也很棒，我很喜欢这部电影的质感，脏兮兮的摇滚乐和纯洁的钢琴乐。拍的也很漂亮，有一种朦朦胧胧的美感。但还是很讨厌。<br>我想我大概是缺少青春的那种体验吧，不理解里面大多数人的行为，搭配可以的拍摄手法，看着晕晕乎乎的。<br>喜欢放完风筝后自杀的那一幕。很美丽的死法。 | [NeoDB](https://neodb.social/movie/7jpkuuGTX6Bn2stDQdPYyB) [豆瓣](https://movie.douban.com/subject/1292219/) |
-| <img src="../covers/x-27615564.jpg" width="72" loading="lazy"> | 的士速递5 | 弗兰克·盖思堂彼得 | 未评分 | 2026-02-14 | 很久之前在电视上看过 | [NeoDB](https://neodb.social/movie/6D1PGu699aqZWUvEtRZRQ1) [豆瓣](https://movie.douban.com/subject/27615564/) |
-| <img src="../covers/x-1292000.jpg" width="72" loading="lazy"> | 搏击俱乐部 | 大卫·芬奇 | ★★★★★ | 2026-01-31 | 2月1日16:31:17在家 | [NeoDB](https://neodb.social/movie/33LWgbD3AIK7K8wSxAhtTp) [豆瓣](https://movie.douban.com/subject/1292000/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2928772586.jpg) | 超时空辉夜姬 | 山下清悟 | ★★★☆☆ | 2026-01-28 | 实在看的没有什么感觉，剧情哪哪似乎都差那么一点，跳出观众的视角来看能感觉作者想讲很多东西，寿命论，家庭，追求梦想，但是看完之后这几个没有一个能真正做到打动我。而且剧情的不合理之处也太多了，设定也很荒唐，荒唐到我难以代入的程度。<br>制作非常精致，但是不是我喜欢的那种，看得我好累好累啊。怎么感觉近些年来动画的色彩饱和度越来越高了，我的眼睛要受不了了。<br>听到了好多熟悉的v曲的翻版，看之前我只听说了有女同，所以有点小惊喜。虽然有几首我只是感觉很熟悉并没有听出来原曲，改动太大了。还有怎么又是你井上拓。 | [NeoDB](https://neodb.social/movie/3kKxQBRSQcUI7ad7Y58fIM) [豆瓣](https://movie.douban.com/subject/37825206/) |
-| <img src="../covers/x-37560609.jpg" width="72" loading="lazy"> | 我怎么可能成为你的恋人，不行不行！（※不是不可能！？） 剧场版 | 内沼菜摘 | ★★★☆☆ | 2026-01-01 | 我在看什么 | [NeoDB](https://neodb.social/movie/7X8ORDDXGsiUkk0mkKDJoQ) [豆瓣](https://movie.douban.com/subject/37560609/) |
-| — | 电锯人 - 剧场版：蕾塞篇 | /person/3w5mgvyeOIOWNaOshEbMnX | ★★★★★ | 2025-12-18 | 12月19日21:15:24<br>考试前看到上流媒体就在期待了，直到今天才终于有机会看完 | [NeoDB](https://neodb.social/movie/5NAjaDqAgZeZ3ZzzPAkYEW) [豆瓣](https://movie.douban.com/subject/36691530/) |
-| <img src="../covers/x-26817136.jpg" width="72" loading="lazy"> | 疯狂动物城2 | 杰拉德·布什、拜伦·霍华德 | ★★★☆☆ | 2025-11-29 | 11月30日18:39:27ysx生日 | [NeoDB](https://neodb.social/movie/3c1kyDKUvemvvxWRAKVAt6) [豆瓣](https://movie.douban.com/subject/26817136/) |
-| <img src="../covers/x-36613553.jpg" width="72" loading="lazy"> | 剧场总集篇 『孤独摇滚！』 Re:Re: | 斋藤圭一郎 | ★★★★★ | 2025-05-02 | 5月3日20:30:06在宿舍 | [NeoDB](https://neodb.social/movie/2OZY3PuhyBar8Os53mFvsK) [豆瓣](https://movie.douban.com/subject/36613553/) |
-| <img src="../covers/x-36415357.jpg" width="72" loading="lazy"> | 剧场总集篇 『孤独摇滚！』 Re: | 斋藤圭一郎 | ★★★★★ | 2025-04-26 | 剪的一般，拍照那段放ppt难绷<br>还是太紧凑了，全程一直在听对话 | [NeoDB](https://neodb.social/movie/0jp4OnkuXk8b0abwW4Anea) [豆瓣](https://movie.douban.com/subject/36415357/) |
-| <img src="../covers/x-27059130.jpg" width="72" loading="lazy"> | 大佛普拉斯 | 黄信尧 | ★★★★★ | 2025-03-04 | 没有去上大物，看完了 | [NeoDB](https://neodb.social/movie/2r0tdYNi9CW69JXlsgDiS8) [豆瓣](https://movie.douban.com/subject/27059130/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558022335.jpg) | 天气之子 | 新海诚 | ★★★★☆ | 2025-02-17 | 2月18日17:09:57 | [NeoDB](https://neodb.social/movie/3ULeoeK0CuJHa1h2bt7ZeK) [豆瓣](https://movie.douban.com/subject/30402296/) |
-| <img src="../covers/x-1889243.jpg" width="72" loading="lazy"> | 星际穿越 | 克里斯托弗·诺兰 | ★★★★★ | 2025-01-25 | 1月26日21:51:43 | [NeoDB](https://neodb.social/movie/2vE4NFmmigU2ofsivNOdcG) [豆瓣](https://movie.douban.com/subject/1889243/) |
-| <img src="../covers/x-36765646.jpg" width="72" loading="lazy"> | 蓦然回首 | 押山清高 | ★★★★★ | 2024-10-25 | — | [NeoDB](https://neodb.social/movie/2U8yMOgmiYTtZdxyvrCmBU) [豆瓣](https://movie.douban.com/subject/36765646/) |
-| <img src="../covers/x-1291583.jpg" width="72" loading="lazy"> | 天空之城 | 宫崎骏 | ★★★★★ | 2024-02-14 | 不同的人为了不同的目的去寻找天空之城，最终天空之城却飞向那遥不可及的地方<br>纯粹而又善良的人总是会善有善报。终于希达摆脱了命运的束缚，而巴鲁也见证了传说中的天空之城，贪欲之中尚存良知的强盗也收获了财宝。美好如童话 | [NeoDB](https://neodb.social/movie/7TjcwpRxvBblxskweu2EFo) [豆瓣](https://movie.douban.com/subject/1291583/) |
-| <img src="../covers/x-27591193.jpg" width="72" loading="lazy"> | 来自深渊：深魂的黎明 | 小岛正幸 | ★★★★★ | 2024-01-12 | — | [NeoDB](https://neodb.social/movie/3jJ1q0HEw6WyDGA6EzZ05F) [豆瓣](https://movie.douban.com/subject/27591193/) |
-| <img src="../covers/x-27060077.jpg" width="72" loading="lazy"> | 绿皮书 | 彼得·法雷里 | ★★★★☆ | 2023-12-28 | — | [NeoDB](https://neodb.social/movie/3QjgE0V4yaQGbcjGtpvRIz) [豆瓣](https://movie.douban.com/subject/27060077/) |
-| <img src="../covers/x-30453095.jpg" width="72" loading="lazy"> | 言语如苏打般涌现 | 石黑恭平 | ★★★★☆ | 2023-08-27 | — | [NeoDB](https://neodb.social/movie/6lOhfXTJjHLL6gAJk0Le3X) [豆瓣](https://movie.douban.com/subject/30453095/) |
-| <img src="../covers/x-2043546.jpg" width="72" loading="lazy"> | 秒速5厘米 | 新海诚 | ★★★☆☆ | 2023-08-26 | 又浪费了一个小时/太空人那段，魂穿星之声/风景画有多美，人画的就有多丑/经典新海诚式矫情 | [NeoDB](https://neodb.social/movie/00QcJRBFuFvrsfE5gUzpOB) [豆瓣](https://movie.douban.com/subject/2043546/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2914698334.jpg) | 海上钢琴师 | 朱塞佩·托纳多雷 | ★★★★★ | 2023-08-26 | — | [NeoDB](https://neodb.social/movie/2yRHCS7gP1d89K58GkRh8K) [豆瓣](https://movie.douban.com/subject/1292001/) |
-| <img src="../covers/x-27062637.jpg" width="72" loading="lazy"> | 利兹与青鸟 | 山田尚子 | ★★★★★ | 2023-08-22 | 京阿尼一贯的细腻，真好啊<br>没看staff就知道，配乐一定是牛尾，太神了 | [NeoDB](https://neodb.social/movie/0MVNOUeqG77f37182CaLQs) [豆瓣](https://movie.douban.com/subject/27062637/) |
-| <img src="../covers/x-35438008.jpg" width="72" loading="lazy"> | 再见了所有的福音战士！庵野秀明的1214日～ | /person/2VL00QFZXDU4HKGaLwktXZ | ★★★★★ | 2023-08-22 | — | [NeoDB](https://neodb.social/movie/2USX4wkzGQX2uuHiwrAZKN) [豆瓣](https://movie.douban.com/subject/35438008/) |
-| <img src="../covers/x-25796222.jpg" width="72" loading="lazy"> | 玉子爱情故事 | 山田尚子 | ★★★★★ | 2023-08-13 | 青春 细腻<br>京阿尼真的好温柔 | [NeoDB](https://neodb.social/movie/5WriphvgP142tnUmMcAs44) [豆瓣](https://movie.douban.com/subject/25796222/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1026522114.jpg) | 福音战士新剧场版：破 | 庵野秀明、摩砂雪、鹤卷和哉 | ★★★★★ | 2023-08-03 | — | [NeoDB](https://neodb.social/movie/7Z7wwprWqr4J6c5aX9LuoG) [豆瓣](https://movie.douban.com/subject/2567646/) |
-| <img src="../covers/x-10428501.jpg" width="72" loading="lazy"> | 新·福音战士剧场版：终 | 庵野秀明、鹤卷和哉、中山胜一等 | ★★★★★ | 2023-08-03 | — | [NeoDB](https://neodb.social/movie/1RXkTv6F3WLxS82XxvQYXu) [豆瓣](https://movie.douban.com/subject/10428501/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1768906265.jpg) | 福音战士新剧场版：Q | 庵野秀明、摩砂雪、前田真宏等 | ★★★★★ | 2023-08-02 | — | [NeoDB](https://neodb.social/movie/1eiJZ5c3kW3dN0N7c2zMvf) [豆瓣](https://movie.douban.com/subject/2567647/) |
-| <img src="../covers/x-30444960.jpg" width="72" loading="lazy"> | 信条 | 克里斯托弗·诺兰 | ★★★★☆ | 2023-07-22 | 谢谢顺子 | [NeoDB](https://neodb.social/movie/6tNNgF982mcDPHXUM8Bj4K) [豆瓣](https://movie.douban.com/subject/30444960/) |
-| <img src="../covers/x-1968790.jpg" width="72" loading="lazy"> | 福音战士新剧场版：序 | 庵野秀明、摩砂雪、鹤卷和哉 | ★★★★★ | 2023-07-17 | — | [NeoDB](https://neodb.social/movie/4Xj7ObTh25cyYgQvQQNoDp) [豆瓣](https://movie.douban.com/subject/1968790/) |
-| <img src="../covers/x-26374197.jpg" width="72" loading="lazy"> | 蜘蛛侠：平行宇宙 | 鲍勃·佩尔西凯蒂、彼得·拉姆齐、罗德尼·罗斯曼 | ★★★★★ | 2023-07-01 | — | [NeoDB](https://neodb.social/movie/7LXcnrlommYYE4oSom6OXI) [豆瓣](https://movie.douban.com/subject/26374197/) |
-| <img src="../covers/x-1308892.jpg" width="72" loading="lazy"> | 新世纪福音战士剧场版：Air/真心为你 | 庵野秀明、鹤卷和哉 | ★★★★★ | 2023-06-12 | — | [NeoDB](https://neodb.social/movie/4h8SqKxaMXdKF1ADrLeygX) [豆瓣](https://movie.douban.com/subject/1308892/) |
-| <img src="../covers/x-30391186.jpg" width="72" loading="lazy"> | 蜘蛛侠：纵横宇宙 | 乔伊姆·多斯·桑托斯、凯普·鲍尔斯、贾斯汀·汤普森 | ★★★★★ | 2023-06-09 | — | [NeoDB](https://neodb.social/movie/6TvJKU2rJ5SoJSeTLwdDdv) [豆瓣](https://movie.douban.com/subject/30391186/) |
-| — | 未命名 |  | ★★★★★ | 2023-05-13 | 五星鼓励 | [NeoDB](https://neodb.social/movie/0ahGgBuN8ClGcZTRP5RQhw) |
-| <img src="../covers/x-26897885.jpg" width="72" loading="lazy"> | 芬奇 | 米格尔·萨普什尼克 | ★★★☆☆ | 2023-04-07 | 英语课，谢谢小丽 | [NeoDB](https://neodb.social/movie/3TsObdZyDbLC36WYU7wgxA) [豆瓣](https://movie.douban.com/subject/26897885/) |
-| <img src="../covers/x-35371261.jpg" width="72" loading="lazy"> | 铃芽户缔 | 新海诚 | ★★★★☆ | 2023-04-01 | — | [NeoDB](https://neodb.social/movie/4JVspcTxu4MPhpPpSQCivw) [豆瓣](https://movie.douban.com/subject/35371261/) |
-| <img src="../covers/x-2046293.jpg" width="72" loading="lazy"> | 大卫·科波菲尔 | 彼得·梅达克 | ★★★☆☆ | 2022-10-14 | 谢谢宝宝。<br>看的不怎么认真 | [NeoDB](https://neodb.social/movie/3JnHB0yaMtrOh1c2myeNNW) [豆瓣](https://movie.douban.com/subject/2046293/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560061956.jpg) | 焦裕禄 | 王冀邢 | ★★★★☆ | 2022-10-12 | 谢谢宝宝。<br>承认看的时候一直在分神 | [NeoDB](https://neodb.social/movie/5GSE05lhEAWdaQ14bg4Wyp) [豆瓣](https://movie.douban.com/subject/1439400/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg) | 盗梦空间 | 克里斯托弗·诺兰 | ★★★★★ | 2022-08-08 | 之前在家和妹妹看了一半，在castle这里看完了<br>好喜欢女主的颜 | [NeoDB](https://neodb.social/movie/0OsXZTIt1UOOveQi3UXBil) [豆瓣](https://movie.douban.com/subject/3541415/) |
-| <img src="../covers/x-5045678.jpg" width="72" loading="lazy"> | 大鱼海棠 | 梁旋、张春 | ★★★★☆ | 2022-07-29 | 7月30日和妹妹一起看完<br>湫这个人物真的一言难尽 | [NeoDB](https://neodb.social/movie/0G0lGYudHWXsLflicUIaKK) [豆瓣](https://movie.douban.com/subject/5045678/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2355440566.jpg) | 惊天魔盗团2 | 朱浩伟 | ★★★☆☆ | 2022-07-24 | 还不错<br>集训放的，感谢castle | [NeoDB](https://neodb.social/movie/7aXtqaA4yxXqyQa8WQqvUG) [豆瓣](https://movie.douban.com/subject/25662337/) |
-| <img src="../covers/x-1304374.jpg" width="72" loading="lazy"> | 百万英镑 | 罗纳德·尼姆 | ★★★★☆ | 2022-07-02 | 英语课 | [NeoDB](https://neodb.social/movie/27MVbLkD7Rj0kaeK5NNAC3) [豆瓣](https://movie.douban.com/subject/1304374/) |
-| <img src="../covers/x-1292063.jpg" width="72" loading="lazy"> | 美丽人生 | 罗伯托·贝尼尼 | ★★★★★ | 2022-02-18 | 全班一起看的，感谢历史老师（虽然被同学给剧透光了 | [NeoDB](https://neodb.social/movie/5rMGwfiJkuMTmkLEID5uYh) [豆瓣](https://movie.douban.com/subject/1292063/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2036524094.jpg) | 孔子 | 胡玫 | ★★★☆☆ | 2022-02-12 | 刘峰老贼 | [NeoDB](https://neodb.social/movie/2AhPXx5aklxBDvaaISObKP) [豆瓣](https://movie.douban.com/subject/3606975/) |
-| <img src="../covers/x-26926321.jpg" width="72" loading="lazy"> | 缝纫机乐队 | 大鹏 | ★★★☆☆ | 2022-02-12 | — | [NeoDB](https://neodb.social/movie/50MpKxX2cGuze2MEt3AuyM) [豆瓣](https://movie.douban.com/subject/26926321/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2681329386.jpg) | 长津湖 | 陈凯歌、徐克、林超贤 | ★★★☆☆ | 2021-12-04 | 学校组织，三节晚自习 | [NeoDB](https://neodb.social/movie/1BcyoGPxN7nvquNDbgJuHA) [豆瓣](https://movie.douban.com/subject/25845392/) |
-| <img src="../covers/x-3168101.jpg" width="72" loading="lazy"> | 毒液：致命守护者 | 鲁本·弗雷斯彻 | ★★★★☆ | 2021-11-29 | — | [NeoDB](https://neodb.social/movie/5DcLlWAneTa5TrQKKa3eG2) [豆瓣](https://movie.douban.com/subject/3168101/) |
-| <img src="../covers/x-26273481.jpg" width="72" loading="lazy"> | 境界的彼方 剧场版 未来篇 | 石立太一 | ★★★★☆ | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/1Q3ZY6pi92thyDEElsSyLP) [豆瓣](https://movie.douban.com/subject/26273481/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533173724.jpg) | 昨日青空 | 奚超 | ★★★☆☆ | 2021-08-26 | 三星鼓励一下吧… | [NeoDB](https://neodb.social/movie/2adir8obv05uu58h3iR9JY) [豆瓣](https://movie.douban.com/subject/26290410/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2597748316.jpg) | 青春猪头少年不会梦到怀梦美少女 | 增井壮一 | ★★★★★ | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/0JHvwat1NQ2yPskcpaWD9G) [豆瓣](https://movie.douban.com/subject/30329902/) |
-| <img src="../covers/x-26930504.jpg" width="72" loading="lazy"> | 烟花 | 新房昭之、武内宣之 | ★★☆☆☆ | 2021-08-26 | 冲歌 加一星 | [NeoDB](https://neodb.social/movie/5zfBQdxe52Ruq5XQB4XcLC) [豆瓣](https://movie.douban.com/subject/26930504/) |
-| <img src="../covers/x-27107140.jpg" width="72" loading="lazy"> | 我想吃掉你的胰脏 | 牛岛新一郎 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/3IQmTFFa0x5116fDRInyY2) [豆瓣](https://movie.douban.com/subject/27107140/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2563780504.jpg) | 哪吒之魔童降世 | 饺子 | ★★★☆☆ | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/00mRnUS4JukAU8091gvE1H) [豆瓣](https://movie.douban.com/subject/26794435/) |
-| <img src="../covers/x-26340419.jpg" width="72" loading="lazy"> | 帕丁顿熊2 | 保罗·金 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/5gIyRcPU8vDbyw1sQeRs4Z) [豆瓣](https://movie.douban.com/subject/26340419/) |
-| <img src="../covers/x-27166442.jpg" width="72" loading="lazy"> | 夏目友人帐：结缘空蝉 | 大森贵弘、伊藤秀树 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/2UJhthFDB9Igi76nQG1XUC) [豆瓣](https://movie.douban.com/subject/27166442/) |
-| <img src="../covers/x-26264454.jpg" width="72" loading="lazy"> | 声之形 | 山田尚子 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/4Z8i1iyhJFzuFxsYM3whzj) [豆瓣](https://movie.douban.com/subject/26264454/) |
-| <img src="../covers/x-20470074.jpg" width="72" loading="lazy"> | 言叶之庭 | 新海诚 | ★★★★☆ | 2021-08-21 | — | [NeoDB](https://neodb.social/movie/5A5D6rCYElhlCIwKsvrMax) [豆瓣](https://movie.douban.com/subject/20470074/) |
-| <img src="../covers/x-1793491.jpg" width="72" loading="lazy"> | 美食总动员 | 布拉德·伯德、简·皮克瓦 | ★★★★☆ | 2021-08-20 | — | [NeoDB](https://neodb.social/movie/3LMDlofw61HXQDdJitCAVr) [豆瓣](https://movie.douban.com/subject/1793491/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2221768894.jpg) | 消失的爱人 | 大卫·芬奇 | ★★★★☆ | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/0KwCU1TINg9w0Nb54S8ew0) [豆瓣](https://movie.douban.com/subject/21318488/) |
-| <img src="../covers/x-26266893.jpg" width="72" loading="lazy"> | 流浪地球 | 郭帆 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/6FpTOxsFDSGT97gAIudALr) [豆瓣](https://movie.douban.com/subject/26266893/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924128964.jpg) | 疯狂动物城 | 拜伦·霍华德、瑞奇·摩尔、杰拉德·布什 | ★★★★☆ | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/0WgEM5OyiAV60XZsrDyjYd) [豆瓣](https://movie.douban.com/subject/25662329/) |
-| <img src="../covers/x-3319755.jpg" width="72" loading="lazy"> | 怦然心动 | 罗伯·莱纳 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/78hXBnbUuPhcRn1igYZF6F) [豆瓣](https://movie.douban.com/subject/3319755/) |
-| <img src="../covers/x-20495023.jpg" width="72" loading="lazy"> | 寻梦环游记 | 李·昂克里奇、阿德里安·莫利纳 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/3V4pKFHRBYvdsH1HSoe5m3) [豆瓣](https://movie.douban.com/subject/20495023/) |
-| <img src="../covers/x-26387939.jpg" width="72" loading="lazy"> | 摔跤吧！爸爸 | 涅提·蒂瓦里 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/7YokK8HuhFi8EwCtl7lGM5) [豆瓣](https://movie.douban.com/subject/26387939/) |
-| <img src="../covers/x-26683290.jpg" width="72" loading="lazy"> | 你的名字。 | 新海诚 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/0c0WkLq3zobatTWPrKagFP) [豆瓣](https://movie.douban.com/subject/26683290/) |
-| <img src="../covers/x-1291549.jpg" width="72" loading="lazy"> | 放牛班的春天 | 克里斯托夫·巴哈蒂 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/6fL5ox33A5OoM1OdUarTqn) [豆瓣](https://movie.douban.com/subject/1291549/) |
-| <img src="../covers/x-1299398.jpg" width="72" loading="lazy"> | 大话西游之月光宝盒 | 刘镇伟 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/7I0X1RnNmIc8PEOnGsjJ5G) [豆瓣](https://movie.douban.com/subject/1299398/) |
-| <img src="../covers/x-27605698.jpg" width="72" loading="lazy"> | 西虹市首富 | 闫非、彭大魔 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/0q3PQhCOfJbmp4yY5qoL31) [豆瓣](https://movie.douban.com/subject/27605698/) |
-| <img src="../covers/x-1851857.jpg" width="72" loading="lazy"> | 蝙蝠侠：黑暗骑士 | 克里斯托弗·诺兰 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/41bYRpQkGrnC1kRYyL4BmS) [豆瓣](https://movie.douban.com/subject/1851857/) |
-| <img src="../covers/x-24733428.jpg" width="72" loading="lazy"> | 心灵奇旅 | 彼特·道格特、凯普·鲍尔斯 | ★★★★★ | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/2bpb2kiVZvX9xUcTQPmPij) [豆瓣](https://movie.douban.com/subject/24733428/) |
-| <img src="../covers/x-1295038.jpg" width="72" loading="lazy"> | 哈利·波特与魔法石 | 克里斯·哥伦布 | ★★★★☆ | 2021-08-17 | 电影与原书相比还是原书更能吸引我 | [NeoDB](https://neodb.social/movie/7XDaPG0mH3MdEgmoFs4SRh) [豆瓣](https://movie.douban.com/subject/1295038/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg) | 大话西游之大圣娶亲 | 刘镇伟 | ★★★★☆ | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/70XFNgP9EiqlvREPNVbT7O) [豆瓣](https://movie.douban.com/subject/1292213/) |
-| <img src="../covers/x-1301753.jpg" width="72" loading="lazy"> | 狮子王 | 罗杰·阿勒斯、罗伯·明可夫 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/3SohF1ozWD2KgLfHbMYBSK) [豆瓣](https://movie.douban.com/subject/1301753/) |
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1AxUFeaDV4H5N5IcwtWnFk.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">夏日幽灵</div>
+<div class="media-meta">loundraw · ★★☆☆☆ · 2026-06-20 · <a href="https://neodb.social/movie/1AxUFeaDV4H5N5IcwtWnFk" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/35368245/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">闲着没事翻有什么可以看的 才发现这部电影居然只有四十分钟 之前也听过配乐 于是看了<br>半成品 本来可以更有意思的</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2Ff9EIa95mO2huHIEH35cK.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">白箱剧场版</div>
+<div class="media-meta">水岛努 · ★★★☆☆ · 2026-06-18 · <a href="https://neodb.social/movie/2Ff9EIa95mO2huHIEH35cK" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30207998/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">失望</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-663Gu3KlrQArAfC574vbvk.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">奇异世界</div>
+<div class="media-meta">唐·霍尔、阮基 · 未评分 · 2026-05-15 · <a href="https://neodb.social/movie/663Gu3KlrQArAfC574vbvk" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/35018488/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">补标，当时应该是看完了</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7jpkuuGTX6Bn2stDQdPYyB.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">关于莉莉周的一切</div>
+<div class="media-meta">岩井俊二 · ★★★☆☆ · 2026-05-15 · <a href="https://neodb.social/movie/7jpkuuGTX6Bn2stDQdPYyB" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1292219/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">很讨厌。没有对上电波。<br>音乐很棒，画面也很棒，我很喜欢这部电影的质感，脏兮兮的摇滚乐和纯洁的钢琴乐。拍的也很漂亮，有一种朦朦胧胧的美感。但还是很讨厌。<br>我想我大概是缺少青春的那种体验吧，不理解里面大多数人的行为，搭配可以的拍摄手法，看着晕晕乎乎的。<br>喜欢放完风筝后自杀的那一幕。很美丽的死法。</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6D1PGu699aqZWUvEtRZRQ1.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">的士速递5</div>
+<div class="media-meta">弗兰克·盖思堂彼得 · 未评分 · 2026-02-14 · <a href="https://neodb.social/movie/6D1PGu699aqZWUvEtRZRQ1" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/27615564/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">很久之前在电视上看过</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-33LWgbD3AIK7K8wSxAhtTp.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">搏击俱乐部</div>
+<div class="media-meta">大卫·芬奇 · ★★★★★ · 2026-01-31 · <a href="https://neodb.social/movie/33LWgbD3AIK7K8wSxAhtTp" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1292000/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">2月1日16:31:17在家</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3kKxQBRSQcUI7ad7Y58fIM.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">超时空辉夜姬</div>
+<div class="media-meta">山下清悟 · ★★★☆☆ · 2026-01-28 · <a href="https://neodb.social/movie/3kKxQBRSQcUI7ad7Y58fIM" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/37825206/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">实在看的没有什么感觉，剧情哪哪似乎都差那么一点，跳出观众的视角来看能感觉作者想讲很多东西，寿命论，家庭，追求梦想，但是看完之后这几个没有一个能真正做到打动我。而且剧情的不合理之处也太多了，设定也很荒唐，荒唐到我难以代入的程度。<br>制作非常精致，但是不是我喜欢的那种，看得我好累好累啊。怎么感觉近些年来动画的色彩饱和度越来越高了，我的眼睛要受不了了。<br>听到了好多熟悉的v曲的翻版，看之前我只听说了有女同，所以有点小惊喜。虽然有几首我只是感觉很熟悉并没有听出来原曲，改动太大了。还有怎么又是你井上拓。</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7X8ORDDXGsiUkk0mkKDJoQ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">我怎么可能成为你的恋人，不行不行！（※不是不可能！？） 剧场版</div>
+<div class="media-meta">内沼菜摘 · ★★★☆☆ · 2026-01-01 · <a href="https://neodb.social/movie/7X8ORDDXGsiUkk0mkKDJoQ" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/37560609/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">我在看什么</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5NAjaDqAgZeZ3ZzzPAkYEW.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">电锯人 - 剧场版：蕾塞篇</div>
+<div class="media-meta">/person/3w5mgvyeOIOWNaOshEbMnX · ★★★★★ · 2025-12-18 · <a href="https://neodb.social/movie/5NAjaDqAgZeZ3ZzzPAkYEW" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/36691530/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">12月19日21:15:24<br>考试前看到上流媒体就在期待了，直到今天才终于有机会看完</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3c1kyDKUvemvvxWRAKVAt6.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">疯狂动物城2</div>
+<div class="media-meta">杰拉德·布什、拜伦·霍华德 · ★★★☆☆ · 2025-11-29 · <a href="https://neodb.social/movie/3c1kyDKUvemvvxWRAKVAt6" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26817136/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">11月30日18:39:27ysx生日</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2OZY3PuhyBar8Os53mFvsK.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">剧场总集篇 『孤独摇滚！』 Re:Re:</div>
+<div class="media-meta">斋藤圭一郎 · ★★★★★ · 2025-05-02 · <a href="https://neodb.social/movie/2OZY3PuhyBar8Os53mFvsK" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/36613553/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">5月3日20:30:06在宿舍</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0jp4OnkuXk8b0abwW4Anea.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">剧场总集篇 『孤独摇滚！』 Re:</div>
+<div class="media-meta">斋藤圭一郎 · ★★★★★ · 2025-04-26 · <a href="https://neodb.social/movie/0jp4OnkuXk8b0abwW4Anea" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/36415357/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">剪的一般，拍照那段放ppt难绷<br>还是太紧凑了，全程一直在听对话</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2r0tdYNi9CW69JXlsgDiS8.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">大佛普拉斯</div>
+<div class="media-meta">黄信尧 · ★★★★★ · 2025-03-04 · <a href="https://neodb.social/movie/2r0tdYNi9CW69JXlsgDiS8" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/27059130/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">没有去上大物，看完了</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3ULeoeK0CuJHa1h2bt7ZeK.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">天气之子</div>
+<div class="media-meta">新海诚 · ★★★★☆ · 2025-02-17 · <a href="https://neodb.social/movie/3ULeoeK0CuJHa1h2bt7ZeK" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30402296/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">2月18日17:09:57</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2vE4NFmmigU2ofsivNOdcG.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">星际穿越</div>
+<div class="media-meta">克里斯托弗·诺兰 · ★★★★★ · 2025-01-25 · <a href="https://neodb.social/movie/2vE4NFmmigU2ofsivNOdcG" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1889243/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">1月26日21:51:43</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2U8yMOgmiYTtZdxyvrCmBU.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">蓦然回首</div>
+<div class="media-meta">押山清高 · ★★★★★ · 2024-10-25 · <a href="https://neodb.social/movie/2U8yMOgmiYTtZdxyvrCmBU" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/36765646/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7TjcwpRxvBblxskweu2EFo.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">天空之城</div>
+<div class="media-meta">宫崎骏 · ★★★★★ · 2024-02-14 · <a href="https://neodb.social/movie/7TjcwpRxvBblxskweu2EFo" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1291583/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">不同的人为了不同的目的去寻找天空之城，最终天空之城却飞向那遥不可及的地方<br>纯粹而又善良的人总是会善有善报。终于希达摆脱了命运的束缚，而巴鲁也见证了传说中的天空之城，贪欲之中尚存良知的强盗也收获了财宝。美好如童话</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3jJ1q0HEw6WyDGA6EzZ05F.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">来自深渊：深魂的黎明</div>
+<div class="media-meta">小岛正幸 · ★★★★★ · 2024-01-12 · <a href="https://neodb.social/movie/3jJ1q0HEw6WyDGA6EzZ05F" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/27591193/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3QjgE0V4yaQGbcjGtpvRIz.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">绿皮书</div>
+<div class="media-meta">彼得·法雷里 · ★★★★☆ · 2023-12-28 · <a href="https://neodb.social/movie/3QjgE0V4yaQGbcjGtpvRIz" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/27060077/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6lOhfXTJjHLL6gAJk0Le3X.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">言语如苏打般涌现</div>
+<div class="media-meta">石黑恭平 · ★★★★☆ · 2023-08-27 · <a href="https://neodb.social/movie/6lOhfXTJjHLL6gAJk0Le3X" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30453095/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-00QcJRBFuFvrsfE5gUzpOB.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">秒速5厘米</div>
+<div class="media-meta">新海诚 · ★★★☆☆ · 2023-08-26 · <a href="https://neodb.social/movie/00QcJRBFuFvrsfE5gUzpOB" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/2043546/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">又浪费了一个小时/太空人那段，魂穿星之声/风景画有多美，人画的就有多丑/经典新海诚式矫情</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2yRHCS7gP1d89K58GkRh8K.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">海上钢琴师</div>
+<div class="media-meta">朱塞佩·托纳多雷 · ★★★★★ · 2023-08-26 · <a href="https://neodb.social/movie/2yRHCS7gP1d89K58GkRh8K" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1292001/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0MVNOUeqG77f37182CaLQs.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">利兹与青鸟</div>
+<div class="media-meta">山田尚子 · ★★★★★ · 2023-08-22 · <a href="https://neodb.social/movie/0MVNOUeqG77f37182CaLQs" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/27062637/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">京阿尼一贯的细腻，真好啊<br>没看staff就知道，配乐一定是牛尾，太神了</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2USX4wkzGQX2uuHiwrAZKN.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">再见了所有的福音战士！庵野秀明的1214日～</div>
+<div class="media-meta">/person/2VL00QFZXDU4HKGaLwktXZ · ★★★★★ · 2023-08-22 · <a href="https://neodb.social/movie/2USX4wkzGQX2uuHiwrAZKN" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/35438008/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5WriphvgP142tnUmMcAs44.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">玉子爱情故事</div>
+<div class="media-meta">山田尚子 · ★★★★★ · 2023-08-13 · <a href="https://neodb.social/movie/5WriphvgP142tnUmMcAs44" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/25796222/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">青春 细腻<br>京阿尼真的好温柔</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7Z7wwprWqr4J6c5aX9LuoG.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">福音战士新剧场版：破</div>
+<div class="media-meta">庵野秀明、摩砂雪、鹤卷和哉 · ★★★★★ · 2023-08-03 · <a href="https://neodb.social/movie/7Z7wwprWqr4J6c5aX9LuoG" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/2567646/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1RXkTv6F3WLxS82XxvQYXu.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">新·福音战士剧场版：终</div>
+<div class="media-meta">庵野秀明、鹤卷和哉、中山胜一等 · ★★★★★ · 2023-08-03 · <a href="https://neodb.social/movie/1RXkTv6F3WLxS82XxvQYXu" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/10428501/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1eiJZ5c3kW3dN0N7c2zMvf.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">福音战士新剧场版：Q</div>
+<div class="media-meta">庵野秀明、摩砂雪、前田真宏等 · ★★★★★ · 2023-08-02 · <a href="https://neodb.social/movie/1eiJZ5c3kW3dN0N7c2zMvf" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/2567647/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6tNNgF982mcDPHXUM8Bj4K.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">信条</div>
+<div class="media-meta">克里斯托弗·诺兰 · ★★★★☆ · 2023-07-22 · <a href="https://neodb.social/movie/6tNNgF982mcDPHXUM8Bj4K" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30444960/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">谢谢顺子</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-4Xj7ObTh25cyYgQvQQNoDp.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">福音战士新剧场版：序</div>
+<div class="media-meta">庵野秀明、摩砂雪、鹤卷和哉 · ★★★★★ · 2023-07-17 · <a href="https://neodb.social/movie/4Xj7ObTh25cyYgQvQQNoDp" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1968790/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7LXcnrlommYYE4oSom6OXI.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">蜘蛛侠：平行宇宙</div>
+<div class="media-meta">鲍勃·佩尔西凯蒂、彼得·拉姆齐、罗德尼·罗斯曼 · ★★★★★ · 2023-07-01 · <a href="https://neodb.social/movie/7LXcnrlommYYE4oSom6OXI" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26374197/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-4h8SqKxaMXdKF1ADrLeygX.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">新世纪福音战士剧场版：Air/真心为你</div>
+<div class="media-meta">庵野秀明、鹤卷和哉 · ★★★★★ · 2023-06-12 · <a href="https://neodb.social/movie/4h8SqKxaMXdKF1ADrLeygX" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1308892/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6TvJKU2rJ5SoJSeTLwdDdv.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">蜘蛛侠：纵横宇宙</div>
+<div class="media-meta">乔伊姆·多斯·桑托斯、凯普·鲍尔斯、贾斯汀·汤普森 · ★★★★★ · 2023-06-09 · <a href="https://neodb.social/movie/6TvJKU2rJ5SoJSeTLwdDdv" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30391186/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0ahGgBuN8ClGcZTRP5RQhw.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">未命名</div>
+<div class="media-meta">★★★★★ · 2023-05-13 · <a href="https://neodb.social/movie/0ahGgBuN8ClGcZTRP5RQhw" target="_blank" rel="noopener">NeoDB</a></div>
+<div class="media-comment">五星鼓励</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3TsObdZyDbLC36WYU7wgxA.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">芬奇</div>
+<div class="media-meta">米格尔·萨普什尼克 · ★★★☆☆ · 2023-04-07 · <a href="https://neodb.social/movie/3TsObdZyDbLC36WYU7wgxA" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26897885/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">英语课，谢谢小丽</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-4JVspcTxu4MPhpPpSQCivw.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">铃芽户缔</div>
+<div class="media-meta">新海诚 · ★★★★☆ · 2023-04-01 · <a href="https://neodb.social/movie/4JVspcTxu4MPhpPpSQCivw" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/35371261/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3JnHB0yaMtrOh1c2myeNNW.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">大卫·科波菲尔</div>
+<div class="media-meta">彼得·梅达克 · ★★★☆☆ · 2022-10-14 · <a href="https://neodb.social/movie/3JnHB0yaMtrOh1c2myeNNW" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/2046293/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">谢谢宝宝。<br>看的不怎么认真</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5GSE05lhEAWdaQ14bg4Wyp.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">焦裕禄</div>
+<div class="media-meta">王冀邢 · ★★★★☆ · 2022-10-12 · <a href="https://neodb.social/movie/5GSE05lhEAWdaQ14bg4Wyp" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1439400/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">谢谢宝宝。<br>承认看的时候一直在分神</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0OsXZTIt1UOOveQi3UXBil.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">盗梦空间</div>
+<div class="media-meta">克里斯托弗·诺兰 · ★★★★★ · 2022-08-08 · <a href="https://neodb.social/movie/0OsXZTIt1UOOveQi3UXBil" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/3541415/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">之前在家和妹妹看了一半，在castle这里看完了<br>好喜欢女主的颜</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0G0lGYudHWXsLflicUIaKK.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">大鱼海棠</div>
+<div class="media-meta">梁旋、张春 · ★★★★☆ · 2022-07-29 · <a href="https://neodb.social/movie/0G0lGYudHWXsLflicUIaKK" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/5045678/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">7月30日和妹妹一起看完<br>湫这个人物真的一言难尽</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7aXtqaA4yxXqyQa8WQqvUG.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">惊天魔盗团2</div>
+<div class="media-meta">朱浩伟 · ★★★☆☆ · 2022-07-24 · <a href="https://neodb.social/movie/7aXtqaA4yxXqyQa8WQqvUG" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/25662337/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">还不错<br>集训放的，感谢castle</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-27MVbLkD7Rj0kaeK5NNAC3.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">百万英镑</div>
+<div class="media-meta">罗纳德·尼姆 · ★★★★☆ · 2022-07-02 · <a href="https://neodb.social/movie/27MVbLkD7Rj0kaeK5NNAC3" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1304374/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">英语课</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5rMGwfiJkuMTmkLEID5uYh.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">美丽人生</div>
+<div class="media-meta">罗伯托·贝尼尼 · ★★★★★ · 2022-02-18 · <a href="https://neodb.social/movie/5rMGwfiJkuMTmkLEID5uYh" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1292063/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">全班一起看的，感谢历史老师（虽然被同学给剧透光了</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2AhPXx5aklxBDvaaISObKP.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">孔子</div>
+<div class="media-meta">胡玫 · ★★★☆☆ · 2022-02-12 · <a href="https://neodb.social/movie/2AhPXx5aklxBDvaaISObKP" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/3606975/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">刘峰老贼</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-50MpKxX2cGuze2MEt3AuyM.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">缝纫机乐队</div>
+<div class="media-meta">大鹏 · ★★★☆☆ · 2022-02-12 · <a href="https://neodb.social/movie/50MpKxX2cGuze2MEt3AuyM" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26926321/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1BcyoGPxN7nvquNDbgJuHA.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">长津湖</div>
+<div class="media-meta">陈凯歌、徐克、林超贤 · ★★★☆☆ · 2021-12-04 · <a href="https://neodb.social/movie/1BcyoGPxN7nvquNDbgJuHA" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/25845392/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">学校组织，三节晚自习</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5DcLlWAneTa5TrQKKa3eG2.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">毒液：致命守护者</div>
+<div class="media-meta">鲁本·弗雷斯彻 · ★★★★☆ · 2021-11-29 · <a href="https://neodb.social/movie/5DcLlWAneTa5TrQKKa3eG2" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/3168101/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1Q3ZY6pi92thyDEElsSyLP.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">境界的彼方 剧场版 未来篇</div>
+<div class="media-meta">石立太一 · ★★★★☆ · 2021-08-26 · <a href="https://neodb.social/movie/1Q3ZY6pi92thyDEElsSyLP" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26273481/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2adir8obv05uu58h3iR9JY.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">昨日青空</div>
+<div class="media-meta">奚超 · ★★★☆☆ · 2021-08-26 · <a href="https://neodb.social/movie/2adir8obv05uu58h3iR9JY" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26290410/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">三星鼓励一下吧…</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0JHvwat1NQ2yPskcpaWD9G.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">青春猪头少年不会梦到怀梦美少女</div>
+<div class="media-meta">增井壮一 · ★★★★★ · 2021-08-26 · <a href="https://neodb.social/movie/0JHvwat1NQ2yPskcpaWD9G" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30329902/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5zfBQdxe52Ruq5XQB4XcLC.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">烟花</div>
+<div class="media-meta">新房昭之、武内宣之 · ★★☆☆☆ · 2021-08-26 · <a href="https://neodb.social/movie/5zfBQdxe52Ruq5XQB4XcLC" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26930504/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">冲歌 加一星</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3IQmTFFa0x5116fDRInyY2.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">我想吃掉你的胰脏</div>
+<div class="media-meta">牛岛新一郎 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/3IQmTFFa0x5116fDRInyY2" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/27107140/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-00mRnUS4JukAU8091gvE1H.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哪吒之魔童降世</div>
+<div class="media-meta">饺子 · ★★★☆☆ · 2021-08-26 · <a href="https://neodb.social/movie/00mRnUS4JukAU8091gvE1H" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26794435/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5gIyRcPU8vDbyw1sQeRs4Z.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">帕丁顿熊2</div>
+<div class="media-meta">保罗·金 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/5gIyRcPU8vDbyw1sQeRs4Z" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26340419/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2UJhthFDB9Igi76nQG1XUC.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">夏目友人帐：结缘空蝉</div>
+<div class="media-meta">大森贵弘、伊藤秀树 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/2UJhthFDB9Igi76nQG1XUC" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/27166442/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-4Z8i1iyhJFzuFxsYM3whzj.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">声之形</div>
+<div class="media-meta">山田尚子 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/4Z8i1iyhJFzuFxsYM3whzj" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26264454/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5A5D6rCYElhlCIwKsvrMax.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">言叶之庭</div>
+<div class="media-meta">新海诚 · ★★★★☆ · 2021-08-21 · <a href="https://neodb.social/movie/5A5D6rCYElhlCIwKsvrMax" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/20470074/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3LMDlofw61HXQDdJitCAVr.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">美食总动员</div>
+<div class="media-meta">布拉德·伯德、简·皮克瓦 · ★★★★☆ · 2021-08-20 · <a href="https://neodb.social/movie/3LMDlofw61HXQDdJitCAVr" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1793491/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0KwCU1TINg9w0Nb54S8ew0.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">消失的爱人</div>
+<div class="media-meta">大卫·芬奇 · ★★★★☆ · 2021-08-17 · <a href="https://neodb.social/movie/0KwCU1TINg9w0Nb54S8ew0" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/21318488/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6FpTOxsFDSGT97gAIudALr.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">流浪地球</div>
+<div class="media-meta">郭帆 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/6FpTOxsFDSGT97gAIudALr" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26266893/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0WgEM5OyiAV60XZsrDyjYd.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">疯狂动物城</div>
+<div class="media-meta">拜伦·霍华德、瑞奇·摩尔、杰拉德·布什 · ★★★★☆ · 2021-08-17 · <a href="https://neodb.social/movie/0WgEM5OyiAV60XZsrDyjYd" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/25662329/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-78hXBnbUuPhcRn1igYZF6F.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">怦然心动</div>
+<div class="media-meta">罗伯·莱纳 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/78hXBnbUuPhcRn1igYZF6F" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/3319755/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3V4pKFHRBYvdsH1HSoe5m3.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">寻梦环游记</div>
+<div class="media-meta">李·昂克里奇、阿德里安·莫利纳 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/3V4pKFHRBYvdsH1HSoe5m3" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/20495023/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7YokK8HuhFi8EwCtl7lGM5.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">摔跤吧！爸爸</div>
+<div class="media-meta">涅提·蒂瓦里 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/7YokK8HuhFi8EwCtl7lGM5" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26387939/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0c0WkLq3zobatTWPrKagFP.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">你的名字。</div>
+<div class="media-meta">新海诚 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/0c0WkLq3zobatTWPrKagFP" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26683290/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6fL5ox33A5OoM1OdUarTqn.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">放牛班的春天</div>
+<div class="media-meta">克里斯托夫·巴哈蒂 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/6fL5ox33A5OoM1OdUarTqn" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1291549/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7I0X1RnNmIc8PEOnGsjJ5G.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">大话西游之月光宝盒</div>
+<div class="media-meta">刘镇伟 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/7I0X1RnNmIc8PEOnGsjJ5G" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1299398/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0q3PQhCOfJbmp4yY5qoL31.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">西虹市首富</div>
+<div class="media-meta">闫非、彭大魔 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/0q3PQhCOfJbmp4yY5qoL31" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/27605698/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-41bYRpQkGrnC1kRYyL4BmS.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">蝙蝠侠：黑暗骑士</div>
+<div class="media-meta">克里斯托弗·诺兰 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/41bYRpQkGrnC1kRYyL4BmS" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1851857/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2bpb2kiVZvX9xUcTQPmPij.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">心灵奇旅</div>
+<div class="media-meta">彼特·道格特、凯普·鲍尔斯 · ★★★★★ · 2021-08-17 · <a href="https://neodb.social/movie/2bpb2kiVZvX9xUcTQPmPij" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/24733428/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7XDaPG0mH3MdEgmoFs4SRh.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特与魔法石</div>
+<div class="media-meta">克里斯·哥伦布 · ★★★★☆ · 2021-08-17 · <a href="https://neodb.social/movie/7XDaPG0mH3MdEgmoFs4SRh" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1295038/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">电影与原书相比还是原书更能吸引我</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-70XFNgP9EiqlvREPNVbT7O.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">大话西游之大圣娶亲</div>
+<div class="media-meta">刘镇伟 · ★★★★☆ · 2021-08-17 · <a href="https://neodb.social/movie/70XFNgP9EiqlvREPNVbT7O" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1292213/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3SohF1ozWD2KgLfHbMYBSK.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">狮子王</div>
+<div class="media-meta">罗杰·阿勒斯、罗伯·明可夫 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/3SohF1ozWD2KgLfHbMYBSK" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1301753/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
 
 ## 想看（85）
 
-| 封面 | 标题 | 作者/导演 | 评分 | 时间 | 短评 | 链接 |
-|---|---|---|---|---|---|---|
-| <img src="../covers/x-11525673.jpg" width="72" loading="lazy"> | 布达佩斯大饭店 | 韦斯·安德森 | 未评分 | 2026-08-30 | — | [NeoDB](https://neodb.social/movie/7FnedSsVujM8iRZYeN1Qti) [豆瓣](https://movie.douban.com/subject/11525673/) |
-| <img src="../covers/x-30311141.jpg" width="72" loading="lazy"> | 六头鲨来袭 | 马克·阿特金斯 | 未评分 | 2026-08-08 | — | [NeoDB](https://neodb.social/movie/4i8cTvtAETGdmjbTiiAhgL) [豆瓣](https://movie.douban.com/subject/30311141/) |
-| <img src="../covers/x-1401384.jpg" width="72" loading="lazy"> | 不真实的国度 | 虞琳敏 | 未评分 | 2026-05-17 | — | [NeoDB](https://neodb.social/movie/7dVXsAlLnrWdicYSx5rchG) [豆瓣](https://movie.douban.com/subject/1401384/) |
-| <img src="../covers/x-35902857.jpg" width="72" loading="lazy"> | 完美的日子 | 维姆·文德斯 | 未评分 | 2026-05-11 | — | [NeoDB](https://neodb.social/movie/0nLHE4Nahno3TxhMTHV48e) [豆瓣](https://movie.douban.com/subject/35902857/) |
-| <img src="../covers/x-37116446.jpg" width="72" loading="lazy"> | 给阿嬷的情书 | 蓝鸿春 | 未评分 | 2026-05-09 | — | [NeoDB](https://neodb.social/movie/5JNEBpERf9S91oDZcnipiz) [豆瓣](https://movie.douban.com/subject/37116446/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558274546.jpg) | 1/2的魔法 | 丹·斯坎隆 | 未评分 | 2026-02-22 | 我记得当时在两部里考虑最后看了hp，怀念 | [NeoDB](https://neodb.social/movie/3NhuQ6wMLFJmECFqeoYTrM) [豆瓣](https://movie.douban.com/subject/30401849/) |
-| <img src="../covers/x-30292777.jpg" width="72" loading="lazy"> | 阳光普照 | 钟孟宏 | 未评分 | 2026-02-17 | — | [NeoDB](https://neodb.social/movie/2Bk63NmfMN0bnvMFzLUQ0C) [豆瓣](https://movie.douban.com/subject/30292777/) |
-| <img src="../covers/x-1291543.jpg" width="72" loading="lazy"> | 功夫 | 周星驰 | 未评分 | 2026-02-12 | — | [NeoDB](https://neodb.social/movie/79xI5OWqu8YpRy91nH4P0V) [豆瓣](https://movie.douban.com/subject/1291543/) |
-| <img src="../covers/x-27305997.jpg" width="72" loading="lazy"> | 椒麻堂会 | 邱炯炯 | 未评分 | 2025-11-30 | — | [NeoDB](https://neodb.social/movie/1bgVODaWCBKlCQ1AuGlLzC) [豆瓣](https://movie.douban.com/subject/27305997/) |
-| <img src="../covers/x-1292434.jpg" width="72" loading="lazy"> | 一一 | 杨德昌 | 未评分 | 2025-10-30 | — | [NeoDB](https://neodb.social/movie/5KJNqbTzhuc5BNV2ubGdIl) [豆瓣](https://movie.douban.com/subject/1292434/) |
-| <img src="../covers/x-10512661.jpg" width="72" loading="lazy"> | 银翼杀手2049 | 丹尼斯·维伦纽瓦 | 未评分 | 2025-07-22 | — | [NeoDB](https://neodb.social/movie/1fJZOK4O6k9vb4nPjSCYFX) [豆瓣](https://movie.douban.com/subject/10512661/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p868550285.jpg) | 银翼杀手 | 雷德利·斯科特 | 未评分 | 2025-07-22 | — | [NeoDB](https://neodb.social/movie/07UjvDPvTdebqvHoCaVT43) [豆瓣](https://movie.douban.com/subject/1291839/) |
-| <img src="../covers/x-36394934.jpg" width="72" loading="lazy"> | 欢迎来到驹田蒸馏所 | 吉原正行 | 未评分 | 2025-04-23 | — | [NeoDB](https://neodb.social/movie/6saqdxGZh82ErO2A9lt7qu) [豆瓣](https://movie.douban.com/subject/36394934/) |
-| <img src="../covers/x-1302145.jpg" width="72" loading="lazy"> | 大提琴手 | 高畑勋 | 未评分 | 2025-03-12 | — | [NeoDB](https://neodb.social/movie/7fIwXgppEmrxdgaInrv40u) [豆瓣](https://movie.douban.com/subject/1302145/) |
-| <img src="../covers/x-3824274.jpg" width="72" loading="lazy"> | 刺猬的优雅 | 莫娜·阿查切 | 未评分 | 2025-02-14 | — | [NeoDB](https://neodb.social/movie/6CkjXQ3jF2AP4CpJEfG5ul) [豆瓣](https://movie.douban.com/subject/3824274/) |
-| <img src="../covers/x-1293318.jpg" width="72" loading="lazy"> | 萤火虫之墓 | 高畑勋 | 未评分 | 2025-02-11 | — | [NeoDB](https://neodb.social/movie/6QIOui8zy8l5KevLzhVAsq) [豆瓣](https://movie.douban.com/subject/1293318/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1377087986.jpg) | 公主追杀令 | 安德斯·摩根泰勒 | 未评分 | 2025-02-05 | — | [NeoDB](https://neodb.social/movie/5StDxOKbHAtRM1EYns3PLO) [豆瓣](https://movie.douban.com/subject/1866901/) |
-| <img src="../covers/x-35426925.jpg" width="72" loading="lazy"> | 机器人之梦 | 巴勃罗·贝格尔 | 未评分 | 2025-01-25 | — | [NeoDB](https://neodb.social/movie/6jJ4dkY7oEi2Vw9fLvKvql) [豆瓣](https://movie.douban.com/subject/35426925/) |
-| <img src="../covers/x-1937946.jpg" width="72" loading="lazy"> | 穿越时空的少女 | 细田守 | 未评分 | 2024-12-26 | — | [NeoDB](https://neodb.social/movie/7ApoL3wfMs1UsiktN68KhK) [豆瓣](https://movie.douban.com/subject/1937946/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574198225.jpg) | 平原上的夏洛克 | 徐磊 | 未评分 | 2024-12-10 | — | [NeoDB](https://neodb.social/movie/7XUB4X198035SRhBOlO03Y) [豆瓣](https://movie.douban.com/subject/33400376/) |
-| <img src="../covers/x-35882838.jpg" width="72" loading="lazy"> | 某种物质 | 科拉莉·法尔雅 | 未评分 | 2024-09-24 | — | [NeoDB](https://neodb.social/movie/3n9buL3yaSCQgfBDFYTL2m) [豆瓣](https://movie.douban.com/subject/35882838/) |
-| <img src="../covers/x-10754780.jpg" width="72" loading="lazy"> | 无人引航 | 威廉·H·梅西 | 未评分 | 2024-09-04 | — | [NeoDB](https://neodb.social/movie/36YM7VM3UugUChjZCSSIJW) [豆瓣](https://movie.douban.com/subject/10754780/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2329080834.jpg) | 垫底辣妹 | 土井裕泰 | 未评分 | 2024-06-01 | — | [NeoDB](https://neodb.social/movie/4dmOHDczntRaIdfoiXxsWv) [豆瓣](https://movie.douban.com/subject/26259677/) |
-| <img src="../covers/x-1292343.jpg" width="72" loading="lazy"> | 蝴蝶效应 | 埃里克·布雷斯、J·麦基·格鲁伯 | 未评分 | 2024-05-31 | — | [NeoDB](https://neodb.social/movie/60oiOnjHdxZwou950UgND6) [豆瓣](https://movie.douban.com/subject/1292343/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2869765076.jpg) | 瞬息全宇宙 | 关家永、丹尼尔·施纳特 | 未评分 | 2024-05-23 | — | [NeoDB](https://neodb.social/movie/2ABzhdkKEGW2YX7Fe11tlO) [豆瓣](https://movie.douban.com/subject/30314848/) |
-| <img src="../covers/x-35268501.jpg" width="72" loading="lazy"> | 乘船而去 | 陈小雨 | 未评分 | 2024-04-19 | — | [NeoDB](https://neodb.social/movie/6qAHTBGcZC0oM3OuwRssuZ) [豆瓣](https://movie.douban.com/subject/35268501/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2889865405.jpg) | 宇宙探索编辑部 | 孔大山 | 未评分 | 2024-04-06 | — | [NeoDB](https://neodb.social/movie/44E3AK7EKtc9fb3lBBqZNr) [豆瓣](https://movie.douban.com/subject/34941536/) |
-| <img src="../covers/x-36177245.jpg" width="72" loading="lazy"> | 你的颜色 | 山田尚子 | 未评分 | 2024-03-15 | 2024年夏！ | [NeoDB](https://neodb.social/movie/5P3IYh0rycvTg4ppQpO5VW) [豆瓣](https://movie.douban.com/subject/36177245/) |
-| <img src="../covers/x-1299062.jpg" width="72" loading="lazy"> | 坏孩子的天空 | 北野武 | 未评分 | 2024-02-15 | — | [NeoDB](https://neodb.social/movie/1941lH9Z5vN6FImLf6w240) [豆瓣](https://movie.douban.com/subject/1299062/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906527755.jpg) | 你想活出怎样的人生 | 宫崎骏 | 未评分 | 2024-02-14 | — | [NeoDB](https://neodb.social/movie/7SReOVIEq3itRypnDbcRqE) [豆瓣](https://movie.douban.com/subject/26925611/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p541484436.jpg) | 香草的天空 | 卡梅伦·克罗 | 未评分 | 2024-01-05 | — | [NeoDB](https://neodb.social/movie/3zg9X9GqLf40SLcP3xZt1B) [豆瓣](https://movie.douban.com/subject/1299054/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1391839595.jpg) | 永恒和一日 | 西奥·安哲罗普洛斯 | 未评分 | 2023-11-03 | — | [NeoDB](https://neodb.social/movie/6ZT8zEaLHHwwdxh4N0Hmqt) [豆瓣](https://movie.douban.com/subject/1293455/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2364347016.jpg) | 摇滚藏獒 | 艾什·布兰农 | 未评分 | 2023-10-27 | — | [NeoDB](https://neodb.social/movie/7mVqT4tk2Pm0cRTv3GJOjT) [豆瓣](https://movie.douban.com/subject/25749813/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2421855655.jpg) | 海边的曼彻斯特 | 肯尼思·洛纳根 | 未评分 | 2023-10-09 | — | [NeoDB](https://neodb.social/movie/1FCnPnh9wfDofRNiMjvsPQ) [豆瓣](https://movie.douban.com/subject/25980443/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.jpg) | 茶啊二中 | 夏铭泽、阎凯 | 未评分 | 2023-07-26 | — | [NeoDB](https://neodb.social/movie/6pm6Bd4ZVAMnXCMCJlvIxt) [豆瓣](https://movie.douban.com/subject/34880018/) |
-| <img src="../covers/x-6874403.jpg" width="72" loading="lazy"> | 再次出发之纽约遇见你 | 约翰·卡尼 | 未评分 | 2023-06-15 | — | [NeoDB](https://neodb.social/movie/0Be3lmvC8txIqJPqKZTOWm) [豆瓣](https://movie.douban.com/subject/6874403/) |
-| <img src="../covers/x-35715647.jpg" width="72" loading="lazy"> | 蜘蛛侠：纵横宇宙(下) | 鲍勃·佩尔西凯蒂、贾斯汀·汤普森 | 未评分 | 2023-06-10 | — | [NeoDB](https://neodb.social/movie/5PNSxUqF9z5WLFhI1Eqyy1) [豆瓣](https://movie.douban.com/subject/35715647/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530599636.jpg) | 小偷家族 | 是枝裕和 | 未评分 | 2023-05-18 | — | [NeoDB](https://neodb.social/movie/5TTX7VfN4GHX4HbwLILNpq) [豆瓣](https://movie.douban.com/subject/27622447/) |
-| <img src="../covers/x-2969282.jpg" width="72" loading="lazy"> | 七磅 | 加布里埃莱·穆奇诺 | 未评分 | 2023-04-13 | — | [NeoDB](https://neodb.social/movie/3ncFaPVAtNbO2XhM0sWdk2) [豆瓣](https://movie.douban.com/subject/2969282/) |
-| <img src="../covers/x-26087471.jpg" width="72" loading="lazy"> | 俄罗斯方块 | 乔·拜尔德 | 未评分 | 2023-04-04 | — | [NeoDB](https://neodb.social/movie/6HXNhoodf0SR9gB1DR4brZ) [豆瓣](https://movie.douban.com/subject/26087471/) |
-| <img src="../covers/x-1292052.jpg" width="72" loading="lazy"> | 肖申克的救赎 | 弗兰克·德拉邦特 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/movie/6SAqdyMEu3kGepBN0mHZAr) [豆瓣](https://movie.douban.com/subject/1292052/) |
-| <img src="../covers/x-30170448.jpg" width="72" loading="lazy"> | 何以为家 | 娜丁·拉巴基 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/movie/5SfUpBL7Ep6RIIa7TQBmtT) [豆瓣](https://movie.douban.com/subject/30170448/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215102596.jpg) | 千年女优 | 今敏 | 未评分 | 2022-12-26 | — | [NeoDB](https://neodb.social/movie/6jvwnE7AseHXcADIrrqbQi) [豆瓣](https://movie.douban.com/subject/1307394/) |
-| <img src="../covers/x-34874432.jpg" width="72" loading="lazy"> | 花束般的恋爱 | 土井裕泰 | 未评分 | 2022-09-04 | — | [NeoDB](https://neodb.social/movie/3NsQG93ZdXjJxpJb6odN0o) [豆瓣](https://movie.douban.com/subject/34874432/) |
-| <img src="../covers/x-3742360.jpg" width="72" loading="lazy"> | 让子弹飞 | 姜文 | 未评分 | 2022-08-29 | — | [NeoDB](https://neodb.social/movie/3W1p0hQhFGBgOYN4o0E3cT) [豆瓣](https://movie.douban.com/subject/3742360/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p485887754.jpg) | 飞屋环游记 | 彼特·道格特、鲍勃·彼德森 | 未评分 | 2022-08-29 | — | [NeoDB](https://neodb.social/movie/5OUR2KsP8z4YqXfPvxG9Y4) [豆瓣](https://movie.douban.com/subject/2129039/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2875299554.jpg) | 隐入尘烟 | 李睿珺 | 未评分 | 2022-08-29 | — | [NeoDB](https://neodb.social/movie/2Jrc8FPK6jUBS5NRDWwZtV) [豆瓣](https://movie.douban.com/subject/35131346/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2707581855.jpg) | 入殓师 | 泷田洋二郎 | 未评分 | 2022-08-26 | — | [NeoDB](https://neodb.social/movie/2G4L7gQHoNsr2ebKb1BhXC) [豆瓣](https://movie.douban.com/subject/2149806/) |
-| <img src="../covers/x-25975249.jpg" width="72" loading="lazy"> | 心灵想要大声呼喊 | 长井龙雪 | 未评分 | 2022-08-16 | — | [NeoDB](https://neodb.social/movie/2BAZKDoUzFFq5I5Pjk5ZNG) [豆瓣](https://movie.douban.com/subject/25975249/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2668815075.jpg) | 世界上最糟糕的人 | 约阿希姆·提尔 | 未评分 | 2022-02-14 | — | [NeoDB](https://neodb.social/movie/0KJXHHgYiH0CujAGGQ1m1M) [豆瓣](https://movie.douban.com/subject/34447553/) |
-| <img src="../covers/x-35096844.jpg" width="72" loading="lazy"> | 送你一朵小红花 | 韩延 | 未评分 | 2022-02-03 | — | [NeoDB](https://neodb.social/movie/7EaFlMcwk2drpvkdb1oWFA) [豆瓣](https://movie.douban.com/subject/35096844/) |
-| <img src="../covers/x-27156522.jpg" width="72" loading="lazy"> | 你的名字 | 卡洛斯·洛佩斯·埃斯特拉达 | 未评分 | 2021-12-30 | 笑死 | [NeoDB](https://neodb.social/movie/1HKKlH4It0CmaB0WQR5hbh) [豆瓣](https://movie.douban.com/subject/27156522/) |
-| <img src="../covers/x-1865703.jpg" width="72" loading="lazy"> | 红辣椒 | 今敏 | 未评分 | 2021-12-22 | — | [NeoDB](https://neodb.social/movie/5H6juMbvxc5k18eMRCqheU) [豆瓣](https://movie.douban.com/subject/1865703/) |
-| <img src="../covers/x-34841067.jpg" width="72" loading="lazy"> | 你好，李焕英 | 贾玲 | 未评分 | 2021-12-22 | — | [NeoDB](https://neodb.social/movie/4uYHvMrXEFGcX8koF4raMS) [豆瓣](https://movie.douban.com/subject/34841067/) |
-| <img src="../covers/x-1302642.jpg" width="72" loading="lazy"> | 花火 | 北野武 | 未评分 | 2021-12-22 | — | [NeoDB](https://neodb.social/movie/6iCnTm6pxwhRDUwY1NHapj) [豆瓣](https://movie.douban.com/subject/1302642/) |
-| <img src="../covers/x-4241946.jpg" width="72" loading="lazy"> | 映画大师宫崎骏 创作的秘密 |  | 未评分 | 2021-12-22 | — | [NeoDB](https://neodb.social/movie/7TDOpru58y304MIE0ezVCv) [豆瓣](https://movie.douban.com/subject/4241946/) |
-| <img src="../covers/x-35144311.jpg" width="72" loading="lazy"> | 雄狮少年 | 孙海鹏 | 未评分 | 2021-12-22 | — | [NeoDB](https://neodb.social/movie/1PuzXvCdcayhObXGvLF7gL) [豆瓣](https://movie.douban.com/subject/35144311/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2194386594.jpg) | 阿基里斯与龟 | 北野武 | 未评分 | 2021-12-22 | — | [NeoDB](https://neodb.social/movie/0aFVZ9RUH7nP8QYbrt5yXc) [豆瓣](https://movie.douban.com/subject/3039187/) |
-| <img src="../covers/x-1294639.jpg" width="72" loading="lazy"> | 勇敢的心 | 梅尔·吉布森 | 未评分 | 2021-08-29 | — | [NeoDB](https://neodb.social/movie/0aGSBoXRjlhchJ39O7cAY2) [豆瓣](https://movie.douban.com/subject/1294639/) |
-| <img src="../covers/x-1306029.jpg" width="72" loading="lazy"> | 美丽心灵 | 朗·霍华德 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/0V0VzmD5ztLkfq9SbYxYnh) [豆瓣](https://movie.douban.com/subject/1306029/) |
-| <img src="../covers/x-30221777.jpg" width="72" loading="lazy"> | 紫罗兰永恒花园 Extra Episode | 石立太一 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/7Flkq5yxSsHiIuiCdeHxNl) [豆瓣](https://movie.douban.com/subject/30221777/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578722076.jpg) | 紫罗兰永恒花园 外传 - 永远与自动手记人偶 - | 藤田春香 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/47yceHCBISB5TKAysSeEiJ) [豆瓣](https://movie.douban.com/subject/33424345/) |
-| <img src="../covers/x-30179560.jpg" width="72" loading="lazy"> | 紫罗兰永恒花园 剧场版 | 石立太一 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/2XmTqN3sZaiQCTDU8u9vm2) [豆瓣](https://movie.douban.com/subject/30179560/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545561196.jpg) | 朝花夕誓 | 冈田麿里、筱原俊哉 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/22WSvPydbv3BvW0L2QL0Z6) [豆瓣](https://movie.douban.com/subject/27083561/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574029074.jpg) | 若能与你共乘海浪之上 | 汤浅政明 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/1E4ADP8Io3A2jgY3QJwOD4) [豆瓣](https://movie.douban.com/subject/30345226/) |
-| <img src="../covers/x-34964061.jpg" width="72" loading="lazy"> | 想哭的我戴上了猫的面具 | 佐藤顺一、柴山智隆 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/4lXVMRSuAPv4FdbvC7kpDB) [豆瓣](https://movie.douban.com/subject/34964061/) |
-| <img src="../covers/x-34905764.jpg" width="72" loading="lazy"> | 乔西的虎与鱼 | 田村耕太郎 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/6fKoBruMUYtAfHLYQXs9Ri) [豆瓣](https://movie.douban.com/subject/34905764/) |
-| <img src="../covers/x-30401194.jpg" width="72" loading="lazy"> | 你好世界 | 伊藤智彦 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/3jorZUL9nGP2jfjqsetQpg) [豆瓣](https://movie.douban.com/subject/30401194/) |
-| <img src="../covers/x-26790961.jpg" width="72" loading="lazy"> | 闪光少女 | 王冉 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/1AUhxtaIeh0O11EW84r58T) [豆瓣](https://movie.douban.com/subject/26790961/) |
-| <img src="../covers/x-30167539.jpg" width="72" loading="lazy"> | 珠峰清道夫 | 玛丽娜·马丁斯 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/5GQ05rhAd3FbRUJEqOTH0F) [豆瓣](https://movie.douban.com/subject/30167539/) |
-| <img src="../covers/x-1307811.jpg" width="72" loading="lazy"> | 魔女宅急便 | 宫崎骏 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/0uOyPhvIS5IWaLz2VmQYma) [豆瓣](https://movie.douban.com/subject/1307811/) |
-| <img src="../covers/x-30334073.jpg" width="72" loading="lazy"> | 调音师 | 斯里兰姆·拉格万 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/6OzqObwA6XUrCx0ISDalRJ) [豆瓣](https://movie.douban.com/subject/30334073/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2568288336.jpg) | 罗小黑战记 | 木头 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/0DamGvp69SwyGrylQbjZFR) [豆瓣](https://movie.douban.com/subject/26709258/) |
-| <img src="../covers/x-26799731.jpg" width="72" loading="lazy"> | 请以你的名字呼唤我 | 卢卡·瓜达尼诺 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/6KSLhqVMZY9sEHMnTwtZVf) [豆瓣](https://movie.douban.com/subject/26799731/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1952673945.jpg) | 我们仍未知道那天所看见的花的名字 剧场版 | 长井龙雪 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/3UmUT0tdrtFxvXy2p0jcRC) [豆瓣](https://movie.douban.com/subject/11584024/) |
-| <img src="../covers/x-1297052.jpg" width="72" loading="lazy"> | 侧耳倾听 | 近藤喜文 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/3t2X3K2gL3ryF84lFQE0u4) [豆瓣](https://movie.douban.com/subject/1297052/) |
-| <img src="../covers/x-1291548.jpg" width="72" loading="lazy"> | 死亡诗社 | 彼得·威尔 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/1jqjpq1Zl7nTAR7jaTACqC) [豆瓣](https://movie.douban.com/subject/1291548/) |
-| <img src="../covers/x-30158971.jpg" width="72" loading="lazy"> | 企鹅公路 | 石田祐康 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/2PntcoRg9l3chgT3oH6GxI) [豆瓣](https://movie.douban.com/subject/30158971/) |
-| <img src="../covers/x-26914034.jpg" width="72" loading="lazy"> | 不了神话 宫崎骏 | 荒川格 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/631EKupVx4HPnqYVUTjfca) [豆瓣](https://movie.douban.com/subject/26914034/) |
-| <img src="../covers/x-5989818.jpg" width="72" loading="lazy"> | 萤火之森 | 大森贵弘 | 未评分 | 2021-08-26 | — | [NeoDB](https://neodb.social/movie/28euCmRkW8hPdwi5c0WZWV) [豆瓣](https://movie.douban.com/subject/5989818/) |
-| <img src="../covers/x-25814705.jpg" width="72" loading="lazy"> | 小森林 夏秋篇 | 森淳一 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/5g0j79DTH2nRJAMZoopbRP) [豆瓣](https://movie.douban.com/subject/25814705/) |
-| <img src="../covers/x-25814707.jpg" width="72" loading="lazy"> | 小森林 冬春篇 | 森淳一 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/5XFmTaEZMzVc17sTrhJ1mf) [豆瓣](https://movie.douban.com/subject/25814707/) |
-| <img src="../covers/x-26628357.jpg" width="72" loading="lazy"> | 一个叫欧维的男人决定去死 | 汉内斯·赫尔姆 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/2U1Vf9zXPq4ukNgQKKUxGi) [豆瓣](https://movie.douban.com/subject/26628357/) |
-| [封面](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p652417775.jpg) | 我是山姆 | 杰茜·尼尔森 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/7lUQ4XvJWrthqxy2stxclP) [豆瓣](https://movie.douban.com/subject/1306861/) |
-| <img src="../covers/x-4920389.jpg" width="72" loading="lazy"> | 头号玩家 | 史蒂文·斯皮尔伯格 | 未评分 | 2021-08-17 | — | [NeoDB](https://neodb.social/movie/1OaWCbcMzYAp15438lDbjh) [豆瓣](https://movie.douban.com/subject/4920389/) |
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7FnedSsVujM8iRZYeN1Qti.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">布达佩斯大饭店</div>
+<div class="media-meta">韦斯·安德森 · 未评分 · 2026-08-30 · <a href="https://neodb.social/movie/7FnedSsVujM8iRZYeN1Qti" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/11525673/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-4i8cTvtAETGdmjbTiiAhgL.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">六头鲨来袭</div>
+<div class="media-meta">马克·阿特金斯 · 未评分 · 2026-08-08 · <a href="https://neodb.social/movie/4i8cTvtAETGdmjbTiiAhgL" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30311141/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7dVXsAlLnrWdicYSx5rchG.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">不真实的国度</div>
+<div class="media-meta">虞琳敏 · 未评分 · 2026-05-17 · <a href="https://neodb.social/movie/7dVXsAlLnrWdicYSx5rchG" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1401384/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0nLHE4Nahno3TxhMTHV48e.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">完美的日子</div>
+<div class="media-meta">维姆·文德斯 · 未评分 · 2026-05-11 · <a href="https://neodb.social/movie/0nLHE4Nahno3TxhMTHV48e" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/35902857/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5JNEBpERf9S91oDZcnipiz.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">给阿嬷的情书</div>
+<div class="media-meta">蓝鸿春 · 未评分 · 2026-05-09 · <a href="https://neodb.social/movie/5JNEBpERf9S91oDZcnipiz" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/37116446/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3NhuQ6wMLFJmECFqeoYTrM.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">1/2的魔法</div>
+<div class="media-meta">丹·斯坎隆 · 未评分 · 2026-02-22 · <a href="https://neodb.social/movie/3NhuQ6wMLFJmECFqeoYTrM" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30401849/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">我记得当时在两部里考虑最后看了hp，怀念</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2Bk63NmfMN0bnvMFzLUQ0C.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">阳光普照</div>
+<div class="media-meta">钟孟宏 · 未评分 · 2026-02-17 · <a href="https://neodb.social/movie/2Bk63NmfMN0bnvMFzLUQ0C" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30292777/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-79xI5OWqu8YpRy91nH4P0V.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">功夫</div>
+<div class="media-meta">周星驰 · 未评分 · 2026-02-12 · <a href="https://neodb.social/movie/79xI5OWqu8YpRy91nH4P0V" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1291543/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1bgVODaWCBKlCQ1AuGlLzC.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">椒麻堂会</div>
+<div class="media-meta">邱炯炯 · 未评分 · 2025-11-30 · <a href="https://neodb.social/movie/1bgVODaWCBKlCQ1AuGlLzC" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/27305997/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5KJNqbTzhuc5BNV2ubGdIl.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">一一</div>
+<div class="media-meta">杨德昌 · 未评分 · 2025-10-30 · <a href="https://neodb.social/movie/5KJNqbTzhuc5BNV2ubGdIl" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1292434/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1fJZOK4O6k9vb4nPjSCYFX.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">银翼杀手2049</div>
+<div class="media-meta">丹尼斯·维伦纽瓦 · 未评分 · 2025-07-22 · <a href="https://neodb.social/movie/1fJZOK4O6k9vb4nPjSCYFX" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/10512661/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-07UjvDPvTdebqvHoCaVT43.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">银翼杀手</div>
+<div class="media-meta">雷德利·斯科特 · 未评分 · 2025-07-22 · <a href="https://neodb.social/movie/07UjvDPvTdebqvHoCaVT43" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1291839/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6saqdxGZh82ErO2A9lt7qu.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">欢迎来到驹田蒸馏所</div>
+<div class="media-meta">吉原正行 · 未评分 · 2025-04-23 · <a href="https://neodb.social/movie/6saqdxGZh82ErO2A9lt7qu" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/36394934/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7fIwXgppEmrxdgaInrv40u.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">大提琴手</div>
+<div class="media-meta">高畑勋 · 未评分 · 2025-03-12 · <a href="https://neodb.social/movie/7fIwXgppEmrxdgaInrv40u" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1302145/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6CkjXQ3jF2AP4CpJEfG5ul.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">刺猬的优雅</div>
+<div class="media-meta">莫娜·阿查切 · 未评分 · 2025-02-14 · <a href="https://neodb.social/movie/6CkjXQ3jF2AP4CpJEfG5ul" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/3824274/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6QIOui8zy8l5KevLzhVAsq.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">萤火虫之墓</div>
+<div class="media-meta">高畑勋 · 未评分 · 2025-02-11 · <a href="https://neodb.social/movie/6QIOui8zy8l5KevLzhVAsq" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1293318/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5StDxOKbHAtRM1EYns3PLO.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">公主追杀令</div>
+<div class="media-meta">安德斯·摩根泰勒 · 未评分 · 2025-02-05 · <a href="https://neodb.social/movie/5StDxOKbHAtRM1EYns3PLO" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1866901/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6jJ4dkY7oEi2Vw9fLvKvql.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">机器人之梦</div>
+<div class="media-meta">巴勃罗·贝格尔 · 未评分 · 2025-01-25 · <a href="https://neodb.social/movie/6jJ4dkY7oEi2Vw9fLvKvql" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/35426925/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7ApoL3wfMs1UsiktN68KhK.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">穿越时空的少女</div>
+<div class="media-meta">细田守 · 未评分 · 2024-12-26 · <a href="https://neodb.social/movie/7ApoL3wfMs1UsiktN68KhK" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1937946/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7XUB4X198035SRhBOlO03Y.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">平原上的夏洛克</div>
+<div class="media-meta">徐磊 · 未评分 · 2024-12-10 · <a href="https://neodb.social/movie/7XUB4X198035SRhBOlO03Y" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/33400376/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3n9buL3yaSCQgfBDFYTL2m.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">某种物质</div>
+<div class="media-meta">科拉莉·法尔雅 · 未评分 · 2024-09-24 · <a href="https://neodb.social/movie/3n9buL3yaSCQgfBDFYTL2m" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/35882838/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-36YM7VM3UugUChjZCSSIJW.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">无人引航</div>
+<div class="media-meta">威廉·H·梅西 · 未评分 · 2024-09-04 · <a href="https://neodb.social/movie/36YM7VM3UugUChjZCSSIJW" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/10754780/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-4dmOHDczntRaIdfoiXxsWv.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">垫底辣妹</div>
+<div class="media-meta">土井裕泰 · 未评分 · 2024-06-01 · <a href="https://neodb.social/movie/4dmOHDczntRaIdfoiXxsWv" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26259677/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-60oiOnjHdxZwou950UgND6.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">蝴蝶效应</div>
+<div class="media-meta">埃里克·布雷斯、J·麦基·格鲁伯 · 未评分 · 2024-05-31 · <a href="https://neodb.social/movie/60oiOnjHdxZwou950UgND6" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1292343/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2ABzhdkKEGW2YX7Fe11tlO.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">瞬息全宇宙</div>
+<div class="media-meta">关家永、丹尼尔·施纳特 · 未评分 · 2024-05-23 · <a href="https://neodb.social/movie/2ABzhdkKEGW2YX7Fe11tlO" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30314848/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6qAHTBGcZC0oM3OuwRssuZ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">乘船而去</div>
+<div class="media-meta">陈小雨 · 未评分 · 2024-04-19 · <a href="https://neodb.social/movie/6qAHTBGcZC0oM3OuwRssuZ" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/35268501/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-44E3AK7EKtc9fb3lBBqZNr.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">宇宙探索编辑部</div>
+<div class="media-meta">孔大山 · 未评分 · 2024-04-06 · <a href="https://neodb.social/movie/44E3AK7EKtc9fb3lBBqZNr" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/34941536/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5P3IYh0rycvTg4ppQpO5VW.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">你的颜色</div>
+<div class="media-meta">山田尚子 · 未评分 · 2024-03-15 · <a href="https://neodb.social/movie/5P3IYh0rycvTg4ppQpO5VW" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/36177245/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">2024年夏！</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1941lH9Z5vN6FImLf6w240.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">坏孩子的天空</div>
+<div class="media-meta">北野武 · 未评分 · 2024-02-15 · <a href="https://neodb.social/movie/1941lH9Z5vN6FImLf6w240" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1299062/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7SReOVIEq3itRypnDbcRqE.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">你想活出怎样的人生</div>
+<div class="media-meta">宫崎骏 · 未评分 · 2024-02-14 · <a href="https://neodb.social/movie/7SReOVIEq3itRypnDbcRqE" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26925611/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3zg9X9GqLf40SLcP3xZt1B.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">香草的天空</div>
+<div class="media-meta">卡梅伦·克罗 · 未评分 · 2024-01-05 · <a href="https://neodb.social/movie/3zg9X9GqLf40SLcP3xZt1B" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1299054/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6ZT8zEaLHHwwdxh4N0Hmqt.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">永恒和一日</div>
+<div class="media-meta">西奥·安哲罗普洛斯 · 未评分 · 2023-11-03 · <a href="https://neodb.social/movie/6ZT8zEaLHHwwdxh4N0Hmqt" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1293455/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7mVqT4tk2Pm0cRTv3GJOjT.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">摇滚藏獒</div>
+<div class="media-meta">艾什·布兰农 · 未评分 · 2023-10-27 · <a href="https://neodb.social/movie/7mVqT4tk2Pm0cRTv3GJOjT" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/25749813/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1FCnPnh9wfDofRNiMjvsPQ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">海边的曼彻斯特</div>
+<div class="media-meta">肯尼思·洛纳根 · 未评分 · 2023-10-09 · <a href="https://neodb.social/movie/1FCnPnh9wfDofRNiMjvsPQ" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/25980443/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6pm6Bd4ZVAMnXCMCJlvIxt.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">茶啊二中</div>
+<div class="media-meta">夏铭泽、阎凯 · 未评分 · 2023-07-26 · <a href="https://neodb.social/movie/6pm6Bd4ZVAMnXCMCJlvIxt" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/34880018/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0Be3lmvC8txIqJPqKZTOWm.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">再次出发之纽约遇见你</div>
+<div class="media-meta">约翰·卡尼 · 未评分 · 2023-06-15 · <a href="https://neodb.social/movie/0Be3lmvC8txIqJPqKZTOWm" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/6874403/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5PNSxUqF9z5WLFhI1Eqyy1.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">蜘蛛侠：纵横宇宙(下)</div>
+<div class="media-meta">鲍勃·佩尔西凯蒂、贾斯汀·汤普森 · 未评分 · 2023-06-10 · <a href="https://neodb.social/movie/5PNSxUqF9z5WLFhI1Eqyy1" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/35715647/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5TTX7VfN4GHX4HbwLILNpq.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">小偷家族</div>
+<div class="media-meta">是枝裕和 · 未评分 · 2023-05-18 · <a href="https://neodb.social/movie/5TTX7VfN4GHX4HbwLILNpq" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/27622447/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3ncFaPVAtNbO2XhM0sWdk2.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">七磅</div>
+<div class="media-meta">加布里埃莱·穆奇诺 · 未评分 · 2023-04-13 · <a href="https://neodb.social/movie/3ncFaPVAtNbO2XhM0sWdk2" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/2969282/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6HXNhoodf0SR9gB1DR4brZ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">俄罗斯方块</div>
+<div class="media-meta">乔·拜尔德 · 未评分 · 2023-04-04 · <a href="https://neodb.social/movie/6HXNhoodf0SR9gB1DR4brZ" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26087471/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6SAqdyMEu3kGepBN0mHZAr.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">肖申克的救赎</div>
+<div class="media-meta">弗兰克·德拉邦特 · 未评分 · 2023-02-26 · <a href="https://neodb.social/movie/6SAqdyMEu3kGepBN0mHZAr" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1292052/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5SfUpBL7Ep6RIIa7TQBmtT.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">何以为家</div>
+<div class="media-meta">娜丁·拉巴基 · 未评分 · 2023-02-26 · <a href="https://neodb.social/movie/5SfUpBL7Ep6RIIa7TQBmtT" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30170448/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6jvwnE7AseHXcADIrrqbQi.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">千年女优</div>
+<div class="media-meta">今敏 · 未评分 · 2022-12-26 · <a href="https://neodb.social/movie/6jvwnE7AseHXcADIrrqbQi" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1307394/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3NsQG93ZdXjJxpJb6odN0o.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">花束般的恋爱</div>
+<div class="media-meta">土井裕泰 · 未评分 · 2022-09-04 · <a href="https://neodb.social/movie/3NsQG93ZdXjJxpJb6odN0o" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/34874432/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3W1p0hQhFGBgOYN4o0E3cT.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">让子弹飞</div>
+<div class="media-meta">姜文 · 未评分 · 2022-08-29 · <a href="https://neodb.social/movie/3W1p0hQhFGBgOYN4o0E3cT" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/3742360/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5OUR2KsP8z4YqXfPvxG9Y4.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">飞屋环游记</div>
+<div class="media-meta">彼特·道格特、鲍勃·彼德森 · 未评分 · 2022-08-29 · <a href="https://neodb.social/movie/5OUR2KsP8z4YqXfPvxG9Y4" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/2129039/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2Jrc8FPK6jUBS5NRDWwZtV.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">隐入尘烟</div>
+<div class="media-meta">李睿珺 · 未评分 · 2022-08-29 · <a href="https://neodb.social/movie/2Jrc8FPK6jUBS5NRDWwZtV" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/35131346/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2G4L7gQHoNsr2ebKb1BhXC.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">入殓师</div>
+<div class="media-meta">泷田洋二郎 · 未评分 · 2022-08-26 · <a href="https://neodb.social/movie/2G4L7gQHoNsr2ebKb1BhXC" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/2149806/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2BAZKDoUzFFq5I5Pjk5ZNG.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">心灵想要大声呼喊</div>
+<div class="media-meta">长井龙雪 · 未评分 · 2022-08-16 · <a href="https://neodb.social/movie/2BAZKDoUzFFq5I5Pjk5ZNG" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/25975249/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0KJXHHgYiH0CujAGGQ1m1M.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">世界上最糟糕的人</div>
+<div class="media-meta">约阿希姆·提尔 · 未评分 · 2022-02-14 · <a href="https://neodb.social/movie/0KJXHHgYiH0CujAGGQ1m1M" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/34447553/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7EaFlMcwk2drpvkdb1oWFA.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">送你一朵小红花</div>
+<div class="media-meta">韩延 · 未评分 · 2022-02-03 · <a href="https://neodb.social/movie/7EaFlMcwk2drpvkdb1oWFA" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/35096844/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1HKKlH4It0CmaB0WQR5hbh.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">你的名字</div>
+<div class="media-meta">卡洛斯·洛佩斯·埃斯特拉达 · 未评分 · 2021-12-30 · <a href="https://neodb.social/movie/1HKKlH4It0CmaB0WQR5hbh" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/27156522/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">笑死</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5H6juMbvxc5k18eMRCqheU.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">红辣椒</div>
+<div class="media-meta">今敏 · 未评分 · 2021-12-22 · <a href="https://neodb.social/movie/5H6juMbvxc5k18eMRCqheU" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1865703/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-4uYHvMrXEFGcX8koF4raMS.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">你好，李焕英</div>
+<div class="media-meta">贾玲 · 未评分 · 2021-12-22 · <a href="https://neodb.social/movie/4uYHvMrXEFGcX8koF4raMS" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/34841067/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6iCnTm6pxwhRDUwY1NHapj.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">花火</div>
+<div class="media-meta">北野武 · 未评分 · 2021-12-22 · <a href="https://neodb.social/movie/6iCnTm6pxwhRDUwY1NHapj" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1302642/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7TDOpru58y304MIE0ezVCv.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">映画大师宫崎骏 创作的秘密</div>
+<div class="media-meta">未评分 · 2021-12-22 · <a href="https://neodb.social/movie/7TDOpru58y304MIE0ezVCv" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/4241946/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1PuzXvCdcayhObXGvLF7gL.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">雄狮少年</div>
+<div class="media-meta">孙海鹏 · 未评分 · 2021-12-22 · <a href="https://neodb.social/movie/1PuzXvCdcayhObXGvLF7gL" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/35144311/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0aFVZ9RUH7nP8QYbrt5yXc.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">阿基里斯与龟</div>
+<div class="media-meta">北野武 · 未评分 · 2021-12-22 · <a href="https://neodb.social/movie/0aFVZ9RUH7nP8QYbrt5yXc" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/3039187/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0aGSBoXRjlhchJ39O7cAY2.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">勇敢的心</div>
+<div class="media-meta">梅尔·吉布森 · 未评分 · 2021-08-29 · <a href="https://neodb.social/movie/0aGSBoXRjlhchJ39O7cAY2" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1294639/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0V0VzmD5ztLkfq9SbYxYnh.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">美丽心灵</div>
+<div class="media-meta">朗·霍华德 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/0V0VzmD5ztLkfq9SbYxYnh" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1306029/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7Flkq5yxSsHiIuiCdeHxNl.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">紫罗兰永恒花园 Extra Episode</div>
+<div class="media-meta">石立太一 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/7Flkq5yxSsHiIuiCdeHxNl" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30221777/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-47yceHCBISB5TKAysSeEiJ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">紫罗兰永恒花园 外传 - 永远与自动手记人偶 -</div>
+<div class="media-meta">藤田春香 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/47yceHCBISB5TKAysSeEiJ" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/33424345/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2XmTqN3sZaiQCTDU8u9vm2.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">紫罗兰永恒花园 剧场版</div>
+<div class="media-meta">石立太一 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/2XmTqN3sZaiQCTDU8u9vm2" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30179560/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-22WSvPydbv3BvW0L2QL0Z6.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">朝花夕誓</div>
+<div class="media-meta">冈田麿里、筱原俊哉 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/22WSvPydbv3BvW0L2QL0Z6" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/27083561/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1E4ADP8Io3A2jgY3QJwOD4.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">若能与你共乘海浪之上</div>
+<div class="media-meta">汤浅政明 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/1E4ADP8Io3A2jgY3QJwOD4" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30345226/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-4lXVMRSuAPv4FdbvC7kpDB.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">想哭的我戴上了猫的面具</div>
+<div class="media-meta">佐藤顺一、柴山智隆 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/4lXVMRSuAPv4FdbvC7kpDB" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/34964061/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6fKoBruMUYtAfHLYQXs9Ri.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">乔西的虎与鱼</div>
+<div class="media-meta">田村耕太郎 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/6fKoBruMUYtAfHLYQXs9Ri" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/34905764/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3jorZUL9nGP2jfjqsetQpg.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">你好世界</div>
+<div class="media-meta">伊藤智彦 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/3jorZUL9nGP2jfjqsetQpg" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30401194/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1AUhxtaIeh0O11EW84r58T.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">闪光少女</div>
+<div class="media-meta">王冉 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/1AUhxtaIeh0O11EW84r58T" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26790961/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5GQ05rhAd3FbRUJEqOTH0F.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">珠峰清道夫</div>
+<div class="media-meta">玛丽娜·马丁斯 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/5GQ05rhAd3FbRUJEqOTH0F" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30167539/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0uOyPhvIS5IWaLz2VmQYma.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">魔女宅急便</div>
+<div class="media-meta">宫崎骏 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/0uOyPhvIS5IWaLz2VmQYma" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1307811/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6OzqObwA6XUrCx0ISDalRJ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">调音师</div>
+<div class="media-meta">斯里兰姆·拉格万 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/6OzqObwA6XUrCx0ISDalRJ" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30334073/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-0DamGvp69SwyGrylQbjZFR.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">罗小黑战记</div>
+<div class="media-meta">木头 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/0DamGvp69SwyGrylQbjZFR" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26709258/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-6KSLhqVMZY9sEHMnTwtZVf.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">请以你的名字呼唤我</div>
+<div class="media-meta">卢卡·瓜达尼诺 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/6KSLhqVMZY9sEHMnTwtZVf" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26799731/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3UmUT0tdrtFxvXy2p0jcRC.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">我们仍未知道那天所看见的花的名字 剧场版</div>
+<div class="media-meta">长井龙雪 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/3UmUT0tdrtFxvXy2p0jcRC" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/11584024/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-3t2X3K2gL3ryF84lFQE0u4.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">侧耳倾听</div>
+<div class="media-meta">近藤喜文 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/3t2X3K2gL3ryF84lFQE0u4" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1297052/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1jqjpq1Zl7nTAR7jaTACqC.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">死亡诗社</div>
+<div class="media-meta">彼得·威尔 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/1jqjpq1Zl7nTAR7jaTACqC" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1291548/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2PntcoRg9l3chgT3oH6GxI.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">企鹅公路</div>
+<div class="media-meta">石田祐康 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/2PntcoRg9l3chgT3oH6GxI" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/30158971/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-631EKupVx4HPnqYVUTjfca.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">不了神话 宫崎骏</div>
+<div class="media-meta">荒川格 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/631EKupVx4HPnqYVUTjfca" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26914034/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-28euCmRkW8hPdwi5c0WZWV.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">萤火之森</div>
+<div class="media-meta">大森贵弘 · 未评分 · 2021-08-26 · <a href="https://neodb.social/movie/28euCmRkW8hPdwi5c0WZWV" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/5989818/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5g0j79DTH2nRJAMZoopbRP.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">小森林 夏秋篇</div>
+<div class="media-meta">森淳一 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/5g0j79DTH2nRJAMZoopbRP" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/25814705/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-5XFmTaEZMzVc17sTrhJ1mf.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">小森林 冬春篇</div>
+<div class="media-meta">森淳一 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/5XFmTaEZMzVc17sTrhJ1mf" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/25814707/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-2U1Vf9zXPq4ukNgQKKUxGi.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">一个叫欧维的男人决定去死</div>
+<div class="media-meta">汉内斯·赫尔姆 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/2U1Vf9zXPq4ukNgQKKUxGi" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/26628357/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-7lUQ4XvJWrthqxy2stxclP.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">我是山姆</div>
+<div class="media-meta">杰茜·尼尔森 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/7lUQ4XvJWrthqxy2stxclP" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/1306861/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-movie-1OaWCbcMzYAp15438lDbjh.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">头号玩家</div>
+<div class="media-meta">史蒂文·斯皮尔伯格 · 未评分 · 2021-08-17 · <a href="https://neodb.social/movie/1OaWCbcMzYAp15438lDbjh" target="_blank" rel="noopener">NeoDB</a> <a href="https://movie.douban.com/subject/4920389/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>

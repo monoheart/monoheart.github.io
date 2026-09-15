@@ -4,208 +4,1786 @@
 
 ## 看过（116）
 
-| 封面 | 标题 | 作者/导演 | 评分 | 时间 | 短评 | 链接 |
-|---|---|---|---|---|---|---|
-| <img src="../covers/x-37290908.jpg" width="72" loading="lazy"> | 燕子呢喃，白鹤鸣叫 | 阮夕清 | ★★★☆☆ | 2026-09-09 | 营销过度了。<br>勉勉强强算得上有趣 | [NeoDB](https://neodb.social/book/15ywFCXO0pFbTSW0shxmrc) [豆瓣](https://book.douban.com/subject/37290908/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s29610326.jpg) | 我らコンタクティ | 森田るい | ★★★☆☆ | 2026-08-13 | 还算有意思 | [NeoDB](https://neodb.social/book/6p6bgNPmCytuBHFnGqHcIX) [豆瓣](https://book.douban.com/subject/27173667/) |
-| <img src="../covers/x-35005045.jpg" width="72" loading="lazy"> | 夜晚的潜水艇 | 陈春成 | ★★★★☆ | 2026-06-14 | 相当喜欢，很对上电波 | [NeoDB](https://neodb.social/book/6qPDyUhNN8ZEP9v5YVU7tx) [豆瓣](https://book.douban.com/subject/35005045/) |
-| — | 明日仍將戀上他 | 入間人間/左 | ★★☆☆☆ | 2026-04-02 | 1 | [NeoDB](https://neodb.social/book/3aajKpki7gzMoXhYf5Ky0R) [豆瓣](https://book.douban.com/subject/20272305/) |
-| <img src="../covers/x-10824791.jpg" width="72" loading="lazy"> | 昨日也曾愛著他 | 入間人間/左 | ★★☆☆☆ | 2026-04-02 | 水课在轻小说文库里偶然翻到遂把上下两本都看了<br>很无聊很莫名其妙 | [NeoDB](https://neodb.social/book/43g4Z0sOeETUNGFJKeMnX9) [豆瓣](https://book.douban.com/subject/10824791/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s34758936.jpg) | 藤本树短篇集 17-21 | [日] 藤本树 | ★★★★★ | 2026-03-25 | 水课上读完了第二遍<br>真喜欢 | [NeoDB](https://neodb.social/book/018Pg2dgdK5do0NOV8GHce) [豆瓣](https://book.douban.com/subject/36639380/) |
-| — | 炎拳 | 藤本タツキ | ★★★★★ | 2026-03-18 | 第一遍是大一刚开学坐在操场上读完的，最近读完了第二遍，很短特的一部作品 | [NeoDB](https://neodb.social/book/50TIwTCjd3UR1X5IEaB2Th) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s34667686.jpg) | 雪国（2022） | [日] 川端康成 | ★★★★☆ | 2025-05-13 | 补标 | [NeoDB](https://neodb.social/book/1qO0OJSarmlaMgLgeD8MT0) [豆瓣](https://book.douban.com/subject/35818897/) |
-| <img src="../covers/x-6265745.jpg" width="72" loading="lazy"> | 银河系搭车客指南 | [英] 道格拉斯·亚当斯 | ★★★★☆ | 2025-05-07 | 5月8日08:19:57英语课<br>很电波很无厘头<br>有几句还是挺有意思的<br>不是很理解这样的东西怎么改成电影 | [NeoDB](https://neodb.social/book/7J1vDXb5pS3fwfrVhRylPT) [豆瓣](https://book.douban.com/subject/6265745/) |
-| <img src="../covers/x-20441957.jpg" width="72" loading="lazy"> | 兄弟 | 余华 | ★★★★★ | 2025-05-02 | 5月3日10:30:47在宿舍读完<br>悲惨到荒诞 | [NeoDB](https://neodb.social/book/7FPmhGluhNTaJFpOhCXzAH) [豆瓣](https://book.douban.com/subject/20441957/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s29773195.jpg) | 与罗摩相会 | [英] 阿瑟·克拉克 | 未评分 | 2025-05-02 | 很久之前看过，已经忘的差不多了，补标 | [NeoDB](https://neodb.social/book/3S9OS4tyCJ5goMGE46UKpb) [豆瓣](https://book.douban.com/subject/30161861/) |
-| <img src="../covers/x-35335514.jpg" width="72" loading="lazy"> | 文城 | 余华 | 未评分 | 2025-04-07 | 很早之前在集训的时候读过 | [NeoDB](https://neodb.social/book/0WhdElm9GvmYjJbcxsoPfL) [豆瓣](https://book.douban.com/subject/35335514/) |
-| <img src="../covers/x-30270242.jpg" width="72" loading="lazy"> | 星尘 | (英) 尼尔·盖曼 (Neil Gaiman) | 未评分 | 2025-04-07 | 很久之前读过，忘记标了 | [NeoDB](https://neodb.social/book/1Nei2PajjFbpt002jH3FAf) [豆瓣](https://book.douban.com/subject/30270242/) |
-| <img src="../covers/x-3094201.jpg" width="72" loading="lazy"> | 晚安，布布(01) | 浅野いにお | ★★★★★ | 2025-03-10 | — | [NeoDB](https://neodb.social/book/3erPShUuTfvq3JloNtYayO) [豆瓣](https://book.douban.com/subject/3094201/) |
-| <img src="../covers/x-30181685.jpg" width="72" loading="lazy"> | 莫失莫忘 | [英] 石黑一雄 | ★★★★☆ | 2025-03-02 | 很久之前看过许的，没有看完<br>忘记了是在集训还是什么时候<br>在微信读书里翻到，又想起来这本了，于是一天没有听课，看完了<br>非常不合理的科幻设定，简直是在践踏人类道德伦理…作为捐献者的学生一味顺从而不去寻找真相或者反抗也很难接受<br>淡淡的回忆感与隐藏着的悲伤贯穿始终<br>讨厌虚伪的露丝<br>很喜欢学校的设定，温柔的避风港，虽然背后是被冠以了这样的目的，却为这些可怜的孩子提供了成长的乐园 | [NeoDB](https://neodb.social/book/6td8kLRbGyYpWeq9KCnHLY) [豆瓣](https://book.douban.com/subject/30181685/) |
-| <img src="../covers/x-35651703.jpg" width="72" loading="lazy"> | 书与钥匙的季节 | [日] 米泽穗信 | ★★★★☆ | 2025-02-24 | 两天看完了，还是学校适合看书<br>看的很舒服的日常推理<br>两个男主性格过于相似了，看完了还是分不清<br>以及米泽真的很喜欢写这种“小小的恶”（？） | [NeoDB](https://neodb.social/book/6VhWnSc9Lotn4MKgDpJBwN) [豆瓣](https://book.douban.com/subject/35651703/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s29827014.jpg) | 恶意 | [日] 东野圭吾 | ★★★☆☆ | 2025-01-29 | 很久之前老哥送的一整套，四本 | [NeoDB](https://neodb.social/book/4L74hoR4OJL8qROiqubs5t) [豆瓣](https://book.douban.com/subject/26877752/) |
-| <img src="../covers/x-27070071.jpg" width="72" loading="lazy"> | 迟来的翅膀 | [日] 米泽穗信 | ★★★★★ | 2024-10-29 | 10月30日17:36习思 | [NeoDB](https://neodb.social/book/4mjwJUnf2AZ1W2pP1ZfLgm) [豆瓣](https://book.douban.com/subject/27070071/) |
-| <img src="../covers/x-25885612.jpg" width="72" loading="lazy"> | 两人距离的概算 | [日] 米泽穗信 | ★★★★★ | 2024-10-22 | 10月23日19:31:45<br>于晚自习读完<br>活动室的书 | [NeoDB](https://neodb.social/book/0mg5sEl27Dyrgr0IEPPqFE) [豆瓣](https://book.douban.com/subject/25885612/) |
-| <img src="../covers/x-33372392.jpg" width="72" loading="lazy"> | 恋爱寄生虫 | [日] 三秋缒 | ★★★★☆ | 2024-09-25 | 花了半节水课，半节线代看完了<br>相当动人的故事，三秋缒的书适合偶尔读上一本 | [NeoDB](https://neodb.social/book/3Fa7OmvH80PtaKZnThRGY4) [豆瓣](https://book.douban.com/subject/33372392/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s34802556.jpg) | 尘埃落定 | 阿来 | ★★★★★ | 2024-03-30 | 百年孤独+红楼梦的感觉<br>阿来，语言大师 | [NeoDB](https://neodb.social/book/1otSUJUxaTDcA6ogufblnb) [豆瓣](https://book.douban.com/subject/35051822/) |
-| <img src="../covers/x-26651926.jpg" width="72" loading="lazy"> | 红手指 | [日] 东野圭吾 | ★★★★☆ | 2024-03-23 | 结尾怪怪的 | [NeoDB](https://neodb.social/book/1QRbVyXejWqrF9sV9oEoJU) [豆瓣](https://book.douban.com/subject/26651926/) |
-| <img src="../covers/x-24853056.jpg" width="72" loading="lazy"> | 愚者的片尾 | [日] 米泽穗信 | ★★★★★ | 2024-02-16 | — | [NeoDB](https://neodb.social/book/5ZowD89qnFhKkaxpznzm63) [豆瓣](https://book.douban.com/subject/24853056/) |
-| <img src="../covers/x-24383185.jpg" width="72" loading="lazy"> | 冰菓 | [日] 米泽穗信 | ★★★★★ | 2024-02-15 | — | [NeoDB](https://neodb.social/book/7TKNLd3kerzGQ3zp9fMl75) [豆瓣](https://book.douban.com/subject/24383185/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s34283794.jpg) | 蓦然回首 | [日] 藤本树 | ★★★★★ | 2023-09-27 | 9月28日于操场读完<br>第一遍有点没有看懂 | [NeoDB](https://neodb.social/book/10UR8JmVyyJPl3FT1iPW8y) [豆瓣](https://book.douban.com/subject/35801543/) |
-| <img src="../covers/x-26980300.jpg" width="72" loading="lazy"> | 三日间的幸福 | [日] 三秋缒 | ★★★★★ | 2023-09-14 | 第二遍<br>抛开诸多不合理之处，很多想法其实还很有意思 | [NeoDB](https://neodb.social/book/2jZUicz4exqqGvgGezN9te) [豆瓣](https://book.douban.com/subject/26980300/) |
-| <img src="../covers/x-36094872.jpg" width="72" loading="lazy"> | 通往夏天的隧道，再见的出口 | [日] 八目迷 | ★★★☆☆ | 2023-08-07 | 像是高中生会写出来的小说<br>人物有些许单薄，故事不复杂但也还算动人<br>文笔实在一般 | [NeoDB](https://neodb.social/book/0uAXPF0HGrDadZEZv08RJL) [豆瓣](https://book.douban.com/subject/36094872/) |
-| <img src="../covers/x-26210487.jpg" width="72" loading="lazy"> | 强风吹拂 | [日] 三浦紫苑 | ★★★☆☆ | 2023-08-04 | 9.0评分偏高，打个三星中和一下<br>很热血，很青春，跑步的描写也很动人 | [NeoDB](https://neodb.social/book/1jt41ggFdzK0MlaiGFPuSf) [豆瓣](https://book.douban.com/subject/26210487/) |
-| <img src="../covers/x-35017604.jpg" width="72" loading="lazy"> | 祈念守护人 | [日] 东野圭吾 | ★★★☆☆ | 2023-08-02 | 晚自习读完，谢谢jx<br>没有期待中那么好<br>结构很乱，莫名其妙的感情线，过于直白的表述 | [NeoDB](https://neodb.social/book/1FuOLw3Nhw7ny6ig4WzTMJ) [豆瓣](https://book.douban.com/subject/35017604/) |
-| <img src="../covers/x-26906797.jpg" width="72" loading="lazy"> | 圣女的救济 | [日] 东野圭吾 | ★★★☆☆ | 2023-08-01 | — | [NeoDB](https://neodb.social/book/3G3PUT0usVIPE4qHgvpTs0) [豆瓣](https://book.douban.com/subject/26906797/) |
-| <img src="../covers/x-36363217.jpg" width="72" loading="lazy"> | 冰菓漫画 13-14 | [日] TASKOHNA 编绘、[日] 米泽穗信 原作 | ★★★★★ | 2023-07-30 | zzd | [NeoDB](https://neodb.social/book/65K8qy3CwVvHXjAyVaKAfj) [豆瓣](https://book.douban.com/subject/36363217/) |
-| <img src="../covers/x-20421947.jpg" width="72" loading="lazy"> | 在细雨中呼喊 | 余华 | ★★★★☆ | 2023-07-30 | 集训 两天读完<br>无尽的孤独 悲情是底色 | [NeoDB](https://neodb.social/book/4XSJCRNVlWvtYKaZEF8jPk) [豆瓣](https://book.douban.com/subject/20421947/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s27218035.jpg) | 冰与火之歌 | [美]乔治·R.R.马丁 | ★★★★★ | 2023-07-25 | — | [NeoDB](https://neodb.social/book/4BnobMXU8EKnaancjG9jvH) [豆瓣](https://book.douban.com/subject/25826936/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s2651394.jpg) | 灿烂千阳 | [美] 卡勒德·胡赛尼 | ★★★★★ | 2023-07-25 | 7月26日21:39晚自习 | [NeoDB](https://neodb.social/book/1xbljMe9ztw20sdGbbe7sA) [豆瓣](https://book.douban.com/subject/2143732/) |
-| <img src="../covers/x-24540864.jpg" width="72" loading="lazy"> | 第七天 | 余华 | ★★★★★ | 2023-07-16 | 荒诞而又现实<br>多么残忍的人，才能这样去描写不幸 | [NeoDB](https://neodb.social/book/25Ef7mh4PDn34g7QD2Kc9P) [豆瓣](https://book.douban.com/subject/24540864/) |
-| <img src="../covers/x-3136271.jpg" width="72" loading="lazy"> | 罗生门 | [日] 芥川龙之介 | ★★★★★ | 2023-06-23 | — | [NeoDB](https://neodb.social/book/0dx3EfYQ3K5gfrISl7gsKE) [豆瓣](https://book.douban.com/subject/3136271/) |
-| <img src="../covers/x-10594787.jpg" width="72" loading="lazy"> | 霍乱时期的爱情 | [哥伦比亚] 加西亚·马尔克斯 | ★★★★★ | 2023-05-23 | — | [NeoDB](https://neodb.social/book/0TC2pzkdlnZHB8iOB7HKuE) [豆瓣](https://book.douban.com/subject/10594787/) |
-| <img src="../covers/x-1046265.jpg" width="72" loading="lazy"> | 挪威的森林 | [日] 村上春树 | ★★★★☆ | 2023-05-08 | 不喜欢男主<br>被很多细节打动<br>过多的sex看的我一尬一尬的… | [NeoDB](https://neodb.social/book/0dgpnqTv6UYavkKc2625PN) [豆瓣](https://book.douban.com/subject/1046265/) |
-| <img src="../covers/x-24736899.jpg" width="72" loading="lazy"> | 雪国 | [日本] 川端康成 | ★★★★☆ | 2023-05-02 | 细腻 | [NeoDB](https://neodb.social/book/4efLUTHXxl1TFRzDpYbg3w) [豆瓣](https://book.douban.com/subject/24736899/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s34099286.jpg) | 呐喊 | 鲁迅 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/4MFiRhOCK2RddnliFVq4PG) [豆瓣](https://book.douban.com/subject/1449351/) |
-| <img src="../covers/x-1275907.jpg" width="72" loading="lazy"> | 八十天环游地球 | [法] 儒勒·凡尔纳 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/1RKdqQrKWBhlyVEXkC6I6O) [豆瓣](https://book.douban.com/subject/1275907/) |
-| <img src="../covers/x-5327697.jpg" width="72" loading="lazy"> | 橙 | 安东尼 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/4JMAns06qggw7LXanXAugL) [豆瓣](https://book.douban.com/subject/5327697/) |
-| <img src="../covers/x-2253413.jpg" width="72" loading="lazy"> | 巴黎圣母院 | 雨果 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/0fkvhy5RBOChyc3fRgcWXd) [豆瓣](https://book.douban.com/subject/2253413/) |
-| <img src="../covers/x-1865089.jpg" width="72" loading="lazy"> | 瓦尔登湖 | [美] 梭罗 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/10GFXy3MzhsXqF4u8LTI5z) [豆瓣](https://book.douban.com/subject/1865089/) |
-| <img src="../covers/x-26371317.jpg" width="72" loading="lazy"> | 24个比利 | [美] 丹尼尔·凯斯 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/6A6OkiZHqgZGevcIRSGs0y) [豆瓣](https://book.douban.com/subject/26371317/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s3814606.jpg) | 恶意 | [日] 东野圭吾 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/5ApPu0rNPyycLIGeVvxdYe) [豆瓣](https://book.douban.com/subject/3646172/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s29869926.jpg) | 活着 | 余华 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/6HEM4B7Qn0zt5Qb1eZpzag) [豆瓣](https://book.douban.com/subject/4913064/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s1989294.jpg) | 钢铁是怎样炼成的 | 奥斯特洛夫斯基 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/1N07Tzv7VCE24qK9oCtKYd) [豆瓣](https://book.douban.com/subject/1894744/) |
-| <img src="../covers/x-1002898.jpg" width="72" loading="lazy"> | 父与子全集 | [德] 埃·奥·卜劳恩 绘 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/7LYBUSQC50STn6Mn2Go9BJ) [豆瓣](https://book.douban.com/subject/1002898/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s1072746.jpg) | 哈利·波特与火焰杯 | [英] J. K. 罗琳 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/38bisXBEXG4qdj2vHKM5SX) [豆瓣](https://book.douban.com/subject/1009257/) |
-| <img src="../covers/x-4061972.jpg" width="72" loading="lazy"> | 狼王梦 | 沈石溪 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/7lEW0zDpBsvBhYSzQ34kOv) [豆瓣](https://book.douban.com/subject/4061972/) |
-| <img src="../covers/x-35914464.jpg" width="72" loading="lazy"> | さよなら絵梨 [Sayonara Eri] | 藤本 タツキ | ★★★★★ | 2022-11-15 | 独特 | [NeoDB](https://neodb.social/book/1b1CFLGCbXnY067GPMplNE) [豆瓣](https://book.douban.com/subject/35914464/) |
-| <img src="../covers/x-27102207.jpg" width="72" loading="lazy"> | 放学后 | [日] 东野圭吾 | ★★★☆☆ | 2022-09-20 | 男主老婆这个人物塑造的也太单薄了，却偏偏要在结尾这样给她安排一个情节 | [NeoDB](https://neodb.social/book/2cb3M0EaJWWnLjnUxR678B) [豆瓣](https://book.douban.com/subject/27102207/) |
-| <img src="../covers/x-30161866.jpg" width="72" loading="lazy"> | 太年轻 | [美]加·泽文 | ★★★★☆ | 2022-09-14 | — | [NeoDB](https://neodb.social/book/7G89IWkPYx4HPlsjPHC0dR) [豆瓣](https://book.douban.com/subject/30161866/) |
-| <img src="../covers/x-26340138.jpg" width="72" loading="lazy"> | 岛上书店 | [美] 加布瑞埃拉·泽文 | ★★★★☆ | 2022-09-14 | — | [NeoDB](https://neodb.social/book/2AbibIOpd5mW3oWslfnrdd) [豆瓣](https://book.douban.com/subject/26340138/) |
-| <img src="../covers/x-26998358.jpg" width="72" loading="lazy"> | 时光倒流的女孩 | [美] 加·泽文 | ★★★★★ | 2022-09-14 | 加泽文最喜欢的还是这本 | [NeoDB](https://neodb.social/book/6B1TnZHr8bLyWZ9SYmhJHh) [豆瓣](https://book.douban.com/subject/26998358/) |
-| <img src="../covers/x-26787941.jpg" width="72" loading="lazy"> | 玛格丽特小镇 | [美] 加·泽文 | ★★★☆☆ | 2022-09-14 | — | [NeoDB](https://neodb.social/book/2OjE8mBNiQZmp2MGC1kDNG) [豆瓣](https://book.douban.com/subject/26787941/) |
-| <img src="../covers/x-26264967.jpg" width="72" loading="lazy"> | 神们自己 | [美] 艾萨克·阿西莫夫 | ★★★★☆ | 2022-09-14 | — | [NeoDB](https://neodb.social/book/363Q6MYw57OCXWC8NuoP02) [豆瓣](https://book.douban.com/subject/26264967/) |
-| <img src="../covers/x-30309784.jpg" width="72" loading="lazy"> | 巧克力时代 | 加布瑞埃拉·泽文 | ★★★☆☆ | 2022-09-14 | — | [NeoDB](https://neodb.social/book/25XVDNfwFFVwAF7tCBJbDv) [豆瓣](https://book.douban.com/subject/30309784/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s26849345.jpg) | 无人生还 | [英] 阿加莎·克里斯蒂 | ★★★☆☆ | 2022-08-05 | 8月6日晚 两天读完<br>感谢wkd<br>不是很喜欢结局 | [NeoDB](https://neodb.social/book/2hDOKC6Hg84PjyNE6wa0yA) [豆瓣](https://book.douban.com/subject/24859822/) |
-| <img src="../covers/x-26974777.jpg" width="72" loading="lazy"> | 1984 | 乔治·奥威尔 | ★★★★★ | 2022-08-01 | 8月2日 集训 重读 | [NeoDB](https://neodb.social/book/0CPvFFckO6rZUuuFxDgjyD) [豆瓣](https://book.douban.com/subject/26974777/) |
-| <img src="../covers/x-26362836.jpg" width="72" loading="lazy"> | 献给阿尔吉侬的花束 | [美] 丹尼尔·凯斯 | ★★★★★ | 2022-07-30 | 7月31日集训时读完 | [NeoDB](https://neodb.social/book/4RcTj1AilRVONB8RIKJSVA) [豆瓣](https://book.douban.com/subject/26362836/) |
-| <img src="../covers/x-27104286.jpg" width="72" loading="lazy"> | 寂寞的游戏 | 袁哲生 | ★★★★★ | 2022-03-16 | 很想推荐给别人 | [NeoDB](https://neodb.social/book/0LyzIHLhIZuApnOXkguZjs) [豆瓣](https://book.douban.com/subject/27104286/) |
-| <img src="../covers/x-1029791.jpg" width="72" loading="lazy"> | 许三观卖血记 | 余华 | ★★★★★ | 2022-02-14 | — | [NeoDB](https://neodb.social/book/4tvMgmCZtnRo56WGqFkWY2) [豆瓣](https://book.douban.com/subject/1029791/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s29443244.jpg) | 神奇动物在哪里 | [英] J. K. 罗琳 | ★★★★★ | 2022-02-02 | — | [NeoDB](https://neodb.social/book/0nySdV2rTzWePUKrWfi7Pl) [豆瓣](https://book.douban.com/subject/26984868/) |
-| <img src="../covers/x-26916709.jpg" width="72" loading="lazy"> | 你的名字 | 新海诚 | ★★★★☆ | 2021-12-30 | 凯翔送的 | [NeoDB](https://neodb.social/book/2JIFavaG46Ut5Mzod9xLbQ) [豆瓣](https://book.douban.com/subject/26916709/) |
-| <img src="../covers/x-4760224.jpg" width="72" loading="lazy"> | 许三观卖血记 | 余华 | ★★★★★ | 2021-12-28 | 最近读完。结尾实在虐心… | [NeoDB](https://neodb.social/book/7azG0zJkXCkeG6i4hBXAfY) [豆瓣](https://book.douban.com/subject/4760224/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s33684075.jpg) | 飞吧，黑居易 刘耀辉诗意成长书系 | 刘耀辉 | ★★★★☆ | 2021-12-10 | zgs | [NeoDB](https://neodb.social/book/2Ke3amuM1NFxYzGMTYNdJP) [豆瓣](https://book.douban.com/subject/33411515/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s1817666.jpg) | 海底两万里 | [法国] 儒尔·凡尔纳 | ★★★★☆ | 2021-12-10 | — | [NeoDB](https://neodb.social/book/4kWe8S9ckRjkxi28AHwxEA) [豆瓣](https://book.douban.com/subject/1085470/) |
-| <img src="../covers/x-1043815.jpg" width="72" loading="lazy"> | 骆驼祥子 | 老舍 | ★★★★☆ | 2021-12-10 | — | [NeoDB](https://neodb.social/book/3pJymATNDKQ3amoO7vhFhR) [豆瓣](https://book.douban.com/subject/1043815/) |
-| <img src="../covers/x-1036274.jpg" width="72" loading="lazy"> | 夏洛的网 | [美] E.B.怀特、[美国] 埃尔温·布鲁克斯·怀特 | ★★★★☆ | 2021-12-10 | — | [NeoDB](https://neodb.social/book/6KzJDSCbQUepJjzc4Amwus) [豆瓣](https://book.douban.com/subject/1036274/) |
-| <img src="../covers/x-1052990.jpg" width="72" loading="lazy"> | 草房子 | 曹文轩 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/4S1wztqpkyuiqZjN8xWzUv) [豆瓣](https://book.douban.com/subject/1052990/) |
-| <img src="../covers/x-1064275.jpg" width="72" loading="lazy"> | 老人与海 | [美]海明威 | ★★★★★ | 2021-12-10 | — | [NeoDB](https://neodb.social/book/3oQZcaWzRDzIP9iEr3h55v) [豆瓣](https://book.douban.com/subject/1064275/) |
-| <img src="../covers/x-1024197.jpg" width="72" loading="lazy"> | 巴黎圣母院 | [法]雨果 | ★★★★★ | 2021-12-10 | — | [NeoDB](https://neodb.social/book/1YR33J37soX9GBMsu39Us2) [豆瓣](https://book.douban.com/subject/1024197/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s5924326.jpg) | 简爱（英文全本） | [英] 夏洛蒂·勃朗特 | ★★★★☆ | 2021-12-10 | 甜 | [NeoDB](https://neodb.social/book/47nAirgkQMaHbeq5b1CkwB) [豆瓣](https://book.douban.com/subject/1141406/) |
-| <img src="../covers/x-25829693.jpg" width="72" loading="lazy"> | 永恒的终结 | [美] 艾萨克·阿西莫夫 | ★★★★☆ | 2021-12-10 | 在医院里手术前读的 记得还带了一本瓦尔登湖 但只有这本看完了 | [NeoDB](https://neodb.social/book/5viDBjpbSUtoYJgPIMvtLt) [豆瓣](https://book.douban.com/subject/25829693/) |
-| <img src="../covers/x-1007914.jpg" width="72" loading="lazy"> | 窗边的小豆豆 | [日] 黑柳彻子 著、岩崎千弘 图 | 未评分 | 2021-12-10 | 大都忘记了 有时间打算重温 | [NeoDB](https://neodb.social/book/09np7N0m5w080oJxOAMhYh) [豆瓣](https://book.douban.com/subject/1007914/) |
-| <img src="../covers/x-1449352.jpg" width="72" loading="lazy"> | 朝花夕拾 | 鲁迅 | ★★★★☆ | 2021-12-10 | — | [NeoDB](https://neodb.social/book/2lLmzuquJA68RwHwvQptWY) [豆瓣](https://book.douban.com/subject/1449352/) |
-| <img src="../covers/x-1795079.jpg" width="72" loading="lazy"> | 乡土中国 | 费孝通 | ★★★★☆ | 2021-12-10 | 有所收获 也是第一次读学术类作品 | [NeoDB](https://neodb.social/book/6WypX3FL8A6hZikIWuuLHW) [豆瓣](https://book.douban.com/subject/1795079/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s29101586.jpg) | 哈利·波特 | [英] J·K·罗琳 | ★★★★★ | 2021-12-10 | — | [NeoDB](https://neodb.social/book/0BlI2YA8p1GddzqkFq8F4k) [豆瓣](https://book.douban.com/subject/24531956/) |
-| <img src="../covers/x-25985021.jpg" width="72" loading="lazy"> | 人类简史 | [以色列] 尤瓦尔·赫拉利 | ★★★★☆ | 2021-12-10 | — | [NeoDB](https://neodb.social/book/51bFn01lYsM5uXnOJ9WM3P) [豆瓣](https://book.douban.com/subject/25985021/) |
-| <img src="../covers/x-1040211.jpg" width="72" loading="lazy"> | 福尔摩斯探案全集（上中下） | [英] 阿·柯南道尔 | ★★★★☆ | 2021-12-10 | — | [NeoDB](https://neodb.social/book/0NnNMDppF2bQqFyPMwyuYn) [豆瓣](https://book.douban.com/subject/1040211/) |
-| <img src="../covers/x-26856061.jpg" width="72" loading="lazy"> | 球状闪电 | 刘慈欣 | ★★★★☆ | 2021-12-10 | — | [NeoDB](https://neodb.social/book/0zc5Kdk8MzwINNpfAVLSJ0) [豆瓣](https://book.douban.com/subject/26856061/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s28357056.jpg) | 三体全集 | 刘慈欣 | ★★★★★ | 2021-12-10 | — | [NeoDB](https://neodb.social/book/2URlzyNSCbC0bQsTzfHeAE) [豆瓣](https://book.douban.com/subject/6518605/) |
-| <img src="../covers/x-1019568.jpg" width="72" loading="lazy"> | 三国演义（全二册） | [明] 罗贯中 | ★★★★★ | 2021-12-10 | 小学时候就很喜欢 | [NeoDB](https://neodb.social/book/7gbJHnD1XnG3UDdixTy2Vp) [豆瓣](https://book.douban.com/subject/1019568/) |
-| <img src="../covers/x-20424614.jpg" width="72" loading="lazy"> | 红 | 安东尼 | ★★★★☆ | 2021-11-27 | — | [NeoDB](https://neodb.social/book/33uh8882n6e9aNCzWe2qfk) [豆瓣](https://book.douban.com/subject/20424614/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s33492346.jpg) | 你当像鸟飞往你的山 | [美] 塔拉·韦斯特弗 | ★★★★☆ | 2021-09-04 | 喜欢第二部分的结尾，被戳到了<br>每个人都在用自己的方式爱着自己的家人 | [NeoDB](https://neodb.social/book/2mdEocABJPjYSzuEs2c5QC) [豆瓣](https://book.douban.com/subject/33440205/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s33544846.jpg) | 圆圈正义 | 罗翔 | ★★★★★ | 2021-08-29 | 自习课上借了同学的读了一节课 | [NeoDB](https://neodb.social/book/6VumzkOgPMNK69fjN2yb9P) [豆瓣](https://book.douban.com/subject/34815132/) |
-| <img src="../covers/x-34799480.jpg" width="72" loading="lazy"> | 天气之子 | [日] 新海诚 | ★★★★☆ | 2021-08-21 | — | [NeoDB](https://neodb.social/book/2gXt0XzBOfMz0hicFlwYBF) [豆瓣](https://book.douban.com/subject/34799480/) |
-| <img src="../covers/x-25862578.jpg" width="72" loading="lazy"> | 解忧杂货店 | [日] 东野圭吾 | ★★★★☆ | 2021-08-21 | — | [NeoDB](https://neodb.social/book/4mfB3oI7xv9BPTtlicoQeG) [豆瓣](https://book.douban.com/subject/25862578/) |
-| <img src="../covers/x-26791407.jpg" width="72" loading="lazy"> | 孤独深处 | 郝景芳 | ★★★☆☆ | 2021-08-21 | — | [NeoDB](https://neodb.social/book/6vRqsoFLMPKEW3ty8lXaXg) [豆瓣](https://book.douban.com/subject/26791407/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s29477615.jpg) | 美丽新世界 | 【英】奥尔德斯·赫胥黎 | ★★★★☆ | 2021-08-17 | — | [NeoDB](https://neodb.social/book/1kNyIg0YP721lKHoeHlvFE) [豆瓣](https://book.douban.com/subject/27002046/) |
-| <img src="../covers/x-25838428.jpg" width="72" loading="lazy"> | 我们 | 尤金·扎米亚金 | ★★★★☆ | 2021-08-17 | — | [NeoDB](https://neodb.social/book/4SIPoJrGSFdemk2B37PnOH) [豆瓣](https://book.douban.com/subject/25838428/) |
-| <img src="../covers/x-27077140.jpg" width="72" loading="lazy"> | 奇点遗民 | 【美】刘宇昆 | ★★★★★ | 2021-08-17 | — | [NeoDB](https://neodb.social/book/7j8QVuJtexUzXKSuW8nsyQ) [豆瓣](https://book.douban.com/subject/27077140/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s4007145.jpg) | 肖申克的救赎 | [美] 斯蒂芬·金 | ★★★★☆ | 2021-08-17 | 不太喜欢第二个故事 | [NeoDB](https://neodb.social/book/0VoNDaHX4R29ovDXOAvKC4) [豆瓣](https://book.douban.com/subject/1829226/) |
-| <img src="../covers/x-1858513.jpg" width="72" loading="lazy"> | 月亮和六便士 | [英] 毛姆 | ★★★★★ | 2021-08-17 | — | [NeoDB](https://neodb.social/book/0c7b2tDSC5kU8Nkzr3ZVBh) [豆瓣](https://book.douban.com/subject/1858513/) |
-| <img src="../covers/x-1084336.jpg" width="72" loading="lazy"> | 小王子 | [法] 安东尼·德·圣-埃克苏佩里 | ★★★★★ | 2021-08-17 | 完美的童话 | [NeoDB](https://neodb.social/book/1AT5MpqfRMd4wEeOE1uGIF) [豆瓣](https://book.douban.com/subject/1084336/) |
-| <img src="../covers/x-2035179.jpg" width="72" loading="lazy"> | 动物农场 | [英] 乔治·奥威尔 | ★★★★★ | 2021-08-17 | 结局看的背后一凉 | [NeoDB](https://neodb.social/book/70PvDMdEMCLCv0sKKg56aI) [豆瓣](https://book.douban.com/subject/2035179/) |
-| <img src="../covers/x-1770782.jpg" width="72" loading="lazy"> | 追风筝的人 | [美] 卡勒德·胡赛尼 | ★★★★☆ | 2021-08-17 | — | [NeoDB](https://neodb.social/book/1UBGp593Cb5oNMUANS30Hk) [豆瓣](https://book.douban.com/subject/1770782/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s3254244.jpg) | 嫌疑人X的献身 | [日] 东野圭吾 | ★★★★☆ | 2021-08-17 | — | [NeoDB](https://neodb.social/book/77JSasU4Y3L4yxZ9PcJ022) [豆瓣](https://book.douban.com/subject/3211779/) |
-| <img src="../covers/x-10554308.jpg" width="72" loading="lazy"> | 白夜行 | [日] 东野圭吾 | ★★★★★ | 2021-08-17 | — | [NeoDB](https://neodb.social/book/0oH2luJGCafZKSRnQjAArw) [豆瓣](https://book.douban.com/subject/10554308/) |
-| <img src="../covers/x-6082808.jpg" width="72" loading="lazy"> | 百年孤独 | [哥伦比亚] 加西亚·马尔克斯 | ★★★★☆ | 2021-08-17 | 2021.8.18<br>读的时候感觉过于晦涩<br>以及书中很多细节让人回味<br>感觉自己还是不太适合啃这种书（捂脸<br>2022年9月14日重读第二遍<br>第二遍弄懂了很多东西，不得不感慨作者的伟大…恰到好处的细节和出乎意料又在情理之中的情节 | [NeoDB](https://neodb.social/book/4AD6dlBaI5GWtFEWsaPVYl) [豆瓣](https://book.douban.com/subject/6082808/) |
-| <img src="../covers/x-4820710.jpg" width="72" loading="lazy"> | 1984 | [英] 乔治·奥威尔 | ★★★★★ | 2021-08-17 | — | [NeoDB](https://neodb.social/book/5UZ10zBWMqkIVbzdc1zdVG) [豆瓣](https://book.douban.com/subject/4820710/) |
-| <img src="../covers/x-3066477.jpg" width="72" loading="lazy"> | 三体Ⅱ | 刘慈欣 | ★★★★★ | 2021-08-16 | — | [NeoDB](https://neodb.social/book/71YWWTuNgvwGndv8m8DEBu) [豆瓣](https://book.douban.com/subject/3066477/) |
-| <img src="../covers/x-2567698.jpg" width="72" loading="lazy"> | 三体 | 刘慈欣 | ★★★★★ | 2018-12-02 | 把文革、游戏、未来结合在一起，不得不佩服 | [NeoDB](https://neodb.social/book/7OGqnJkxiQZImAxD9aAgMr) [豆瓣](https://book.douban.com/subject/2567698/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s26012674.jpg) | 三体Ⅲ | 刘慈欣 | ★★★★★ | 2018-12-02 | 说实话刘慈欣笔下的女性都写的不太好啊我觉得 | [NeoDB](https://neodb.social/book/5TOECyDkPh16BaEcz2eNgI) [豆瓣](https://book.douban.com/subject/5363767/) |
-| <img src="../covers/x-1041007.jpg" width="72" loading="lazy"> | 哈利·波特与魔法石 | [英] J. K. 罗琳 | ★★★★★ | 2018-12-02 | — | [NeoDB](https://neodb.social/book/2qqxjbLDSy8nA6KcFcIlUy) [豆瓣](https://book.douban.com/subject/1041007/) |
-| <img src="../covers/x-1013129.jpg" width="72" loading="lazy"> | 哈利·波特与凤凰社 | [英] J. K. 罗琳 | ★★★★☆ | 2018-12-02 | 翻译错误不少…… | [NeoDB](https://neodb.social/book/0JgKhiuVrepPZZmFLKyHrq) [豆瓣](https://book.douban.com/subject/1013129/) |
-| <img src="../covers/x-26871656.jpg" width="72" loading="lazy"> | 哈利·波特与被诅咒的孩子 | [英] 约翰·蒂法尼、杰克·索恩、J.K.罗琳 | ★★★★☆ | 2018-12-02 | 看到JK罗琳就立刻借来读完，但并不是那么好，有一点失望。<br>---<br>21.8.18<br>突然想起来自己很喜欢金妮说的那句话<br>有时间找找 | [NeoDB](https://neodb.social/book/66F3PLycoKmiRHj2cMRHfJ) [豆瓣](https://book.douban.com/subject/26871656/) |
-| <img src="../covers/x-26126183.jpg" width="72" loading="lazy"> | 哈利·波特与魔法石（纪念版） | [英] J. K. 罗琳 | ★★★★★ | 2018-12-02 | — | [NeoDB](https://neodb.social/book/4s17W1Y2EcWb3FAbyir50i) [豆瓣](https://book.douban.com/subject/26126183/) |
-| <img src="../covers/x-26126497.jpg" width="72" loading="lazy"> | 哈利·波特与密室 | [英] J.K.罗琳 | ★★★★★ | 2018-12-02 | — | [NeoDB](https://neodb.social/book/6iwyN7Dp9ykD989IVxi0Rv) [豆瓣](https://book.douban.com/subject/26126497/) |
-| <img src="../covers/x-26126545.jpg" width="72" loading="lazy"> | 哈利·波特与死亡圣器 | [英] J. K. 罗琳 | ★★★★★ | 2018-12-02 | — | [NeoDB](https://neodb.social/book/0xgXnXiO8qL6vp5i34PIvS) [豆瓣](https://book.douban.com/subject/26126545/) |
-| <img src="../covers/x-26126498.jpg" width="72" loading="lazy"> | 哈利·波特与阿兹卡班囚徒 | [英] J. K. 罗琳 | ★★★★★ | 2018-12-02 | — | [NeoDB](https://neodb.social/book/7OrpKUEMKaf3vGFkOxbEuC) [豆瓣](https://book.douban.com/subject/26126498/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s27614035.jpg) | 哈利·波特与火焰杯 | J.K.罗琳 | ★★★★★ | 2018-12-02 | — | [NeoDB](https://neodb.social/book/3Tdc8TKLk2JGynt0UjKmlG) [豆瓣](https://book.douban.com/subject/26126139/) |
-| <img src="../covers/x-26126522.jpg" width="72" loading="lazy"> | 哈利·波特与"混血王子" | [英] J. K. 罗琳 | ★★★★★ | 2018-12-02 | — | [NeoDB](https://neodb.social/book/18NTVBcjW9MvN3LGl6Vrdr) [豆瓣](https://book.douban.com/subject/26126522/) |
-| <img src="../covers/x-26126500.jpg" width="72" loading="lazy"> | 哈利·波特与凤凰社 | [英] J. K. 罗琳 | ★★★★☆ | 2018-12-02 | — | [NeoDB](https://neodb.social/book/4478oKuEHRBQGojB1TR4F8) [豆瓣](https://book.douban.com/subject/26126500/) |
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-15ywFCXO0pFbTSW0shxmrc.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">燕子呢喃，白鹤鸣叫</div>
+<div class="media-meta">阮夕清 · ★★★☆☆ · 2026-09-09 · <a href="https://neodb.social/book/15ywFCXO0pFbTSW0shxmrc" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/37290908/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">营销过度了。<br>勉勉强强算得上有趣</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6p6bgNPmCytuBHFnGqHcIX.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">我らコンタクティ</div>
+<div class="media-meta">森田るい · ★★★☆☆ · 2026-08-13 · <a href="https://neodb.social/book/6p6bgNPmCytuBHFnGqHcIX" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/27173667/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">还算有意思</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6qPDyUhNN8ZEP9v5YVU7tx.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">夜晚的潜水艇</div>
+<div class="media-meta">陈春成 · ★★★★☆ · 2026-06-14 · <a href="https://neodb.social/book/6qPDyUhNN8ZEP9v5YVU7tx" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35005045/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">相当喜欢，很对上电波</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3aajKpki7gzMoXhYf5Ky0R.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">明日仍將戀上他</div>
+<div class="media-meta">入間人間/左 · ★★☆☆☆ · 2026-04-02 · <a href="https://neodb.social/book/3aajKpki7gzMoXhYf5Ky0R" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/20272305/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">1</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-43g4Z0sOeETUNGFJKeMnX9.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">昨日也曾愛著他</div>
+<div class="media-meta">入間人間/左 · ★★☆☆☆ · 2026-04-02 · <a href="https://neodb.social/book/43g4Z0sOeETUNGFJKeMnX9" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/10824791/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">水课在轻小说文库里偶然翻到遂把上下两本都看了<br>很无聊很莫名其妙</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-018Pg2dgdK5do0NOV8GHce.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">藤本树短篇集 17-21</div>
+<div class="media-meta">[日] 藤本树 · ★★★★★ · 2026-03-25 · <a href="https://neodb.social/book/018Pg2dgdK5do0NOV8GHce" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/36639380/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">水课上读完了第二遍<br>真喜欢</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-50TIwTCjd3UR1X5IEaB2Th.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">炎拳</div>
+<div class="media-meta">藤本タツキ · ★★★★★ · 2026-03-18 · <a href="https://neodb.social/book/50TIwTCjd3UR1X5IEaB2Th" target="_blank" rel="noopener">NeoDB</a></div>
+<div class="media-comment">第一遍是大一刚开学坐在操场上读完的，最近读完了第二遍，很短特的一部作品</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1qO0OJSarmlaMgLgeD8MT0.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">雪国（2022）</div>
+<div class="media-meta">[日] 川端康成 · ★★★★☆ · 2025-05-13 · <a href="https://neodb.social/book/1qO0OJSarmlaMgLgeD8MT0" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35818897/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">补标</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7J1vDXb5pS3fwfrVhRylPT.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">银河系搭车客指南</div>
+<div class="media-meta">[英] 道格拉斯·亚当斯 · ★★★★☆ · 2025-05-07 · <a href="https://neodb.social/book/7J1vDXb5pS3fwfrVhRylPT" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/6265745/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">5月8日08:19:57英语课<br>很电波很无厘头<br>有几句还是挺有意思的<br>不是很理解这样的东西怎么改成电影</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7FPmhGluhNTaJFpOhCXzAH.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">兄弟</div>
+<div class="media-meta">余华 · ★★★★★ · 2025-05-02 · <a href="https://neodb.social/book/7FPmhGluhNTaJFpOhCXzAH" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/20441957/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">5月3日10:30:47在宿舍读完<br>悲惨到荒诞</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3S9OS4tyCJ5goMGE46UKpb.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">与罗摩相会</div>
+<div class="media-meta">[英] 阿瑟·克拉克 · 未评分 · 2025-05-02 · <a href="https://neodb.social/book/3S9OS4tyCJ5goMGE46UKpb" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/30161861/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">很久之前看过，已经忘的差不多了，补标</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0WhdElm9GvmYjJbcxsoPfL.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">文城</div>
+<div class="media-meta">余华 · 未评分 · 2025-04-07 · <a href="https://neodb.social/book/0WhdElm9GvmYjJbcxsoPfL" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35335514/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">很早之前在集训的时候读过</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1Nei2PajjFbpt002jH3FAf.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">星尘</div>
+<div class="media-meta">(英) 尼尔·盖曼 (Neil Gaiman) · 未评分 · 2025-04-07 · <a href="https://neodb.social/book/1Nei2PajjFbpt002jH3FAf" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/30270242/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">很久之前读过，忘记标了</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3erPShUuTfvq3JloNtYayO.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">晚安，布布(01)</div>
+<div class="media-meta">浅野いにお · ★★★★★ · 2025-03-10 · <a href="https://neodb.social/book/3erPShUuTfvq3JloNtYayO" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/3094201/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6td8kLRbGyYpWeq9KCnHLY.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">莫失莫忘</div>
+<div class="media-meta">[英] 石黑一雄 · ★★★★☆ · 2025-03-02 · <a href="https://neodb.social/book/6td8kLRbGyYpWeq9KCnHLY" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/30181685/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">很久之前看过许的，没有看完<br>忘记了是在集训还是什么时候<br>在微信读书里翻到，又想起来这本了，于是一天没有听课，看完了<br>非常不合理的科幻设定，简直是在践踏人类道德伦理…作为捐献者的学生一味顺从而不去寻找真相或者反抗也很难接受<br>淡淡的回忆感与隐藏着的悲伤贯穿始终<br>讨厌虚伪的露丝<br>很喜欢学校的设定，温柔的避风港，虽然背后是被冠以了这样的目的，却为这些可怜的孩子提供了成长的乐园</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6VhWnSc9Lotn4MKgDpJBwN.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">书与钥匙的季节</div>
+<div class="media-meta">[日] 米泽穗信 · ★★★★☆ · 2025-02-24 · <a href="https://neodb.social/book/6VhWnSc9Lotn4MKgDpJBwN" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35651703/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">两天看完了，还是学校适合看书<br>看的很舒服的日常推理<br>两个男主性格过于相似了，看完了还是分不清<br>以及米泽真的很喜欢写这种“小小的恶”（？）</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4L74hoR4OJL8qROiqubs5t.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">恶意</div>
+<div class="media-meta">[日] 东野圭吾 · ★★★☆☆ · 2025-01-29 · <a href="https://neodb.social/book/4L74hoR4OJL8qROiqubs5t" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26877752/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">很久之前老哥送的一整套，四本</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4mjwJUnf2AZ1W2pP1ZfLgm.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">迟来的翅膀</div>
+<div class="media-meta">[日] 米泽穗信 · ★★★★★ · 2024-10-29 · <a href="https://neodb.social/book/4mjwJUnf2AZ1W2pP1ZfLgm" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/27070071/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">10月30日17:36习思</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0mg5sEl27Dyrgr0IEPPqFE.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">两人距离的概算</div>
+<div class="media-meta">[日] 米泽穗信 · ★★★★★ · 2024-10-22 · <a href="https://neodb.social/book/0mg5sEl27Dyrgr0IEPPqFE" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/25885612/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">10月23日19:31:45<br>于晚自习读完<br>活动室的书</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3Fa7OmvH80PtaKZnThRGY4.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">恋爱寄生虫</div>
+<div class="media-meta">[日] 三秋缒 · ★★★★☆ · 2024-09-25 · <a href="https://neodb.social/book/3Fa7OmvH80PtaKZnThRGY4" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/33372392/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">花了半节水课，半节线代看完了<br>相当动人的故事，三秋缒的书适合偶尔读上一本</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1otSUJUxaTDcA6ogufblnb.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">尘埃落定</div>
+<div class="media-meta">阿来 · ★★★★★ · 2024-03-30 · <a href="https://neodb.social/book/1otSUJUxaTDcA6ogufblnb" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35051822/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">百年孤独+红楼梦的感觉<br>阿来，语言大师</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1QRbVyXejWqrF9sV9oEoJU.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">红手指</div>
+<div class="media-meta">[日] 东野圭吾 · ★★★★☆ · 2024-03-23 · <a href="https://neodb.social/book/1QRbVyXejWqrF9sV9oEoJU" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26651926/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">结尾怪怪的</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5ZowD89qnFhKkaxpznzm63.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">愚者的片尾</div>
+<div class="media-meta">[日] 米泽穗信 · ★★★★★ · 2024-02-16 · <a href="https://neodb.social/book/5ZowD89qnFhKkaxpznzm63" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/24853056/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7TKNLd3kerzGQ3zp9fMl75.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">冰菓</div>
+<div class="media-meta">[日] 米泽穗信 · ★★★★★ · 2024-02-15 · <a href="https://neodb.social/book/7TKNLd3kerzGQ3zp9fMl75" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/24383185/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-10UR8JmVyyJPl3FT1iPW8y.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">蓦然回首</div>
+<div class="media-meta">[日] 藤本树 · ★★★★★ · 2023-09-27 · <a href="https://neodb.social/book/10UR8JmVyyJPl3FT1iPW8y" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35801543/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">9月28日于操场读完<br>第一遍有点没有看懂</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2jZUicz4exqqGvgGezN9te.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">三日间的幸福</div>
+<div class="media-meta">[日] 三秋缒 · ★★★★★ · 2023-09-14 · <a href="https://neodb.social/book/2jZUicz4exqqGvgGezN9te" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26980300/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">第二遍<br>抛开诸多不合理之处，很多想法其实还很有意思</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0uAXPF0HGrDadZEZv08RJL.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">通往夏天的隧道，再见的出口</div>
+<div class="media-meta">[日] 八目迷 · ★★★☆☆ · 2023-08-07 · <a href="https://neodb.social/book/0uAXPF0HGrDadZEZv08RJL" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/36094872/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">像是高中生会写出来的小说<br>人物有些许单薄，故事不复杂但也还算动人<br>文笔实在一般</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1jt41ggFdzK0MlaiGFPuSf.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">强风吹拂</div>
+<div class="media-meta">[日] 三浦紫苑 · ★★★☆☆ · 2023-08-04 · <a href="https://neodb.social/book/1jt41ggFdzK0MlaiGFPuSf" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26210487/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">9.0评分偏高，打个三星中和一下<br>很热血，很青春，跑步的描写也很动人</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1FuOLw3Nhw7ny6ig4WzTMJ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">祈念守护人</div>
+<div class="media-meta">[日] 东野圭吾 · ★★★☆☆ · 2023-08-02 · <a href="https://neodb.social/book/1FuOLw3Nhw7ny6ig4WzTMJ" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35017604/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">晚自习读完，谢谢jx<br>没有期待中那么好<br>结构很乱，莫名其妙的感情线，过于直白的表述</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3G3PUT0usVIPE4qHgvpTs0.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">圣女的救济</div>
+<div class="media-meta">[日] 东野圭吾 · ★★★☆☆ · 2023-08-01 · <a href="https://neodb.social/book/3G3PUT0usVIPE4qHgvpTs0" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26906797/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-65K8qy3CwVvHXjAyVaKAfj.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">冰菓漫画 13-14</div>
+<div class="media-meta">[日] TASKOHNA 编绘、[日] 米泽穗信 原作 · ★★★★★ · 2023-07-30 · <a href="https://neodb.social/book/65K8qy3CwVvHXjAyVaKAfj" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/36363217/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">zzd</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4XSJCRNVlWvtYKaZEF8jPk.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">在细雨中呼喊</div>
+<div class="media-meta">余华 · ★★★★☆ · 2023-07-30 · <a href="https://neodb.social/book/4XSJCRNVlWvtYKaZEF8jPk" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/20421947/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">集训 两天读完<br>无尽的孤独 悲情是底色</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4BnobMXU8EKnaancjG9jvH.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">冰与火之歌</div>
+<div class="media-meta">[美]乔治·R.R.马丁 · ★★★★★ · 2023-07-25 · <a href="https://neodb.social/book/4BnobMXU8EKnaancjG9jvH" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/25826936/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1xbljMe9ztw20sdGbbe7sA.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">灿烂千阳</div>
+<div class="media-meta">[美] 卡勒德·胡赛尼 · ★★★★★ · 2023-07-25 · <a href="https://neodb.social/book/1xbljMe9ztw20sdGbbe7sA" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/2143732/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">7月26日21:39晚自习</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-25Ef7mh4PDn34g7QD2Kc9P.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">第七天</div>
+<div class="media-meta">余华 · ★★★★★ · 2023-07-16 · <a href="https://neodb.social/book/25Ef7mh4PDn34g7QD2Kc9P" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/24540864/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">荒诞而又现实<br>多么残忍的人，才能这样去描写不幸</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0dx3EfYQ3K5gfrISl7gsKE.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">罗生门</div>
+<div class="media-meta">[日] 芥川龙之介 · ★★★★★ · 2023-06-23 · <a href="https://neodb.social/book/0dx3EfYQ3K5gfrISl7gsKE" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/3136271/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0TC2pzkdlnZHB8iOB7HKuE.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">霍乱时期的爱情</div>
+<div class="media-meta">[哥伦比亚] 加西亚·马尔克斯 · ★★★★★ · 2023-05-23 · <a href="https://neodb.social/book/0TC2pzkdlnZHB8iOB7HKuE" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/10594787/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0dgpnqTv6UYavkKc2625PN.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">挪威的森林</div>
+<div class="media-meta">[日] 村上春树 · ★★★★☆ · 2023-05-08 · <a href="https://neodb.social/book/0dgpnqTv6UYavkKc2625PN" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1046265/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">不喜欢男主<br>被很多细节打动<br>过多的sex看的我一尬一尬的…</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4efLUTHXxl1TFRzDpYbg3w.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">雪国</div>
+<div class="media-meta">[日本] 川端康成 · ★★★★☆ · 2023-05-02 · <a href="https://neodb.social/book/4efLUTHXxl1TFRzDpYbg3w" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/24736899/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">细腻</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4MFiRhOCK2RddnliFVq4PG.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">呐喊</div>
+<div class="media-meta">鲁迅 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/4MFiRhOCK2RddnliFVq4PG" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1449351/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1RKdqQrKWBhlyVEXkC6I6O.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">八十天环游地球</div>
+<div class="media-meta">[法] 儒勒·凡尔纳 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/1RKdqQrKWBhlyVEXkC6I6O" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1275907/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4JMAns06qggw7LXanXAugL.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">橙</div>
+<div class="media-meta">安东尼 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/4JMAns06qggw7LXanXAugL" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/5327697/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0fkvhy5RBOChyc3fRgcWXd.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">巴黎圣母院</div>
+<div class="media-meta">雨果 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/0fkvhy5RBOChyc3fRgcWXd" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/2253413/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-10GFXy3MzhsXqF4u8LTI5z.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">瓦尔登湖</div>
+<div class="media-meta">[美] 梭罗 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/10GFXy3MzhsXqF4u8LTI5z" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1865089/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6A6OkiZHqgZGevcIRSGs0y.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">24个比利</div>
+<div class="media-meta">[美] 丹尼尔·凯斯 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/6A6OkiZHqgZGevcIRSGs0y" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26371317/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5ApPu0rNPyycLIGeVvxdYe.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">恶意</div>
+<div class="media-meta">[日] 东野圭吾 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/5ApPu0rNPyycLIGeVvxdYe" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/3646172/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6HEM4B7Qn0zt5Qb1eZpzag.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">活着</div>
+<div class="media-meta">余华 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/6HEM4B7Qn0zt5Qb1eZpzag" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/4913064/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1N07Tzv7VCE24qK9oCtKYd.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">钢铁是怎样炼成的</div>
+<div class="media-meta">奥斯特洛夫斯基 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/1N07Tzv7VCE24qK9oCtKYd" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1894744/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7LYBUSQC50STn6Mn2Go9BJ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">父与子全集</div>
+<div class="media-meta">[德] 埃·奥·卜劳恩 绘 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/7LYBUSQC50STn6Mn2Go9BJ" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1002898/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-38bisXBEXG4qdj2vHKM5SX.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特与火焰杯</div>
+<div class="media-meta">[英] J. K. 罗琳 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/38bisXBEXG4qdj2vHKM5SX" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1009257/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7lEW0zDpBsvBhYSzQ34kOv.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">狼王梦</div>
+<div class="media-meta">沈石溪 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/7lEW0zDpBsvBhYSzQ34kOv" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/4061972/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1b1CFLGCbXnY067GPMplNE.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">さよなら絵梨 [Sayonara Eri]</div>
+<div class="media-meta">藤本 タツキ · ★★★★★ · 2022-11-15 · <a href="https://neodb.social/book/1b1CFLGCbXnY067GPMplNE" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35914464/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">独特</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2cb3M0EaJWWnLjnUxR678B.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">放学后</div>
+<div class="media-meta">[日] 东野圭吾 · ★★★☆☆ · 2022-09-20 · <a href="https://neodb.social/book/2cb3M0EaJWWnLjnUxR678B" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/27102207/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">男主老婆这个人物塑造的也太单薄了，却偏偏要在结尾这样给她安排一个情节</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7G89IWkPYx4HPlsjPHC0dR.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">太年轻</div>
+<div class="media-meta">[美]加·泽文 · ★★★★☆ · 2022-09-14 · <a href="https://neodb.social/book/7G89IWkPYx4HPlsjPHC0dR" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/30161866/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2AbibIOpd5mW3oWslfnrdd.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">岛上书店</div>
+<div class="media-meta">[美] 加布瑞埃拉·泽文 · ★★★★☆ · 2022-09-14 · <a href="https://neodb.social/book/2AbibIOpd5mW3oWslfnrdd" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26340138/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6B1TnZHr8bLyWZ9SYmhJHh.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">时光倒流的女孩</div>
+<div class="media-meta">[美] 加·泽文 · ★★★★★ · 2022-09-14 · <a href="https://neodb.social/book/6B1TnZHr8bLyWZ9SYmhJHh" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26998358/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">加泽文最喜欢的还是这本</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2OjE8mBNiQZmp2MGC1kDNG.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">玛格丽特小镇</div>
+<div class="media-meta">[美] 加·泽文 · ★★★☆☆ · 2022-09-14 · <a href="https://neodb.social/book/2OjE8mBNiQZmp2MGC1kDNG" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26787941/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-363Q6MYw57OCXWC8NuoP02.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">神们自己</div>
+<div class="media-meta">[美] 艾萨克·阿西莫夫 · ★★★★☆ · 2022-09-14 · <a href="https://neodb.social/book/363Q6MYw57OCXWC8NuoP02" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26264967/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-25XVDNfwFFVwAF7tCBJbDv.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">巧克力时代</div>
+<div class="media-meta">加布瑞埃拉·泽文 · ★★★☆☆ · 2022-09-14 · <a href="https://neodb.social/book/25XVDNfwFFVwAF7tCBJbDv" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/30309784/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2hDOKC6Hg84PjyNE6wa0yA.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">无人生还</div>
+<div class="media-meta">[英] 阿加莎·克里斯蒂 · ★★★☆☆ · 2022-08-05 · <a href="https://neodb.social/book/2hDOKC6Hg84PjyNE6wa0yA" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/24859822/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">8月6日晚 两天读完<br>感谢wkd<br>不是很喜欢结局</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0CPvFFckO6rZUuuFxDgjyD.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">1984</div>
+<div class="media-meta">乔治·奥威尔 · ★★★★★ · 2022-08-01 · <a href="https://neodb.social/book/0CPvFFckO6rZUuuFxDgjyD" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26974777/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">8月2日 集训 重读</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4RcTj1AilRVONB8RIKJSVA.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">献给阿尔吉侬的花束</div>
+<div class="media-meta">[美] 丹尼尔·凯斯 · ★★★★★ · 2022-07-30 · <a href="https://neodb.social/book/4RcTj1AilRVONB8RIKJSVA" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26362836/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">7月31日集训时读完</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0LyzIHLhIZuApnOXkguZjs.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">寂寞的游戏</div>
+<div class="media-meta">袁哲生 · ★★★★★ · 2022-03-16 · <a href="https://neodb.social/book/0LyzIHLhIZuApnOXkguZjs" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/27104286/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">很想推荐给别人</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4tvMgmCZtnRo56WGqFkWY2.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">许三观卖血记</div>
+<div class="media-meta">余华 · ★★★★★ · 2022-02-14 · <a href="https://neodb.social/book/4tvMgmCZtnRo56WGqFkWY2" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1029791/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0nySdV2rTzWePUKrWfi7Pl.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">神奇动物在哪里</div>
+<div class="media-meta">[英] J. K. 罗琳 · ★★★★★ · 2022-02-02 · <a href="https://neodb.social/book/0nySdV2rTzWePUKrWfi7Pl" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26984868/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2JIFavaG46Ut5Mzod9xLbQ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">你的名字</div>
+<div class="media-meta">新海诚 · ★★★★☆ · 2021-12-30 · <a href="https://neodb.social/book/2JIFavaG46Ut5Mzod9xLbQ" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26916709/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">凯翔送的</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7azG0zJkXCkeG6i4hBXAfY.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">许三观卖血记</div>
+<div class="media-meta">余华 · ★★★★★ · 2021-12-28 · <a href="https://neodb.social/book/7azG0zJkXCkeG6i4hBXAfY" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/4760224/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">最近读完。结尾实在虐心…</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2Ke3amuM1NFxYzGMTYNdJP.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">飞吧，黑居易 刘耀辉诗意成长书系</div>
+<div class="media-meta">刘耀辉 · ★★★★☆ · 2021-12-10 · <a href="https://neodb.social/book/2Ke3amuM1NFxYzGMTYNdJP" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/33411515/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">zgs</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4kWe8S9ckRjkxi28AHwxEA.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">海底两万里</div>
+<div class="media-meta">[法国] 儒尔·凡尔纳 · ★★★★☆ · 2021-12-10 · <a href="https://neodb.social/book/4kWe8S9ckRjkxi28AHwxEA" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1085470/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3pJymATNDKQ3amoO7vhFhR.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">骆驼祥子</div>
+<div class="media-meta">老舍 · ★★★★☆ · 2021-12-10 · <a href="https://neodb.social/book/3pJymATNDKQ3amoO7vhFhR" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1043815/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6KzJDSCbQUepJjzc4Amwus.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">夏洛的网</div>
+<div class="media-meta">[美] E.B.怀特、[美国] 埃尔温·布鲁克斯·怀特 · ★★★★☆ · 2021-12-10 · <a href="https://neodb.social/book/6KzJDSCbQUepJjzc4Amwus" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1036274/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4S1wztqpkyuiqZjN8xWzUv.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">草房子</div>
+<div class="media-meta">曹文轩 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/4S1wztqpkyuiqZjN8xWzUv" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1052990/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3oQZcaWzRDzIP9iEr3h55v.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">老人与海</div>
+<div class="media-meta">[美]海明威 · ★★★★★ · 2021-12-10 · <a href="https://neodb.social/book/3oQZcaWzRDzIP9iEr3h55v" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1064275/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1YR33J37soX9GBMsu39Us2.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">巴黎圣母院</div>
+<div class="media-meta">[法]雨果 · ★★★★★ · 2021-12-10 · <a href="https://neodb.social/book/1YR33J37soX9GBMsu39Us2" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1024197/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-47nAirgkQMaHbeq5b1CkwB.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">简爱（英文全本）</div>
+<div class="media-meta">[英] 夏洛蒂·勃朗特 · ★★★★☆ · 2021-12-10 · <a href="https://neodb.social/book/47nAirgkQMaHbeq5b1CkwB" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1141406/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">甜</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5viDBjpbSUtoYJgPIMvtLt.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">永恒的终结</div>
+<div class="media-meta">[美] 艾萨克·阿西莫夫 · ★★★★☆ · 2021-12-10 · <a href="https://neodb.social/book/5viDBjpbSUtoYJgPIMvtLt" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/25829693/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">在医院里手术前读的 记得还带了一本瓦尔登湖 但只有这本看完了</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-09np7N0m5w080oJxOAMhYh.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">窗边的小豆豆</div>
+<div class="media-meta">[日] 黑柳彻子 著、岩崎千弘 图 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/09np7N0m5w080oJxOAMhYh" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1007914/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">大都忘记了 有时间打算重温</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2lLmzuquJA68RwHwvQptWY.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">朝花夕拾</div>
+<div class="media-meta">鲁迅 · ★★★★☆ · 2021-12-10 · <a href="https://neodb.social/book/2lLmzuquJA68RwHwvQptWY" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1449352/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6WypX3FL8A6hZikIWuuLHW.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">乡土中国</div>
+<div class="media-meta">费孝通 · ★★★★☆ · 2021-12-10 · <a href="https://neodb.social/book/6WypX3FL8A6hZikIWuuLHW" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1795079/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">有所收获 也是第一次读学术类作品</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0BlI2YA8p1GddzqkFq8F4k.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特</div>
+<div class="media-meta">[英] J·K·罗琳 · ★★★★★ · 2021-12-10 · <a href="https://neodb.social/book/0BlI2YA8p1GddzqkFq8F4k" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/24531956/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-51bFn01lYsM5uXnOJ9WM3P.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">人类简史</div>
+<div class="media-meta">[以色列] 尤瓦尔·赫拉利 · ★★★★☆ · 2021-12-10 · <a href="https://neodb.social/book/51bFn01lYsM5uXnOJ9WM3P" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/25985021/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0NnNMDppF2bQqFyPMwyuYn.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">福尔摩斯探案全集（上中下）</div>
+<div class="media-meta">[英] 阿·柯南道尔 · ★★★★☆ · 2021-12-10 · <a href="https://neodb.social/book/0NnNMDppF2bQqFyPMwyuYn" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1040211/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0zc5Kdk8MzwINNpfAVLSJ0.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">球状闪电</div>
+<div class="media-meta">刘慈欣 · ★★★★☆ · 2021-12-10 · <a href="https://neodb.social/book/0zc5Kdk8MzwINNpfAVLSJ0" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26856061/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2URlzyNSCbC0bQsTzfHeAE.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">三体全集</div>
+<div class="media-meta">刘慈欣 · ★★★★★ · 2021-12-10 · <a href="https://neodb.social/book/2URlzyNSCbC0bQsTzfHeAE" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/6518605/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7gbJHnD1XnG3UDdixTy2Vp.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">三国演义（全二册）</div>
+<div class="media-meta">[明] 罗贯中 · ★★★★★ · 2021-12-10 · <a href="https://neodb.social/book/7gbJHnD1XnG3UDdixTy2Vp" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1019568/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">小学时候就很喜欢</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-33uh8882n6e9aNCzWe2qfk.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">红</div>
+<div class="media-meta">安东尼 · ★★★★☆ · 2021-11-27 · <a href="https://neodb.social/book/33uh8882n6e9aNCzWe2qfk" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/20424614/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2mdEocABJPjYSzuEs2c5QC.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">你当像鸟飞往你的山</div>
+<div class="media-meta">[美] 塔拉·韦斯特弗 · ★★★★☆ · 2021-09-04 · <a href="https://neodb.social/book/2mdEocABJPjYSzuEs2c5QC" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/33440205/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">喜欢第二部分的结尾，被戳到了<br>每个人都在用自己的方式爱着自己的家人</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6VumzkOgPMNK69fjN2yb9P.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">圆圈正义</div>
+<div class="media-meta">罗翔 · ★★★★★ · 2021-08-29 · <a href="https://neodb.social/book/6VumzkOgPMNK69fjN2yb9P" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/34815132/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">自习课上借了同学的读了一节课</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2gXt0XzBOfMz0hicFlwYBF.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">天气之子</div>
+<div class="media-meta">[日] 新海诚 · ★★★★☆ · 2021-08-21 · <a href="https://neodb.social/book/2gXt0XzBOfMz0hicFlwYBF" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/34799480/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4mfB3oI7xv9BPTtlicoQeG.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">解忧杂货店</div>
+<div class="media-meta">[日] 东野圭吾 · ★★★★☆ · 2021-08-21 · <a href="https://neodb.social/book/4mfB3oI7xv9BPTtlicoQeG" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/25862578/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6vRqsoFLMPKEW3ty8lXaXg.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">孤独深处</div>
+<div class="media-meta">郝景芳 · ★★★☆☆ · 2021-08-21 · <a href="https://neodb.social/book/6vRqsoFLMPKEW3ty8lXaXg" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26791407/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1kNyIg0YP721lKHoeHlvFE.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">美丽新世界</div>
+<div class="media-meta">【英】奥尔德斯·赫胥黎 · ★★★★☆ · 2021-08-17 · <a href="https://neodb.social/book/1kNyIg0YP721lKHoeHlvFE" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/27002046/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4SIPoJrGSFdemk2B37PnOH.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">我们</div>
+<div class="media-meta">尤金·扎米亚金 · ★★★★☆ · 2021-08-17 · <a href="https://neodb.social/book/4SIPoJrGSFdemk2B37PnOH" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/25838428/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7j8QVuJtexUzXKSuW8nsyQ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">奇点遗民</div>
+<div class="media-meta">【美】刘宇昆 · ★★★★★ · 2021-08-17 · <a href="https://neodb.social/book/7j8QVuJtexUzXKSuW8nsyQ" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/27077140/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0VoNDaHX4R29ovDXOAvKC4.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">肖申克的救赎</div>
+<div class="media-meta">[美] 斯蒂芬·金 · ★★★★☆ · 2021-08-17 · <a href="https://neodb.social/book/0VoNDaHX4R29ovDXOAvKC4" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1829226/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">不太喜欢第二个故事</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0c7b2tDSC5kU8Nkzr3ZVBh.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">月亮和六便士</div>
+<div class="media-meta">[英] 毛姆 · ★★★★★ · 2021-08-17 · <a href="https://neodb.social/book/0c7b2tDSC5kU8Nkzr3ZVBh" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1858513/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1AT5MpqfRMd4wEeOE1uGIF.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">小王子</div>
+<div class="media-meta">[法] 安东尼·德·圣-埃克苏佩里 · ★★★★★ · 2021-08-17 · <a href="https://neodb.social/book/1AT5MpqfRMd4wEeOE1uGIF" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1084336/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">完美的童话</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-70PvDMdEMCLCv0sKKg56aI.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">动物农场</div>
+<div class="media-meta">[英] 乔治·奥威尔 · ★★★★★ · 2021-08-17 · <a href="https://neodb.social/book/70PvDMdEMCLCv0sKKg56aI" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/2035179/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">结局看的背后一凉</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1UBGp593Cb5oNMUANS30Hk.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">追风筝的人</div>
+<div class="media-meta">[美] 卡勒德·胡赛尼 · ★★★★☆ · 2021-08-17 · <a href="https://neodb.social/book/1UBGp593Cb5oNMUANS30Hk" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1770782/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-77JSasU4Y3L4yxZ9PcJ022.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">嫌疑人X的献身</div>
+<div class="media-meta">[日] 东野圭吾 · ★★★★☆ · 2021-08-17 · <a href="https://neodb.social/book/77JSasU4Y3L4yxZ9PcJ022" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/3211779/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0oH2luJGCafZKSRnQjAArw.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">白夜行</div>
+<div class="media-meta">[日] 东野圭吾 · ★★★★★ · 2021-08-17 · <a href="https://neodb.social/book/0oH2luJGCafZKSRnQjAArw" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/10554308/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4AD6dlBaI5GWtFEWsaPVYl.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">百年孤独</div>
+<div class="media-meta">[哥伦比亚] 加西亚·马尔克斯 · ★★★★☆ · 2021-08-17 · <a href="https://neodb.social/book/4AD6dlBaI5GWtFEWsaPVYl" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/6082808/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">2021.8.18<br>读的时候感觉过于晦涩<br>以及书中很多细节让人回味<br>感觉自己还是不太适合啃这种书（捂脸<br>2022年9月14日重读第二遍<br>第二遍弄懂了很多东西，不得不感慨作者的伟大…恰到好处的细节和出乎意料又在情理之中的情节</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5UZ10zBWMqkIVbzdc1zdVG.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">1984</div>
+<div class="media-meta">[英] 乔治·奥威尔 · ★★★★★ · 2021-08-17 · <a href="https://neodb.social/book/5UZ10zBWMqkIVbzdc1zdVG" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/4820710/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-71YWWTuNgvwGndv8m8DEBu.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">三体Ⅱ</div>
+<div class="media-meta">刘慈欣 · ★★★★★ · 2021-08-16 · <a href="https://neodb.social/book/71YWWTuNgvwGndv8m8DEBu" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/3066477/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7OGqnJkxiQZImAxD9aAgMr.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">三体</div>
+<div class="media-meta">刘慈欣 · ★★★★★ · 2018-12-02 · <a href="https://neodb.social/book/7OGqnJkxiQZImAxD9aAgMr" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/2567698/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">把文革、游戏、未来结合在一起，不得不佩服</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5TOECyDkPh16BaEcz2eNgI.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">三体Ⅲ</div>
+<div class="media-meta">刘慈欣 · ★★★★★ · 2018-12-02 · <a href="https://neodb.social/book/5TOECyDkPh16BaEcz2eNgI" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/5363767/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">说实话刘慈欣笔下的女性都写的不太好啊我觉得</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2qqxjbLDSy8nA6KcFcIlUy.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特与魔法石</div>
+<div class="media-meta">[英] J. K. 罗琳 · ★★★★★ · 2018-12-02 · <a href="https://neodb.social/book/2qqxjbLDSy8nA6KcFcIlUy" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1041007/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0JgKhiuVrepPZZmFLKyHrq.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特与凤凰社</div>
+<div class="media-meta">[英] J. K. 罗琳 · ★★★★☆ · 2018-12-02 · <a href="https://neodb.social/book/0JgKhiuVrepPZZmFLKyHrq" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1013129/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">翻译错误不少……</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-66F3PLycoKmiRHj2cMRHfJ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特与被诅咒的孩子</div>
+<div class="media-meta">[英] 约翰·蒂法尼、杰克·索恩、J.K.罗琳 · ★★★★☆ · 2018-12-02 · <a href="https://neodb.social/book/66F3PLycoKmiRHj2cMRHfJ" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26871656/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">看到JK罗琳就立刻借来读完，但并不是那么好，有一点失望。<br>---<br>21.8.18<br>突然想起来自己很喜欢金妮说的那句话<br>有时间找找</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4s17W1Y2EcWb3FAbyir50i.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特与魔法石（纪念版）</div>
+<div class="media-meta">[英] J. K. 罗琳 · ★★★★★ · 2018-12-02 · <a href="https://neodb.social/book/4s17W1Y2EcWb3FAbyir50i" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26126183/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6iwyN7Dp9ykD989IVxi0Rv.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特与密室</div>
+<div class="media-meta">[英] J.K.罗琳 · ★★★★★ · 2018-12-02 · <a href="https://neodb.social/book/6iwyN7Dp9ykD989IVxi0Rv" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26126497/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0xgXnXiO8qL6vp5i34PIvS.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特与死亡圣器</div>
+<div class="media-meta">[英] J. K. 罗琳 · ★★★★★ · 2018-12-02 · <a href="https://neodb.social/book/0xgXnXiO8qL6vp5i34PIvS" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26126545/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7OrpKUEMKaf3vGFkOxbEuC.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特与阿兹卡班囚徒</div>
+<div class="media-meta">[英] J. K. 罗琳 · ★★★★★ · 2018-12-02 · <a href="https://neodb.social/book/7OrpKUEMKaf3vGFkOxbEuC" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26126498/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3Tdc8TKLk2JGynt0UjKmlG.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特与火焰杯</div>
+<div class="media-meta">J.K.罗琳 · ★★★★★ · 2018-12-02 · <a href="https://neodb.social/book/3Tdc8TKLk2JGynt0UjKmlG" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26126139/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-18NTVBcjW9MvN3LGl6Vrdr.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特与&quot;混血王子&quot;</div>
+<div class="media-meta">[英] J. K. 罗琳 · ★★★★★ · 2018-12-02 · <a href="https://neodb.social/book/18NTVBcjW9MvN3LGl6Vrdr" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26126522/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4478oKuEHRBQGojB1TR4F8.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈利·波特与凤凰社</div>
+<div class="media-meta">[英] J. K. 罗琳 · ★★★★☆ · 2018-12-02 · <a href="https://neodb.social/book/4478oKuEHRBQGojB1TR4F8" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26126500/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
 
 ## 想看（82）
 
-| 封面 | 标题 | 作者/导演 | 评分 | 时间 | 短评 | 链接 |
-|---|---|---|---|---|---|---|
-| <img src="../covers/x-21346008.jpg" width="72" loading="lazy"> | 米格尔街 | V.S.奈保尔 (V.S.Naipaul) | 未评分 | 2026-09-14 | — | [NeoDB](https://neodb.social/book/1aUnzR8EgYkXFJf5Ygn5nT) [豆瓣](https://book.douban.com/subject/21346008/) |
-| <img src="../covers/x-33590444.jpg" width="72" loading="lazy"> | 生命与新物理学 | 【英国】保罗·戴维斯（Paul Davies） | 未评分 | 2026-08-20 | — | [NeoDB](https://neodb.social/book/0qugApnNnC0KUhn2QrLy97) [豆瓣](https://book.douban.com/subject/33590444/) |
-| <img src="../covers/x-4618955.jpg" width="72" loading="lazy"> | 去吧，摩西 | [美] 威廉·福克纳 | 未评分 | 2026-05-27 | — | [NeoDB](https://neodb.social/book/2uX3YCfJZHV3VouXJZDrTU) [豆瓣](https://book.douban.com/subject/4618955/) |
-| <img src="../covers/x-26952166.jpg" width="72" loading="lazy"> | 指匠 | [英] 萨拉·沃特斯 | 未评分 | 2026-04-01 | — | [NeoDB](https://neodb.social/book/3qHsZpvnxVVdumQ5zeWMGW) [豆瓣](https://book.douban.com/subject/26952166/) |
-| <img src="../covers/x-3410833.jpg" width="72" loading="lazy"> | 给青年艺术家的信 | 蒋勋 | 未评分 | 2025-11-17 | — | [NeoDB](https://neodb.social/book/3UcSw3sHt3Vry8GE9BQvNe) [豆瓣](https://book.douban.com/subject/3410833/) |
-| <img src="../covers/x-36882781.jpg" width="72" loading="lazy"> | 我的人生中经历过四次火灾 | 异教陶瓷 | 未评分 | 2025-07-24 | — | [NeoDB](https://neodb.social/book/2kSPZ9iHc9Erd8RKu5ddUy) [豆瓣](https://book.douban.com/subject/36882781/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s34289066.jpg) | 一句顶一万句 | 刘震云 | 未评分 | 2025-06-29 | — | [NeoDB](https://neodb.social/book/2fXCWIj4ogT1WkDRMJZ6nu) [豆瓣](https://book.douban.com/subject/36062390/) |
-| <img src="../covers/x-1022238.jpg" width="72" loading="lazy"> | 菊与刀 | [美]鲁思・本尼迪克特 | 未评分 | 2025-06-29 | — | [NeoDB](https://neodb.social/book/5mrxixI4T8bCd4HsObcXsO) [豆瓣](https://book.douban.com/subject/1022238/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s29529746.jpg) | 南方高速 | [阿根廷] 胡里奥·科塔萨尔 | 未评分 | 2025-05-14 | — | [NeoDB](https://neodb.social/book/2Qg1MtMhwKMuyCeLB9Llkg) [豆瓣](https://book.douban.com/subject/27079479/) |
-| <img src="../covers/x-34786083.jpg" width="72" loading="lazy"> | 游戏的终结 | [阿根廷] 胡里奥·科塔萨尔 | 未评分 | 2025-05-14 | — | [NeoDB](https://neodb.social/book/2Ydfp2KzMJ2aNJOqEaPgYZ) [豆瓣](https://book.douban.com/subject/34786083/) |
-| <img src="../covers/x-34795345.jpg" width="72" loading="lazy"> | 山月记 | [日] 中岛敦 | 未评分 | 2025-05-05 | — | [NeoDB](https://neodb.social/book/7EJo2pNiRePCjRlHwl25K9) [豆瓣](https://book.douban.com/subject/34795345/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s34705784.jpg) | 世上为什么要有图书馆 | 杨素秋 | 未评分 | 2024-12-28 | — | [NeoDB](https://neodb.social/book/09ptOap3jdga56GrqyUJvk) [豆瓣](https://book.douban.com/subject/36593622/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s34711695.jpg) | 卡拉马佐夫兄弟 | [俄]陀思妥耶夫斯基 | 未评分 | 2024-05-06 | — | [NeoDB](https://neodb.social/book/6LAanHwOWpVy5UQLHfV6If) [豆瓣](https://book.douban.com/subject/25887924/) |
-| <img src="../covers/x-30389968.jpg" width="72" loading="lazy"> | 克林索尔的最后夏天 | [德] 赫尔曼·黑塞 | 未评分 | 2024-04-19 | — | [NeoDB](https://neodb.social/book/4WMMz3OmKk0Z2Oxfewxc6Y) [豆瓣](https://book.douban.com/subject/30389968/) |
-| <img src="../covers/x-25887921.jpg" width="72" loading="lazy"> | 白夜 | [俄] 陀思妥耶夫斯基 | 未评分 | 2024-03-24 | — | [NeoDB](https://neodb.social/book/2Z2QQuTiW8tEzw10HDG8Uk) [豆瓣](https://book.douban.com/subject/25887921/) |
-| <img src="../covers/x-30177172.jpg" width="72" loading="lazy"> | 没有人给他写信的上校 | [哥伦比亚]加西亚·马尔克斯 | 未评分 | 2024-03-24 | — | [NeoDB](https://neodb.social/book/2x1d1tDLF8ecHJf4jQQsFh) [豆瓣](https://book.douban.com/subject/30177172/) |
-| <img src="../covers/x-1855364.jpg" width="72" loading="lazy"> | 围城 | 钱锺书 | 未评分 | 2023-07-30 | — | [NeoDB](https://neodb.social/book/0f0bNxItmcoiQmnnYSwKpD) [豆瓣](https://book.douban.com/subject/1855364/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s27185176.jpg) | 青铜时代 | 王小波 | 未评分 | 2023-07-30 | — | [NeoDB](https://neodb.social/book/0oizm0G7H3PgRkwjPUAZTV) [豆瓣](https://book.douban.com/subject/1436713/) |
-| <img src="../covers/x-30142261.jpg" width="72" loading="lazy"> | 长日将尽 | [英] 石黑一雄 | 未评分 | 2023-07-25 | — | [NeoDB](https://neodb.social/book/63Y5Oh76ps65aUVnkkt4KS) [豆瓣](https://book.douban.com/subject/30142261/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s8968135.jpg) | 树上的男爵 | [意大利]伊塔洛·卡尔维诺 | 未评分 | 2023-06-19 | — | [NeoDB](https://neodb.social/book/5XBovHi376d5lmBNgb0izd) [豆瓣](https://book.douban.com/subject/6789605/) |
-| <img src="../covers/x-3928882.jpg" width="72" loading="lazy"> | 奇鸟行状录 | 村上春树 | 未评分 | 2023-03-30 | — | [NeoDB](https://neodb.social/book/5fMqvfWhKPXsEw8twYz5JY) [豆瓣](https://book.douban.com/subject/3928882/) |
-| <img src="../covers/x-1291809.jpg" width="72" loading="lazy"> | 世界尽头与冷酷仙境 | [日] 村上春树 | 未评分 | 2023-03-30 | — | [NeoDB](https://neodb.social/book/2m96ZHuoibS0JDHMdwFSnf) [豆瓣](https://book.douban.com/subject/1291809/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s2857294.jpg) | 查拉图斯特拉如是说 | [德] 尼采 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/38crXITCgfazhcLnNV1Gxv) [豆瓣](https://book.douban.com/subject/2359052/) |
-| <img src="../covers/x-11524204.jpg" width="72" loading="lazy"> | 围城 | 钱锺书 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/2PS3wdgXV2YKhD504tCi4U) [豆瓣](https://book.douban.com/subject/11524204/) |
-| <img src="../covers/x-30475767.jpg" width="72" loading="lazy"> | 人生海海 | 麦家 | 未评分 | 2023-02-26 | — | [NeoDB](https://neodb.social/book/45sIM7b0laL0fVcS9yKiG7) [豆瓣](https://book.douban.com/subject/30475767/) |
-| <img src="../covers/x-34434309.jpg" width="72" loading="lazy"> | 82年生的金智英 | [韩]赵南柱 | 未评分 | 2023-01-31 | — | [NeoDB](https://neodb.social/book/3iQ28GlfMnNLgXpgHKA0I6) [豆瓣](https://book.douban.com/subject/34434309/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s34387186.jpg) | We Live in Nanjing (2 Books) | 天瑞说符 | 未评分 | 2023-01-28 | — | [NeoDB](https://neodb.social/book/3DNAYNZMpEus5Rf1L25p7Z) [豆瓣](https://book.douban.com/subject/36126737/) |
-| <img src="../covers/x-35819419.jpg" width="72" loading="lazy"> | 可能性的艺术 | 刘瑜 | 未评分 | 2022-12-20 | — | [NeoDB](https://neodb.social/book/1pL6amHeATn0Y56EIa2puT) [豆瓣](https://book.douban.com/subject/35819419/) |
-| <img src="../covers/x-35875393.jpg" width="72" loading="lazy"> | 如雪如山 | 张天翼 | 未评分 | 2022-12-20 | — | [NeoDB](https://neodb.social/book/7MFDYdImcjvqqREhXHKrws) [豆瓣](https://book.douban.com/subject/35875393/) |
-| <img src="../covers/x-27621482.jpg" width="72" loading="lazy"> | 折断的龙骨（全2册） | [日] 米泽穗信 | 未评分 | 2022-07-03 | — | [NeoDB](https://neodb.social/book/4lM2HBEuSPYqZU7J2eyW7x) [豆瓣](https://book.douban.com/subject/27621482/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s1230936.jpg) | 神奇动物在哪里 | [英] 纽特·斯卡曼 | 未评分 | 2022-02-02 | — | [NeoDB](https://neodb.social/book/0OhUpDC2lP5MGLuzkEEPGb) [豆瓣](https://book.douban.com/subject/1028779/) |
-| <img src="../covers/x-30237190.jpg" width="72" loading="lazy"> | 银河铁道之夜 | [日] 宫泽贤治 原著、[日] 增村博 编绘 | 未评分 | 2022-02-02 | — | [NeoDB](https://neodb.social/book/6pPXD1WVHwGxevJYqDGhe3) [豆瓣](https://book.douban.com/subject/30237190/) |
-| <img src="../covers/x-35228043.jpg" width="72" loading="lazy"> | 伊卡狛格 | [英] J·K·罗琳 | 未评分 | 2022-02-02 | — | [NeoDB](https://neodb.social/book/6soVnBAV6G94ewTqLqzVU3) [豆瓣](https://book.douban.com/subject/35228043/) |
-| <img src="../covers/x-30368773.jpg" width="72" loading="lazy"> | 神奇动物：格林德沃之罪 | [英] J·K·罗琳 | 未评分 | 2022-02-02 | — | [NeoDB](https://neodb.social/book/4G1IhF0vIgXXNkWNDqatYJ) [豆瓣](https://book.douban.com/subject/30368773/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s1310545.jpg) | 神奇的魁地奇球 | [英] 肯尼沃思·惠斯普 | 未评分 | 2022-02-02 | — | [NeoDB](https://neodb.social/book/4DwNNTy5vIH6JO2lu0pNjx) [豆瓣](https://book.douban.com/subject/1084341/) |
-| <img src="../covers/x-19898714.jpg" width="72" loading="lazy"> | 偶发空缺 | [英] J. K. 罗琳 | 未评分 | 2022-02-02 | — | [NeoDB](https://neodb.social/book/1WQ1BTqLSWgj6LUWELtqH4) [豆瓣](https://book.douban.com/subject/19898714/) |
-| <img src="../covers/x-3338175.jpg" width="72" loading="lazy"> | 诗翁彼豆故事集 | [英] J. K. 罗琳 | 未评分 | 2022-02-02 | — | [NeoDB](https://neodb.social/book/6JJaAUQdLNbujSWQV0PIc9) [豆瓣](https://book.douban.com/subject/3338175/) |
-| <img src="../covers/x-35096293.jpg" width="72" loading="lazy"> | 岩波日本史（全九卷） | [英] J.K.罗琳 著、[英] 吉姆·菲尔德 绘 | 未评分 | 2022-02-02 | — | [NeoDB](https://neodb.social/book/6VsBSp62Jqm0qyDh36gHvQ) [豆瓣](https://book.douban.com/subject/35096293/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s34076076.jpg) | 我能有什么坏心思呢 | 乔舒亚·巴克曼（Joshua Barkman） | 未评分 | 2022-01-22 | — | [NeoDB](https://neodb.social/book/2LxfkUPgsbJweUA4Izd6Ob) [豆瓣](https://book.douban.com/subject/35632117/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s5689155.jpg) | 中国手语（上下修订版） | 中国聋人协会 编 | 未评分 | 2022-01-10 | — | [NeoDB](https://neodb.social/book/3f3n59VhNJlpylay72y5NE) [豆瓣](https://book.douban.com/subject/1215103/) |
-| <img src="../covers/x-35602271.jpg" width="72" loading="lazy"> | 0次与10000次 | [德] 吉塔·雅各布 | 未评分 | 2021-12-30 | — | [NeoDB](https://neodb.social/book/4O38sbSc6qMYMbHtCISaKR) [豆瓣](https://book.douban.com/subject/35602271/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s33821754.jpg) | 克拉拉与太阳 | [英] 石黑一雄 | 未评分 | 2021-12-22 | — | [NeoDB](https://neodb.social/book/1GNhgqY0S8mo936zDDJtCS) [豆瓣](https://book.douban.com/subject/35315153/) |
-| <img src="../covers/x-2159042.jpg" width="72" loading="lazy"> | 挪威的森林 | [日] 村上春树 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/5qfwYUbJAsJ88MH78jm7bW) [豆瓣](https://book.douban.com/subject/2159042/) |
-| <img src="../covers/x-1102715.jpg" width="72" loading="lazy"> | 从一到无穷大 | [美] G. 伽莫夫、[美国] 乔治·伽莫夫 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/4jee4WNqTpySShkhR7UxoN) [豆瓣](https://book.douban.com/subject/1102715/) |
-| <img src="../covers/x-1006197.jpg" width="72" loading="lazy"> | 哈姆莱特 | [英] 莎士比亚 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/0yFIuNZwsggNyZHHptWn6B) [豆瓣](https://book.douban.com/subject/1006197/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s6776106.jpg) | 娱乐至死 | [美] 尼尔·波兹曼 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/4qM057PsWwsM1RSCt1uLlz) [豆瓣](https://book.douban.com/subject/1062193/) |
-| <img src="../covers/x-26957760.jpg" width="72" loading="lazy"> | 世界的凛冬 | [英] 肯·福莱特 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/7X6ZAYMujQHSQIX400cmAl) [豆瓣](https://book.douban.com/subject/26957760/) |
-| <img src="../covers/x-2035171.jpg" width="72" loading="lazy"> | 人生的枷锁 | [英] 毛姆 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/3bjfE05Sfk3QFSkN8Q9V4F) [豆瓣](https://book.douban.com/subject/2035171/) |
-| <img src="../covers/x-26369699.jpg" width="72" loading="lazy"> | 被讨厌的勇气 | [日] 岸见一郎、[日] 古贺史健 | 未评分 | 2021-12-10 | 沃玛（小声 | [NeoDB](https://neodb.social/book/5HxoiagR3TO2vRHDIYqhky) [豆瓣](https://book.douban.com/subject/26369699/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s4355925.jpg) | 拖延心理学 | [美] 简·博克(Jane B. Burka)、[美] 莱诺拉·袁(Lenora M. Yuen) | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/6E7PRgpjQhqkia5Bu9MASW) [豆瓣](https://book.douban.com/subject/4180711/) |
-| <img src="../covers/x-1068920.jpg" width="72" loading="lazy"> | 飘 | [美] 玛格丽特·米切尔 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/3KwHhIdb0bYWXc4yC0KlSU) [豆瓣](https://book.douban.com/subject/1068920/) |
-| <img src="../covers/x-27614904.jpg" width="72" loading="lazy"> | 房思琪的初恋乐园 | 林奕含 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/5CGshKXr2IRnVoQQ62fdOz) [豆瓣](https://book.douban.com/subject/27614904/) |
-| <img src="../covers/x-1200840.jpg" width="72" loading="lazy"> | 平凡的世界（全三部） | 路遥 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/05BjmGAd4VFzmMULI7dBZf) [豆瓣](https://book.douban.com/subject/1200840/) |
-| <img src="../covers/x-1008145.jpg" width="72" loading="lazy"> | 围城 | 钱锺书 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/1O2H07cxKiEKkNA0vdk2l7) [豆瓣](https://book.douban.com/subject/1008145/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s3745215.jpg) | 明朝那些事儿（1-9） | 当年明月 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/319vl6IGR6CsvSSYwDW7Xv) [豆瓣](https://book.douban.com/subject/3674537/) |
-| <img src="../covers/x-1054685.jpg" width="72" loading="lazy"> | 沉默的大多数 | 王小波 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/7Kq0ufmFgg64w4ST5b9EAS) [豆瓣](https://book.douban.com/subject/1054685/) |
-| <img src="../covers/x-6781808.jpg" width="72" loading="lazy"> | 杀死一只知更鸟 | [美] 哈珀·李 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/5w5QhmMpQNE1eGMqLL5ACG) [豆瓣](https://book.douban.com/subject/6781808/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s1800355.jpg) | 万历十五年 | [美] 黄仁宇 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/3NWo7SIi7eYwsqVcD47iV9) [豆瓣](https://book.douban.com/subject/1041482/) |
-| <img src="../covers/x-1083428.jpg" width="72" loading="lazy"> | 傲慢与偏见 | [英] 奥斯丁 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/4qHXhRXCo8Ypay4I0cgsMk) [豆瓣](https://book.douban.com/subject/1083428/) |
-| <img src="../covers/x-2035162.jpg" width="72" loading="lazy"> | 刀锋 | [英] 毛姆 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/0ovUdsFefNqtlh2CJ1yjT2) [豆瓣](https://book.douban.com/subject/2035162/) |
-| <img src="../covers/x-1254588.jpg" width="72" loading="lazy"> | 城南旧事 | 林海音 文、关维兴 图 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/4RrigwbEKvy4h8V2GpO1Ue) [豆瓣](https://book.douban.com/subject/1254588/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s4521754.jpg) | 悲惨世界（上中下） | [法] 雨果 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/3aYEaBtlTGi1H6vGpj1ERt) [豆瓣](https://book.douban.com/subject/1205054/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s1486674.jpg) | 上帝掷骰子吗 | 曹天元 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/7OL7UlOW3RX8lrHuVkfHH1) [豆瓣](https://book.douban.com/subject/1467022/) |
-| <img src="../covers/x-3071717.jpg" width="72" loading="lazy"> | 爱你就像爱生命 | 王小波、李银河 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/0uWFJ54ytLPh6Y3wQgPb2V) [豆瓣](https://book.douban.com/subject/3071717/) |
-| <img src="../covers/x-1058661.jpg" width="72" loading="lazy"> | 飞鸟集 | [印] 罗宾德拉纳德·泰戈尔 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/0IMIjSWRtz7XHqw3txmVRK) [豆瓣](https://book.douban.com/subject/1058661/) |
-| <img src="../covers/x-1057244.jpg" width="72" loading="lazy"> | 边城 | 沈从文 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/2Jlum3V13WssmE4wuP9196) [豆瓣](https://book.douban.com/subject/1057244/) |
-| <img src="../covers/x-1092335.jpg" width="72" loading="lazy"> | 教父 | [美]马里奥·普佐 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/5hTMoRGXNFWjZ10qegWtKx) [豆瓣](https://book.douban.com/subject/1092335/) |
-| <img src="../covers/x-1258490.jpg" width="72" loading="lazy"> | 基地 | [美] 艾萨克·阿西莫夫 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/2NV41biyW1GdnGg9lltNPP) [豆瓣](https://book.douban.com/subject/1258490/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s28668834.jpg) | 巨人的陨落 | [英] 肯·福莱特 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/3rfmQwOG82Srj2zWkcQrJ0) [豆瓣](https://book.douban.com/subject/26698660/) |
-| <img src="../covers/x-1011754.jpg" width="72" loading="lazy"> | 海子的诗 | 海子 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/712m4QU7COzgaKJ0SspCSG) [豆瓣](https://book.douban.com/subject/1011754/) |
-| <img src="../covers/x-1034282.jpg" width="72" loading="lazy"> | 时间简史 | [英] 史蒂芬·霍金 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/18sVsE1V1Y9snGRjGPBUql) [豆瓣](https://book.douban.com/subject/1034282/) |
-| <img src="../covers/x-1060852.jpg" width="72" loading="lazy"> | 呼兰河传 | 萧红 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/1hWgk9Bs0f03RmPmeF5OYJ) [豆瓣](https://book.douban.com/subject/1060852/) |
-| <img src="../covers/x-26576861.jpg" width="72" loading="lazy"> | 最好的告别 | [美] 阿图·葛文德（Atul Gawande） | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/2cjV88W2Ks6veDpVL1q6cB) [豆瓣](https://book.douban.com/subject/26576861/) |
-| <img src="../covers/x-26672693.jpg" width="72" loading="lazy"> | 一个叫欧维的男人决定去死 | [瑞典] 弗雷德里克·巴克曼 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/0xV0fRBCA0bmGjeP9lTFox) [豆瓣](https://book.douban.com/subject/26672693/) |
-| <img src="../covers/x-1394364.jpg" width="72" loading="lazy"> | 银河系漫游指南 | [英] 道格拉斯·亚当斯 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/5aJQ1oAREoxYQWU7bj77L2) [豆瓣](https://book.douban.com/subject/1394364/) |
-| <img src="../covers/x-1813841.jpg" width="72" loading="lazy"> | 枪炮、病菌与钢铁 | [美] 贾雷德·戴蒙德 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/2C2KyyhtZb9tMPE4AwyxhA) [豆瓣](https://book.douban.com/subject/1813841/) |
-| <img src="../covers/x-1020961.jpg" width="72" loading="lazy"> | 棋王 | 阿城 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/4WsD7B1kUXJeazkdVi6Oib) [豆瓣](https://book.douban.com/subject/1020961/) |
-| <img src="../covers/x-1476651.jpg" width="72" loading="lazy"> | 社会心理学 | [美] 戴维·迈尔斯 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/6ZUzqpLf39gaaqWcS3Ef4l) [豆瓣](https://book.douban.com/subject/1476651/) |
-| <img src="../covers/x-1033825.jpg" width="72" loading="lazy"> | 顾城的诗 | 顾城 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/5CyyRlmrlEIcW3OcSSBXU4) [豆瓣](https://book.douban.com/subject/1033825/) |
-| [封面](https://img9.doubanio.com/view/subject/s/public/s26720726.jpg) | 最好的我们 | 八月长安 | 未评分 | 2021-12-10 | — | [NeoDB](https://neodb.social/book/6WNmoSuJxtpHqGxviHawMZ) [豆瓣](https://book.douban.com/subject/24754316/) |
-| <img src="../covers/x-1016806.jpg" width="72" loading="lazy"> | 与安东尼奥尼一起的时光 | 维姆·文德斯 | 未评分 | 2021-11-27 | — | [NeoDB](https://neodb.social/book/0lEVHl5lxq2R4ucAOPA1Ah) [豆瓣](https://book.douban.com/subject/1016806/) |
-| <img src="../covers/x-26314932.jpg" width="72" loading="lazy"> | 言叶之庭 | [日] 新海诚 | 未评分 | 2021-08-21 | — | [NeoDB](https://neodb.social/book/6ZoCsNh6vgeLdSl8T620jy) [豆瓣](https://book.douban.com/subject/26314932/) |
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1aUnzR8EgYkXFJf5Ygn5nT.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">米格尔街</div>
+<div class="media-meta">V.S.奈保尔 (V.S.Naipaul) · 未评分 · 2026-09-14 · <a href="https://neodb.social/book/1aUnzR8EgYkXFJf5Ygn5nT" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/21346008/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0qugApnNnC0KUhn2QrLy97.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">生命与新物理学</div>
+<div class="media-meta">【英国】保罗·戴维斯（Paul Davies） · 未评分 · 2026-08-20 · <a href="https://neodb.social/book/0qugApnNnC0KUhn2QrLy97" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/33590444/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2uX3YCfJZHV3VouXJZDrTU.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">去吧，摩西</div>
+<div class="media-meta">[美] 威廉·福克纳 · 未评分 · 2026-05-27 · <a href="https://neodb.social/book/2uX3YCfJZHV3VouXJZDrTU" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/4618955/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3qHsZpvnxVVdumQ5zeWMGW.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">指匠</div>
+<div class="media-meta">[英] 萨拉·沃特斯 · 未评分 · 2026-04-01 · <a href="https://neodb.social/book/3qHsZpvnxVVdumQ5zeWMGW" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26952166/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3UcSw3sHt3Vry8GE9BQvNe.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">给青年艺术家的信</div>
+<div class="media-meta">蒋勋 · 未评分 · 2025-11-17 · <a href="https://neodb.social/book/3UcSw3sHt3Vry8GE9BQvNe" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/3410833/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2kSPZ9iHc9Erd8RKu5ddUy.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">我的人生中经历过四次火灾</div>
+<div class="media-meta">异教陶瓷 · 未评分 · 2025-07-24 · <a href="https://neodb.social/book/2kSPZ9iHc9Erd8RKu5ddUy" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/36882781/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2fXCWIj4ogT1WkDRMJZ6nu.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">一句顶一万句</div>
+<div class="media-meta">刘震云 · 未评分 · 2025-06-29 · <a href="https://neodb.social/book/2fXCWIj4ogT1WkDRMJZ6nu" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/36062390/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5mrxixI4T8bCd4HsObcXsO.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">菊与刀</div>
+<div class="media-meta">[美]鲁思・本尼迪克特 · 未评分 · 2025-06-29 · <a href="https://neodb.social/book/5mrxixI4T8bCd4HsObcXsO" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1022238/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2Qg1MtMhwKMuyCeLB9Llkg.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">南方高速</div>
+<div class="media-meta">[阿根廷] 胡里奥·科塔萨尔 · 未评分 · 2025-05-14 · <a href="https://neodb.social/book/2Qg1MtMhwKMuyCeLB9Llkg" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/27079479/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2Ydfp2KzMJ2aNJOqEaPgYZ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">游戏的终结</div>
+<div class="media-meta">[阿根廷] 胡里奥·科塔萨尔 · 未评分 · 2025-05-14 · <a href="https://neodb.social/book/2Ydfp2KzMJ2aNJOqEaPgYZ" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/34786083/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7EJo2pNiRePCjRlHwl25K9.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">山月记</div>
+<div class="media-meta">[日] 中岛敦 · 未评分 · 2025-05-05 · <a href="https://neodb.social/book/7EJo2pNiRePCjRlHwl25K9" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/34795345/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-09ptOap3jdga56GrqyUJvk.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">世上为什么要有图书馆</div>
+<div class="media-meta">杨素秋 · 未评分 · 2024-12-28 · <a href="https://neodb.social/book/09ptOap3jdga56GrqyUJvk" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/36593622/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6LAanHwOWpVy5UQLHfV6If.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">卡拉马佐夫兄弟</div>
+<div class="media-meta">[俄]陀思妥耶夫斯基 · 未评分 · 2024-05-06 · <a href="https://neodb.social/book/6LAanHwOWpVy5UQLHfV6If" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/25887924/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4WMMz3OmKk0Z2Oxfewxc6Y.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">克林索尔的最后夏天</div>
+<div class="media-meta">[德] 赫尔曼·黑塞 · 未评分 · 2024-04-19 · <a href="https://neodb.social/book/4WMMz3OmKk0Z2Oxfewxc6Y" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/30389968/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2Z2QQuTiW8tEzw10HDG8Uk.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">白夜</div>
+<div class="media-meta">[俄] 陀思妥耶夫斯基 · 未评分 · 2024-03-24 · <a href="https://neodb.social/book/2Z2QQuTiW8tEzw10HDG8Uk" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/25887921/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2x1d1tDLF8ecHJf4jQQsFh.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">没有人给他写信的上校</div>
+<div class="media-meta">[哥伦比亚]加西亚·马尔克斯 · 未评分 · 2024-03-24 · <a href="https://neodb.social/book/2x1d1tDLF8ecHJf4jQQsFh" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/30177172/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0f0bNxItmcoiQmnnYSwKpD.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">围城</div>
+<div class="media-meta">钱锺书 · 未评分 · 2023-07-30 · <a href="https://neodb.social/book/0f0bNxItmcoiQmnnYSwKpD" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1855364/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0oizm0G7H3PgRkwjPUAZTV.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">青铜时代</div>
+<div class="media-meta">王小波 · 未评分 · 2023-07-30 · <a href="https://neodb.social/book/0oizm0G7H3PgRkwjPUAZTV" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1436713/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-63Y5Oh76ps65aUVnkkt4KS.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">长日将尽</div>
+<div class="media-meta">[英] 石黑一雄 · 未评分 · 2023-07-25 · <a href="https://neodb.social/book/63Y5Oh76ps65aUVnkkt4KS" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/30142261/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5XBovHi376d5lmBNgb0izd.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">树上的男爵</div>
+<div class="media-meta">[意大利]伊塔洛·卡尔维诺 · 未评分 · 2023-06-19 · <a href="https://neodb.social/book/5XBovHi376d5lmBNgb0izd" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/6789605/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5fMqvfWhKPXsEw8twYz5JY.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">奇鸟行状录</div>
+<div class="media-meta">村上春树 · 未评分 · 2023-03-30 · <a href="https://neodb.social/book/5fMqvfWhKPXsEw8twYz5JY" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/3928882/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2m96ZHuoibS0JDHMdwFSnf.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">世界尽头与冷酷仙境</div>
+<div class="media-meta">[日] 村上春树 · 未评分 · 2023-03-30 · <a href="https://neodb.social/book/2m96ZHuoibS0JDHMdwFSnf" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1291809/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-38crXITCgfazhcLnNV1Gxv.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">查拉图斯特拉如是说</div>
+<div class="media-meta">[德] 尼采 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/38crXITCgfazhcLnNV1Gxv" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/2359052/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2PS3wdgXV2YKhD504tCi4U.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">围城</div>
+<div class="media-meta">钱锺书 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/2PS3wdgXV2YKhD504tCi4U" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/11524204/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-45sIM7b0laL0fVcS9yKiG7.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">人生海海</div>
+<div class="media-meta">麦家 · 未评分 · 2023-02-26 · <a href="https://neodb.social/book/45sIM7b0laL0fVcS9yKiG7" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/30475767/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3iQ28GlfMnNLgXpgHKA0I6.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">82年生的金智英</div>
+<div class="media-meta">[韩]赵南柱 · 未评分 · 2023-01-31 · <a href="https://neodb.social/book/3iQ28GlfMnNLgXpgHKA0I6" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/34434309/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3DNAYNZMpEus5Rf1L25p7Z.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">We Live in Nanjing (2 Books)</div>
+<div class="media-meta">天瑞说符 · 未评分 · 2023-01-28 · <a href="https://neodb.social/book/3DNAYNZMpEus5Rf1L25p7Z" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/36126737/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1pL6amHeATn0Y56EIa2puT.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">可能性的艺术</div>
+<div class="media-meta">刘瑜 · 未评分 · 2022-12-20 · <a href="https://neodb.social/book/1pL6amHeATn0Y56EIa2puT" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35819419/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7MFDYdImcjvqqREhXHKrws.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">如雪如山</div>
+<div class="media-meta">张天翼 · 未评分 · 2022-12-20 · <a href="https://neodb.social/book/7MFDYdImcjvqqREhXHKrws" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35875393/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4lM2HBEuSPYqZU7J2eyW7x.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">折断的龙骨（全2册）</div>
+<div class="media-meta">[日] 米泽穗信 · 未评分 · 2022-07-03 · <a href="https://neodb.social/book/4lM2HBEuSPYqZU7J2eyW7x" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/27621482/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0OhUpDC2lP5MGLuzkEEPGb.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">神奇动物在哪里</div>
+<div class="media-meta">[英] 纽特·斯卡曼 · 未评分 · 2022-02-02 · <a href="https://neodb.social/book/0OhUpDC2lP5MGLuzkEEPGb" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1028779/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6pPXD1WVHwGxevJYqDGhe3.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">银河铁道之夜</div>
+<div class="media-meta">[日] 宫泽贤治 原著、[日] 增村博 编绘 · 未评分 · 2022-02-02 · <a href="https://neodb.social/book/6pPXD1WVHwGxevJYqDGhe3" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/30237190/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6soVnBAV6G94ewTqLqzVU3.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">伊卡狛格</div>
+<div class="media-meta">[英] J·K·罗琳 · 未评分 · 2022-02-02 · <a href="https://neodb.social/book/6soVnBAV6G94ewTqLqzVU3" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35228043/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4G1IhF0vIgXXNkWNDqatYJ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">神奇动物：格林德沃之罪</div>
+<div class="media-meta">[英] J·K·罗琳 · 未评分 · 2022-02-02 · <a href="https://neodb.social/book/4G1IhF0vIgXXNkWNDqatYJ" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/30368773/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4DwNNTy5vIH6JO2lu0pNjx.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">神奇的魁地奇球</div>
+<div class="media-meta">[英] 肯尼沃思·惠斯普 · 未评分 · 2022-02-02 · <a href="https://neodb.social/book/4DwNNTy5vIH6JO2lu0pNjx" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1084341/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1WQ1BTqLSWgj6LUWELtqH4.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">偶发空缺</div>
+<div class="media-meta">[英] J. K. 罗琳 · 未评分 · 2022-02-02 · <a href="https://neodb.social/book/1WQ1BTqLSWgj6LUWELtqH4" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/19898714/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6JJaAUQdLNbujSWQV0PIc9.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">诗翁彼豆故事集</div>
+<div class="media-meta">[英] J. K. 罗琳 · 未评分 · 2022-02-02 · <a href="https://neodb.social/book/6JJaAUQdLNbujSWQV0PIc9" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/3338175/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover media-cover--empty">无封面</div>
+<div class="media-body">
+<div class="media-title">岩波日本史（全九卷）</div>
+<div class="media-meta">[英] J.K.罗琳 著、[英] 吉姆·菲尔德 绘 · 未评分 · 2022-02-02 · <a href="https://neodb.social/book/6VsBSp62Jqm0qyDh36gHvQ" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35096293/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2LxfkUPgsbJweUA4Izd6Ob.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">我能有什么坏心思呢</div>
+<div class="media-meta">乔舒亚·巴克曼（Joshua Barkman） · 未评分 · 2022-01-22 · <a href="https://neodb.social/book/2LxfkUPgsbJweUA4Izd6Ob" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35632117/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3f3n59VhNJlpylay72y5NE.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">中国手语（上下修订版）</div>
+<div class="media-meta">中国聋人协会 编 · 未评分 · 2022-01-10 · <a href="https://neodb.social/book/3f3n59VhNJlpylay72y5NE" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1215103/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4O38sbSc6qMYMbHtCISaKR.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">0次与10000次</div>
+<div class="media-meta">[德] 吉塔·雅各布 · 未评分 · 2021-12-30 · <a href="https://neodb.social/book/4O38sbSc6qMYMbHtCISaKR" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35602271/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1GNhgqY0S8mo936zDDJtCS.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">克拉拉与太阳</div>
+<div class="media-meta">[英] 石黑一雄 · 未评分 · 2021-12-22 · <a href="https://neodb.social/book/1GNhgqY0S8mo936zDDJtCS" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/35315153/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5qfwYUbJAsJ88MH78jm7bW.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">挪威的森林</div>
+<div class="media-meta">[日] 村上春树 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/5qfwYUbJAsJ88MH78jm7bW" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/2159042/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4jee4WNqTpySShkhR7UxoN.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">从一到无穷大</div>
+<div class="media-meta">[美] G. 伽莫夫、[美国] 乔治·伽莫夫 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/4jee4WNqTpySShkhR7UxoN" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1102715/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0yFIuNZwsggNyZHHptWn6B.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">哈姆莱特</div>
+<div class="media-meta">[英] 莎士比亚 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/0yFIuNZwsggNyZHHptWn6B" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1006197/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4qM057PsWwsM1RSCt1uLlz.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">娱乐至死</div>
+<div class="media-meta">[美] 尼尔·波兹曼 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/4qM057PsWwsM1RSCt1uLlz" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1062193/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7X6ZAYMujQHSQIX400cmAl.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">世界的凛冬</div>
+<div class="media-meta">[英] 肯·福莱特 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/7X6ZAYMujQHSQIX400cmAl" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26957760/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3bjfE05Sfk3QFSkN8Q9V4F.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">人生的枷锁</div>
+<div class="media-meta">[英] 毛姆 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/3bjfE05Sfk3QFSkN8Q9V4F" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/2035171/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5HxoiagR3TO2vRHDIYqhky.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">被讨厌的勇气</div>
+<div class="media-meta">[日] 岸见一郎、[日] 古贺史健 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/5HxoiagR3TO2vRHDIYqhky" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26369699/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment">沃玛（小声</div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6E7PRgpjQhqkia5Bu9MASW.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">拖延心理学</div>
+<div class="media-meta">[美] 简·博克(Jane B. Burka)、[美] 莱诺拉·袁(Lenora M. Yuen) · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/6E7PRgpjQhqkia5Bu9MASW" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/4180711/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3KwHhIdb0bYWXc4yC0KlSU.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">飘</div>
+<div class="media-meta">[美] 玛格丽特·米切尔 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/3KwHhIdb0bYWXc4yC0KlSU" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1068920/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5CGshKXr2IRnVoQQ62fdOz.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">房思琪的初恋乐园</div>
+<div class="media-meta">林奕含 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/5CGshKXr2IRnVoQQ62fdOz" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/27614904/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-05BjmGAd4VFzmMULI7dBZf.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">平凡的世界（全三部）</div>
+<div class="media-meta">路遥 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/05BjmGAd4VFzmMULI7dBZf" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1200840/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1O2H07cxKiEKkNA0vdk2l7.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">围城</div>
+<div class="media-meta">钱锺书 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/1O2H07cxKiEKkNA0vdk2l7" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1008145/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-319vl6IGR6CsvSSYwDW7Xv.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">明朝那些事儿（1-9）</div>
+<div class="media-meta">当年明月 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/319vl6IGR6CsvSSYwDW7Xv" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/3674537/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7Kq0ufmFgg64w4ST5b9EAS.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">沉默的大多数</div>
+<div class="media-meta">王小波 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/7Kq0ufmFgg64w4ST5b9EAS" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1054685/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5w5QhmMpQNE1eGMqLL5ACG.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">杀死一只知更鸟</div>
+<div class="media-meta">[美] 哈珀·李 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/5w5QhmMpQNE1eGMqLL5ACG" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/6781808/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3NWo7SIi7eYwsqVcD47iV9.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">万历十五年</div>
+<div class="media-meta">[美] 黄仁宇 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/3NWo7SIi7eYwsqVcD47iV9" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1041482/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4qHXhRXCo8Ypay4I0cgsMk.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">傲慢与偏见</div>
+<div class="media-meta">[英] 奥斯丁 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/4qHXhRXCo8Ypay4I0cgsMk" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1083428/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0ovUdsFefNqtlh2CJ1yjT2.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">刀锋</div>
+<div class="media-meta">[英] 毛姆 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/0ovUdsFefNqtlh2CJ1yjT2" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/2035162/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4RrigwbEKvy4h8V2GpO1Ue.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">城南旧事</div>
+<div class="media-meta">林海音 文、关维兴 图 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/4RrigwbEKvy4h8V2GpO1Ue" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1254588/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3aYEaBtlTGi1H6vGpj1ERt.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">悲惨世界（上中下）</div>
+<div class="media-meta">[法] 雨果 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/3aYEaBtlTGi1H6vGpj1ERt" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1205054/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-7OL7UlOW3RX8lrHuVkfHH1.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">上帝掷骰子吗</div>
+<div class="media-meta">曹天元 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/7OL7UlOW3RX8lrHuVkfHH1" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1467022/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0uWFJ54ytLPh6Y3wQgPb2V.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">爱你就像爱生命</div>
+<div class="media-meta">王小波、李银河 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/0uWFJ54ytLPh6Y3wQgPb2V" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/3071717/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0IMIjSWRtz7XHqw3txmVRK.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">飞鸟集</div>
+<div class="media-meta">[印] 罗宾德拉纳德·泰戈尔 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/0IMIjSWRtz7XHqw3txmVRK" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1058661/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2Jlum3V13WssmE4wuP9196.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">边城</div>
+<div class="media-meta">沈从文 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/2Jlum3V13WssmE4wuP9196" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1057244/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5hTMoRGXNFWjZ10qegWtKx.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">教父</div>
+<div class="media-meta">[美]马里奥·普佐 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/5hTMoRGXNFWjZ10qegWtKx" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1092335/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2NV41biyW1GdnGg9lltNPP.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">基地</div>
+<div class="media-meta">[美] 艾萨克·阿西莫夫 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/2NV41biyW1GdnGg9lltNPP" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1258490/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-3rfmQwOG82Srj2zWkcQrJ0.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">巨人的陨落</div>
+<div class="media-meta">[英] 肯·福莱特 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/3rfmQwOG82Srj2zWkcQrJ0" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26698660/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-712m4QU7COzgaKJ0SspCSG.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">海子的诗</div>
+<div class="media-meta">海子 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/712m4QU7COzgaKJ0SspCSG" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1011754/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-18sVsE1V1Y9snGRjGPBUql.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">时间简史</div>
+<div class="media-meta">[英] 史蒂芬·霍金 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/18sVsE1V1Y9snGRjGPBUql" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1034282/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-1hWgk9Bs0f03RmPmeF5OYJ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">呼兰河传</div>
+<div class="media-meta">萧红 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/1hWgk9Bs0f03RmPmeF5OYJ" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1060852/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2cjV88W2Ks6veDpVL1q6cB.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">最好的告别</div>
+<div class="media-meta">[美] 阿图·葛文德（Atul Gawande） · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/2cjV88W2Ks6veDpVL1q6cB" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26576861/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0xV0fRBCA0bmGjeP9lTFox.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">一个叫欧维的男人决定去死</div>
+<div class="media-meta">[瑞典] 弗雷德里克·巴克曼 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/0xV0fRBCA0bmGjeP9lTFox" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26672693/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5aJQ1oAREoxYQWU7bj77L2.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">银河系漫游指南</div>
+<div class="media-meta">[英] 道格拉斯·亚当斯 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/5aJQ1oAREoxYQWU7bj77L2" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1394364/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-2C2KyyhtZb9tMPE4AwyxhA.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">枪炮、病菌与钢铁</div>
+<div class="media-meta">[美] 贾雷德·戴蒙德 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/2C2KyyhtZb9tMPE4AwyxhA" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1813841/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-4WsD7B1kUXJeazkdVi6Oib.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">棋王</div>
+<div class="media-meta">阿城 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/4WsD7B1kUXJeazkdVi6Oib" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1020961/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6ZUzqpLf39gaaqWcS3Ef4l.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">社会心理学</div>
+<div class="media-meta">[美] 戴维·迈尔斯 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/6ZUzqpLf39gaaqWcS3Ef4l" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1476651/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-5CyyRlmrlEIcW3OcSSBXU4.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">顾城的诗</div>
+<div class="media-meta">顾城 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/5CyyRlmrlEIcW3OcSSBXU4" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1033825/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6WNmoSuJxtpHqGxviHawMZ.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">最好的我们</div>
+<div class="media-meta">八月长安 · 未评分 · 2021-12-10 · <a href="https://neodb.social/book/6WNmoSuJxtpHqGxviHawMZ" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/24754316/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-0lEVHl5lxq2R4ucAOPA1Ah.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">与安东尼奥尼一起的时光</div>
+<div class="media-meta">维姆·文德斯 · 未评分 · 2021-11-27 · <a href="https://neodb.social/book/0lEVHl5lxq2R4ucAOPA1Ah" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/1016806/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
+
+<div class="media-card">
+<div class="media-cover"><img src="../covers/neodb-book-6ZoCsNh6vgeLdSl8T620jy.jpg" alt="" loading="lazy"></div>
+<div class="media-body">
+<div class="media-title">言叶之庭</div>
+<div class="media-meta">[日] 新海诚 · 未评分 · 2021-08-21 · <a href="https://neodb.social/book/6ZoCsNh6vgeLdSl8T620jy" target="_blank" rel="noopener">NeoDB</a> <a href="https://book.douban.com/subject/26314932/" target="_blank" rel="noopener">豆瓣</a></div>
+<div class="media-comment"><span class="media-comment--empty">（暂无短评）</span></div>
+</div>
+</div>
