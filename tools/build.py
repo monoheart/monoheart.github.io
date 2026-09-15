@@ -64,7 +64,10 @@ def save_neodb_meta(cache):
 
 def fetch_neodb_meta_api(neodb_id, timeout=25):
     url = f"https://neodb.social/api/{neodb_id}"
-    req = urllib.request.Request(url, headers={"User-Agent": UA_BASE, "Referer": "https://neodb.social/"})
+    req = urllib.request.Request(url, headers={
+        "User-Agent": UA_BASE, "Referer": "https://neodb.social/",
+        "Accept-Language": "zh-CN,zh;q=0.9",
+    })
     with urllib.request.urlopen(req, timeout=timeout) as r:
         data = json.loads(r.read().decode("utf-8", "ignore"))
     return {k: data[k] for k in ND_KEEP if k in data and data[k] not in (None, [], "")}
@@ -333,6 +336,10 @@ def build(fetch_missing=False):
         for row in rows:
             row["_medium"] = medium
             row["_key"] = lib.row_key(medium, row)
+            rev = reviews.get(row["_key"])
+            # 有影评文件时，状态以影评文件为准（方便在 reviews/ 里统一编辑）
+            row["_status"] = ((rev["fm"].get("status") or row.get("status"))
+                              if rev else row.get("status"))
             row["_douban"] = lib.extract_douban_id(row.get("links", ""))
             row["_subject"] = subjects.get(row["_douban"]) if row["_douban"] else None
             nid = lib.extract_neodb_id(row.get("links", ""))
@@ -361,7 +368,7 @@ def build(fetch_missing=False):
     for medium in lib.MEDIUMS:
         rows = [r for r in all_rows if r["_medium"] == medium]
         # 只展示看过的，时间倒序
-        done = sorted([r for r in rows if r.get("status") == "complete"],
+        done = sorted([r for r in rows if r.get("_status") == "complete"],
                       key=lambda r: r.get("timestamp", ""), reverse=True)
         name = lib.MEDIUM_NAMES[medium]
         lines = [f"# {name}\n", f"共 {len(done)} 条\n"]

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""新建影评脚手架：python tools/new_review.py "三体"
-按标题模糊匹配 CSV/subjects，预填资料卡后在 docs/reviews/ 建文件并打印路径。
-"""
+"""新建/打开某条作品的影评文件：python tools/new_review.py "三体"
+按标题模糊匹配 CSV，在 reviews/ 建文件并预填资料；已存在则直接打印路径。
+（若是全新作品，请先用 tools/add_item.py 添加。）"""
 import os
 import sys
 
@@ -27,13 +27,10 @@ def main():
     query = sys.argv[1].strip()
     hits = find(query)
     if not hits:
-        print(f"CSV 里没找到包含 [{query}] 的条目，建空模板。")
-        os.makedirs(lib.REVIEWS_DIR, exist_ok=True)
-        path = lib.unique_path(lib.REVIEWS_DIR, f"misc-{lib.slugify(query)}.md")
-        with open(path, "w", encoding="utf-8", newline="\n") as f:
-            f.write(lib.dump_review(query, "book", "complete", None, "", "", "", [], "写点什么…\n"))
-        print(path)
-        return
+        print(f"CSV 里没有包含 [{query}] 的条目。")
+        print("如果是刚看完的新作品，请先添加：")
+        print('  python tools/add_item.py <NeoDB链接> --rating 5 --comment "短评"')
+        sys.exit(1)
     if len(hits) > 1:
         print(f"找到 {len(hits)} 条，请复制整标题再跑一次：")
         for i, (medium, row, _, _) in enumerate(hits[:15]):
