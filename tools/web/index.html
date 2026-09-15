@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>monoheart 管理台</title>
+<style>
+  :root { --bg:#f5f6f8; --card:#fff; --line:#e3e6ea; --fg:#22303c; --mut:#7b8794; --pri:#00897b; --pri2:#00796b; --danger:#c62828; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:"Microsoft YaHei",system-ui,sans-serif; background:var(--bg); color:var(--fg); font-size:14px; }
+  header { background:var(--pri); color:#fff; padding:10px 18px; display:flex; align-items:center; gap:16px; }
+  header h1 { font-size:16px; margin:0; font-weight:600; }
+  .tabs { display:flex; gap:6px; }
+  .tabs button { background:rgba(255,255,255,.15); color:#fff; border:0; padding:7px 16px; border-radius:6px; cursor:pointer; font-size:14px; }
+  .tabs button.on { background:#fff; color:var(--pri); font-weight:600; }
+  main { padding:16px 18px 60px; max-width:1200px; margin:0 auto; }
+  .panel { display:none; } .panel.on { display:block; }
+  .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:12px; }
+  input, select, textarea { font-family:inherit; font-size:13px; padding:6px 9px; border:1px solid var(--line); border-radius:6px; background:#fff; color:var(--fg); }
+  textarea { width:100%; }
+  button.act { background:var(--pri); color:#fff; border:0; padding:7px 14px; border-radius:6px; cursor:pointer; }
+  button.act:hover { background:var(--pri2); }
+  button.ghost { background:#fff; border:1px solid var(--line); padding:7px 12px; border-radius:6px; cursor:pointer; }
+  button.danger { background:#fff; color:var(--danger); border:1px solid #f0c0c0; padding:5px 10px; border-radius:6px; cursor:pointer; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:10px; }
+  .item { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:10px; display:flex; gap:10px; }
+  .item img { width:64px; height:88px; object-fit:cover; border-radius:5px; background:#eee; flex:0 0 64px; }
+  .item .noimg { width:64px; height:88px; border-radius:5px; background:#eceff1; display:flex; align-items:center; justify-content:center; color:#aaa; font-size:11px; flex:0 0 64px; }
+  .item .body { flex:1; min-width:0; }
+  .item h3 { margin:0 0 4px; font-size:14px; line-height:1.35; }
+  .item .sub { color:var(--mut); font-size:12px; margin-bottom:4px; }
+  .item .cmt { font-size:12px; line-height:1.6; max-height:64px; overflow:auto; white-space:pre-wrap; word-break:break-word; }
+  .item .ops { margin-top:6px; display:flex; gap:6px; }
+  .stars { color:#f5a623; letter-spacing:1px; }
+  .muted { color:var(--mut); }
+  .modal { position:fixed; inset:0; background:rgba(0,0,0,.45); display:none; align-items:center; justify-content:center; z-index:50; }
+  .modal.on { display:flex; }
+  .modal .box { background:#fff; border-radius:12px; padding:18px; width:min(760px,94vw); max-height:92vh; overflow:auto; }
+  .modal .box h2 { margin:0 0 12px; font-size:16px; }
+  .field { margin-bottom:10px; } .field label { display:block; font-size:12px; color:var(--mut); margin-bottom:3px; }
+  .row2 { display:flex; gap:10px; } .row2 > * { flex:1; }
+  .log { background:#1e272e; color:#d6e2ea; font-family:Consolas,monospace; font-size:12px; padding:10px; border-radius:8px; height:280px; overflow:auto; white-space:pre-wrap; }
+  .artlist { background:#fff; border:1px solid var(--line); border-radius:10px; padding:8px; max-height:300px; overflow:auto; }
+  .artlist .a { padding:7px 9px; border-radius:6px; cursor:pointer; display:flex; justify-content:space-between; gap:8px; }
+  .artlist .a:hover { background:#f0f4f5; } .artlist .a.on { background:#e0f2f1; }
+  .artlist .a .t { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .editor { background:#fff; border:1px solid var(--line); border-radius:10px; padding:12px; }
+  .ed { display:flex; flex-direction:column; height:420px; }
+  .ed textarea { flex:1; resize:vertical; font-family:Consolas,"Microsoft YaHei",monospace; line-height:1.7; }
+  .hint { font-size:12px; color:var(--mut); margin:6px 0; }
+  .badge { display:inline-block; font-size:11px; padding:1px 6px; border-radius:4px; background:#eceff1; color:#546e7a; margin-right:4px; }
+  .toast { position:fixed; right:18px; bottom:18px; background:#263238; color:#fff; padding:10px 16px; border-radius:8px; opacity:0; transition:opacity .2s; z-index:99; }
+  .toast.on { opacity:1; }
+  .spin { color:var(--pri); font-size:12px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>monoheart 管理台</h1>
+  <div class="tabs">
+    <button id="tab-media" class="on" onclick="showTab('media')">书影音</button>
+    <button id="tab-article" onclick="showTab('article')">文章</button>
+  </div>
+  <div style="margin-left:auto;display:flex;gap:8px;align-items:center">
+    <span id="pub-state" class="spin"></span>
+    <button class="ghost" onclick="publish(false)">仅本地构建</button>
+    <button class="act" onclick="publish(true)">发布到网站</button>
+  </div>
+</header>
+
+<main>
+  <!-- ============ 书影音 ============ -->
+  <section id="panel-media" class="panel on">
+    <div class="bar">
+      <input id="m-q" placeholder="搜索标题 / 作者…" style="width:220px" oninput="renderMedia()">
+      <select id="m-medium" onchange="renderMedia()">
+        <option value="">全部类型</option><option value="book">书</option>
+        <option value="movie">影</option><option value="tv">剧</option><option value="game">游戏</option>
+      </select>
+      <select id="m-status" onchange="renderMedia()">
+        <option value="">全部状态</option><option value="complete">看过</option><option value="wishlist">想看</option>
+      </select>
+      <span id="m-count" class="muted"></span>
+      <button class="act" style="margin-left:auto" onclick="openAdd()">+ 新增作品</button>
+    </div>
+    <div id="m-grid" class="grid"></div>
+  </section>
+
+  <!-- ============ 文章 ============ -->
+  <section id="panel-article" class="panel">
+    <div class="bar">
+      <button class="act" onclick="newArticle()">+ 新建文章</button>
+      <label class="ghost" style="cursor:pointer">导入 .md<input type="file" accept=".md,.markdown,.txt" style="display:none" onchange="importMd(this)"></label>
+      <span id="a-count" class="muted"></span>
+    </div>
+    <div class="row2">
+      <div style="flex:0 0 320px">
+        <div id="a-list" class="artlist"></div>
+      </div>
+      <div style="flex:1">
+        <div class="editor">
+          <div class="row2">
+            <div class="field"><label>标题</label><input id="a-title" style="width:100%"></div>
+            <div class="field" style="flex:0 0 150px"><label>日期</label><input id="a-date" type="date" style="width:100%"></div>
+          </div>
+          <div class="row2">
+            <div class="field"><label>标签（逗号分隔）</label><input id="a-tags" style="width:100%"></div>
+            <div class="field" style="flex:0 0 130px"><label>草稿</label><select id="a-draft" style="width:100%"><option value="">否</option><option value="1">是（不展示）</option></select></div>
+          </div>
+          <div class="field"><label>摘要（留空自动取正文首段）</label><input id="a-summary" style="width:100%"></div>
+          <div class="hint">
+            <button class="ghost" onclick="document.getElementById('a-img').click()">插入图片</button>
+            <input type="file" id="a-img" accept="image/*" style="display:none" onchange="uploadImage(this)">
+            图片存 docs/posts/images/，会自动插入 Markdown
+          </div>
+          <div class="ed"><textarea id="a-body" placeholder="用 Markdown 写正文…"></textarea></div>
+          <div class="bar" style="margin:12px 0 0">
+            <button class="act" onclick="saveArticle()">保存文章</button>
+            <button class="danger" onclick="deleteArticle()">删除</button>
+            <span id="a-file" class="muted"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div id="pub-log-wrap" style="margin-top:18px;display:none">
+    <div class="bar"><b>发布日志</b><span id="pub-label" class="muted"></span></div>
+    <div id="pub-log" class="log"></div>
+  </div>
+</main>
+
+<!-- 新增/编辑作品弹窗 -->
+<div id="modal" class="modal">
+  <div class="box">
+    <h2 id="md-title">编辑作品</h2>
+    <div id="md-add" style="display:none">
+      <div class="field"><label>NeoDB 链接</label>
+        <div style="display:flex;gap:8px"><input id="add-url" placeholder="https://neodb.social/movie/xxxx" style="flex:1">
+        <button class="ghost" onclick="previewItem()">识别</button></div>
+      </div>
+      <div id="add-preview" class="hint"></div>
+    </div>
+    <div class="row2">
+      <div class="field"><label>标题</label><input id="ed-title" style="width:100%"></div>
+      <div class="field" style="flex:0 0 130px"><label>状态</label>
+        <select id="ed-status" style="width:100%"><option value="complete">看过</option><option value="wishlist">想看</option></select></div>
+    </div>
+    <div class="row2">
+      <div class="field" style="flex:0 0 140px"><label>评分</label>
+        <select id="ed-rating" style="width:100%">
+          <option value="">无</option><option value="5">★★★★★</option><option value="4">★★★★</option>
+          <option value="3">★★★</option><option value="2">★★</option><option value="1">★</option>
+        </select></div>
+      <div class="field"><label>日期</label><input id="ed-date" type="date" style="width:100%"></div>
+      <div class="field"><label>标签（逗号分隔）</label><input id="ed-tags" style="width:100%"></div>
+    </div>
+    <div class="field"><label>短评 / 长评</label><textarea id="ed-body" rows="10"></textarea></div>
+    <div class="bar" style="margin:0">
+      <button class="act" onclick="saveItem()">保存</button>
+      <button class="ghost" onclick="closeModal()">取消</button>
+      <span id="ed-links" class="muted" style="margin-left:auto"></span>
+    </div>
+  </div>
+</div>
+
+<div id="toast" class="toast"></div>
+
+<script>
+let MEDIA = [], ARTICLES = [], CUR = null, EDIT = null;
+
+function toast(msg){ const t=document.getElementById('toast'); t.textContent=msg; t.classList.add('on'); setTimeout(()=>t.classList.remove('on'),2200); }
+async function api(path, method='GET', body){
+  const opt = { method, headers:{} };
+  if (body){ opt.headers['Content-Type']='application/json'; opt.body=JSON.stringify(body); }
+  const r = await fetch(path, opt);
+  const j = await r.json().catch(()=>({error:'响应解析失败'}));
+  if (!r.ok || j.error) throw new Error(j.error || ('HTTP '+r.status));
+  return j;
+}
+function showTab(name){
+  document.getElementById('panel-media').classList.toggle('on', name==='media');
+  document.getElementById('panel-article').classList.toggle('on', name==='article');
+  document.getElementById('tab-media').classList.toggle('on', name==='media');
+  document.getElementById('tab-article').classList.toggle('on', name==='article');
+  if (name==='article') loadArticles();
+}
+const STAR = n => n ? '★'.repeat(n)+'☆'.repeat(5-n) : '未评分';
+
+/* ---------------- 书影音 ---------------- */
+async function loadMedia(){ try { MEDIA = (await api('/api/media')).items; renderMedia(); } catch(e){ toast(e.message); } }
+function renderMedia(){
+  const q = document.getElementById('m-q').value.trim().toLowerCase();
+  const md = document.getElementById('m-medium').value;
+  const st = document.getElementById('m-status').value;
+  const list = MEDIA.filter(x =>
+    (!md || x.medium===md) && (!st || x.status===st) &&
+    (!q || (x.title||'').toLowerCase().includes(q) || (x.author||'').toLowerCase().includes(q)));
+  document.getElementById('m-count').textContent = `${list.length} / ${MEDIA.length}`;
+  document.getElementById('m-grid').innerHTML = list.map(x => `
+    <div class="item">
+      ${x.cover ? `<img src="/covers/${x.cover}" loading="lazy">` : `<div class="noimg">无封面</div>`}
+      <div class="body">
+        <h3>${esc(x.title)||'未命名'}</h3>
+        <div class="sub">${x.medium_name} · ${esc(x.author)||'—'} · <span class="stars">${STAR(x.rating)}</span> · ${x.date||''}</div>
+        <div class="cmt">${esc(x.body)||'<span class="muted">（暂无短评）</span>'}</div>
+        <div class="ops">
+          <button class="ghost" onclick="openEdit('${x.medium}','${x.key.replace(/'/g,"\\'")}')">编辑</button>
+          <button class="danger" onclick="delItem('${x.medium}','${x.key.replace(/'/g,"\\'")}')">删除</button>
+          ${x.status==='wishlist'?'<span class="badge">想看</span>':''}
+        </div>
+      </div>
+    </div>`).join('') || '<p class="muted">没有匹配的条目</p>';
+}
+function esc(s){ s = (s==null?'':String(s)); return s.replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+function openAdd(){
+  EDIT=null;
+  document.getElementById('md-title').textContent='新增作品';
+  document.getElementById('md-add').style.display='block';
+  document.getElementById('add-url').value=''; document.getElementById('add-preview').textContent='';
+  document.getElementById('ed-title').value=''; document.getElementById('ed-status').value='complete';
+  document.getElementById('ed-rating').value=''; document.getElementById('ed-date').value=today();
+  document.getElementById('ed-tags').value=''; document.getElementById('ed-body').value='';
+  document.getElementById('ed-links').textContent='';
+  document.getElementById('ed-body').disabled=false;
+  document.getElementById('modal').classList.add('on');
+}
+function openEdit(medium, key){
+  const x = MEDIA.find(i=>i.medium===medium && i.key===key); if(!x) return;
+  EDIT = x;
+  document.getElementById('md-title').textContent='编辑作品';
+  document.getElementById('md-add').style.display='none';
+  document.getElementById('ed-title').value=x.title; document.getElementById('ed-status').value=x.status;
+  document.getElementById('ed-rating').value=x.rating||''; document.getElementById('ed-date').value=x.date||'';
+  document.getElementById('ed-tags').value=(x.tags||[]).join(', '); document.getElementById('ed-body').value=x.body||'';
+  document.getElementById('ed-links').textContent = x.neodb ? 'NeoDB ✓' : '';
+  document.getElementById('ed-body').disabled=false;
+  document.getElementById('modal').classList.add('on');
+}
+function closeModal(){ document.getElementById('modal').classList.remove('on'); }
+function today(){ const d=new Date(); return d.toISOString().slice(0,10); }
+
+async function previewItem(){
+  const url = document.getElementById('add-url').value.trim();
+  const box = document.getElementById('add-preview');
+  box.textContent='识别中…';
+  try {
+    const r = await api('/api/media/preview','POST',{url});
+    if (r.duplicate){ box.innerHTML = `已存在：<b>${esc(r.title)}</b>（可在列表里编辑）`; return; }
+    document.getElementById('ed-title').value = r.title;
+    box.innerHTML = `识别为 <b>${r.medium_name}</b>：${esc(r.title)} ${r.year?'('+r.year+')':''}`;
+  } catch(e){ box.textContent = '识别失败：'+e.message; }
+}
+async function saveItem(){
+  try {
+    const common = {
+      title: document.getElementById('ed-title').value,
+      status: document.getElementById('ed-status').value,
+      rating: document.getElementById('ed-rating').value || null,
+      date: document.getElementById('ed-date').value,
+      tags: document.getElementById('ed-tags').value.split(/[,，]/).map(s=>s.trim()).filter(Boolean),
+      body: document.getElementById('ed-body').value,
+    };
+    if (EDIT) await api('/api/media/save','POST',{...common, medium:EDIT.medium, key:EDIT.key});
+    else await api('/api/media/add','POST',{url:document.getElementById('add-url').value, ...common});
+    closeModal(); toast('已保存'); await loadMedia();
+  } catch(e){ toast(e.message); }
+}
+async function delItem(medium, key){
+  if (!confirm('确定删除这个条目？（会同时删除影评文件与本地封面）')) return;
+  try { await api('/api/media/delete','POST',{medium,key}); toast('已删除'); await loadMedia(); }
+  catch(e){ toast(e.message); }
+}
+
+/* ---------------- 文章 ---------------- */
+async function loadArticles(){
+  try { ARTICLES = (await api('/api/articles')).items; renderArticles(); }
+  catch(e){ toast(e.message); }
+}
+function renderArticles(){
+  document.getElementById('a-count').textContent = `${ARTICLES.length} 篇`;
+  document.getElementById('a-list').innerHTML = ARTICLES.map(p=>`
+    <div class="a ${CUR===p.path?'on':''}" onclick="openArticle('${p.path.replace(/'/g,"\\'")}')">
+      <span class="t">${p.draft?'<span class="badge">草稿</span>':''}${esc(p.title)}</span>
+      <span class="muted">${p.date||''}</span>
+    </div>`).join('') || '<p class="muted" style="padding:8px">还没有文章</p>';
+}
+function newArticle(){
+  CUR=null; document.getElementById('a-file').textContent='（新文章）';
+  document.getElementById('a-title').value=''; document.getElementById('a-date').value=today();
+  document.getElementById('a-tags').value=''; document.getElementById('a-summary').value='';
+  document.getElementById('a-draft').value=''; document.getElementById('a-body').value='';
+  renderArticles();
+}
+async function openArticle(file){
+  try {
+    const r = await api('/api/article?file='+encodeURIComponent(file));
+    CUR = r.file; const fm = r.frontmatter||{};
+    document.getElementById('a-title').value = fm.title||'';
+    document.getElementById('a-date').value = (fm.date||'').slice(0,10);
+    document.getElementById('a-tags').value = (fm.tags||[]).join(', ');
+    document.getElementById('a-summary').value = fm.summary||'';
+    document.getElementById('a-draft').value = fm.draft ? '1' : '';
+    document.getElementById('a-body').value = r.body||'';
+    document.getElementById('a-file').textContent = r.file;
+    renderArticles();
+  } catch(e){ toast(e.message); }
+}
+async function saveArticle(){
+  try {
+    const r = await api('/api/article/save','POST',{
+      file: CUR, title: document.getElementById('a-title').value,
+      date: document.getElementById('a-date').value,
+      tags: document.getElementById('a-tags').value,
+      summary: document.getElementById('a-summary').value,
+      draft: document.getElementById('a-draft').value==='1',
+      body: document.getElementById('a-body').value,
+    });
+    CUR = r.file; document.getElementById('a-file').textContent = r.file;
+    toast('已保存'); await loadArticles();
+  } catch(e){ toast(e.message); }
+}
+async function deleteArticle(){
+  if (!CUR){ toast('还没保存过'); return; }
+  if (!confirm('确定删除这篇文章？')) return;
+  try { await api('/api/article/delete','POST',{file:CUR}); CUR=null; newArticle(); toast('已删除'); await loadArticles(); }
+  catch(e){ toast(e.message); }
+}
+function importMd(input){
+  const f = input.files[0]; if(!f) return;
+  const rd = new FileReader();
+  rd.onload = () => {
+    newArticle();
+    const text = rd.result;
+    const m = text.match(/^---\n([\s\S]*?)\n---\n?/);
+    if (m){
+      const fm = {}; m[1].split('\n').forEach(l=>{ const i=l.indexOf(':'); if(i>0) fm[l.slice(0,i).trim()]=l.slice(i+1).trim(); });
+      if (fm.title) document.getElementById('a-title').value = fm.title.replace(/^"|"$/g,'');
+      if (fm.date) document.getElementById('a-date').value = fm.date.replace(/^"|"$/g,'').slice(0,10);
+      if (fm.tags) document.getElementById('a-tags').value = fm.tags.replace(/[\[\]"]/g,'');
+      document.getElementById('a-body').value = text.slice(m[0].length);
+    } else {
+      const t = text.match(/^#\s+(.+)$/m);
+      if (t){ document.getElementById('a-title').value = t[1].trim(); }
+      document.getElementById('a-body').value = text;
+    }
+    toast('已导入，确认后点“保存文章”');
+  };
+  rd.readAsText(f, 'utf-8');
+  input.value='';
+}
+function uploadImage(input){
+  const f = input.files[0]; if(!f) return;
+  const rd = new FileReader();
+  rd.onload = async () => {
+    try {
+      const r = await api('/api/upload_image','POST',{filename:f.name, data:rd.result});
+      insertAtCursor(document.getElementById('a-body'), '\n' + r.markdown + '\n');
+      toast('图片已插入');
+    } catch(e){ toast(e.message); }
+  };
+  rd.readAsDataURL(f);
+  input.value='';
+}
+function insertAtCursor(el, text){
+  const s=el.selectionStart||0, e=el.selectionEnd||0;
+  el.value = el.value.slice(0,s) + text + el.value.slice(e);
+  el.selectionStart = el.selectionEnd = s + text.length;
+  el.focus();
+}
+
+/* ---------------- 发布 ---------------- */
+let LOGLINE = 0, POLL = null;
+async function publish(deploy){
+  try {
+    await api('/api/publish','POST',{deploy});
+    LOGLINE = 0; document.getElementById('pub-log').textContent='';
+    document.getElementById('pub-log-wrap').style.display='block';
+    document.getElementById('pub-state').textContent = deploy ? '发布中…' : '构建中…';
+    if (POLL) clearInterval(POLL);
+    POLL = setInterval(pollLog, 800);
+  } catch(e){ toast(e.message); }
+}
+async function pollLog(){
+  try {
+    const r = await api('/api/publish_log?since='+LOGLINE);
+    if (r.lines.length){
+      const el = document.getElementById('pub-log');
+      el.textContent += r.lines.join('\n') + '\n';
+      el.scrollTop = el.scrollHeight;
+      LOGLINE = r.next;
+    }
+    document.getElementById('pub-label').textContent = r.label||'';
+    if (!r.running){
+      clearInterval(POLL); POLL=null;
+      document.getElementById('pub-state').textContent = (r.code===0 ? '完成' : '失败') + ' (退出码 '+(r.code)+')';
+      toast('构建' + (r.code===0?'完成':'失败'));
+      if (r.code===0 && r.label==='发布') loadMedia();
+    }
+  } catch(e){ /* 忽略轮询错误 */ }
+}
+
+document.getElementById('modal').addEventListener('click', e=>{ if(e.target.id==='modal') closeModal(); });
+loadMedia();
+</script>
+</body>
+</html>

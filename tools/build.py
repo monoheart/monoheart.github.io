@@ -380,6 +380,9 @@ def build(fetch_missing=False):
             f.write("\n".join(lines))
     # --- 影评页不再生成详情页：reviews/ 仅为本地写作源 ---
 
+    import build_posts
+    build_posts.build_posts()
+
     with open(FAIL_PATH, "w", encoding="utf-8") as f:
         json.dump({"missing_covers": failures}, f, ensure_ascii=False, indent=1)
     total = len(all_rows)

@@ -253,3 +253,195 @@ def excerpt(body, limit=60):
         if line:
             return line[:limit] + ("…" if len(line) > limit else "")
     return ""
+
+
+# ---------------------------------------------------------------------------
+# 通用 frontmatter（文章 / 影评共用）
+# ---------------------------------------------------------------------------
+
+POSTS_DIR = os.path.join(ROOT, "docs", "posts")
+POSTS_IMG_DIR = os.path.join(POSTS_DIR, "images")
+
+
+def parse_frontmatter(text):
+    """通用解析：返回 (dict, body)。支持字符串/数组/布尔。"""
+    text = text or ""
+    fm = {}
+    body = text
+    if text.startswith("---"):
+        end = text.find("\n---", 3)
+        if end != -1:
+            raw = text[3:end].strip()
+            body = text[end + 4:].lstrip("\n")
+            for line in raw.splitlines():
+                if ":" not in line or line.lstrip().startswith("#"):
+                    continue
+                k, v = line.split(":", 1)
+                k, v = k.strip(), v.strip()
+                if v.startswith("[") and v.endswith("]"):
+                    items = []
+                    for part in v.strip("[]").split(","):
+                        part = part.strip().strip('"').strip("'")
+                        if part:
+                            items.append(part)
+                    fm[k] = items
+                elif v.lower() in ("true", "false"):
+                    fm[k] = v.lower() == "true"
+                else:
+                    if len(v) >= 2 and v.startswith('"') and v.endswith('"'):
+                        v = v[1:-1].replace('\\"', '"').replace("\\\\", "\\")
+                    fm[k] = v
+    return fm, body
+
+
+def dump_frontmatter(fm, body):
+    def q(x):
+        return '"' + str(x).replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+    order = ["title", "date", "tags", "summary", "cover", "draft"]
+    keys = [k for k in order if k in fm] + [k for k in fm if k not in order]
+    lines = ["---"]
+    for k in keys:
+        v = fm[k]
+        if k == "tags":
+            lines.append("tags: [" + ", ".join(q(t) for t in (v or [])) + "]")
+        elif isinstance(v, bool):
+            lines.append(f"{k}: {'true' if v else 'false'}")
+        else:
+            lines.append(f"{k}: {q(v)}")
+    lines += ["---", ""]
+    return "\n".join(lines) + (body or "").rstrip() + "\n"
+
+
+def slug(text, limit=40):
+    s = re.sub(r"[\\/:*?\"<>|\s]+", "-", (text or "").strip())
+    s = re.sub(r"-+", "-", s).strip("-")
+    return s[:limit] or "untitled"
+
+
+# ---------------------------------------------------------------------------
+# 书影音条目：列出 / 保存 / 删除（CSV 目录 + reviews/ 影评文件）
+# ---------------------------------------------------------------------------
+
+def load_csv_full(medium):
+    """返回 (fieldnames, rows)。"""
+    with open(CSV_FILES[medium], encoding="utf-8-sig", newline="") as f:
+        reader = csv.DictReader(f)
+        return list(reader.fieldnames or []), list(reader)
+
+
+def write_csv_rows(medium, fieldnames, rows):
+    with open(CSV_FILES[medium], "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
+        writer.writeheader()
+        for r in rows:
+            writer.writerow({k: r.get(k, "") for k in fieldnames})
+
+
+def find_row(medium, key):
+    for r in load_csv_rows(medium):
+        if row_key(medium, r) == key:
+            return r
+    return None
+
+
+def list_entries():
+    """所有条目，合并 CSV 与影评文件，供管理台使用。"""
+    from build import load_neodb_meta, creator_text
+    subjects = load_subjects()
+    reviews = load_reviews()
+    ndcache = load_neodb_meta()
+    out = []
+    for medium in MEDIUMS:
+        for row in load_csv_rows(medium):
+            key = row_key(medium, row)
+            rev = reviews.get(key)
+            fm = rev["fm"] if rev else {}
+            rating = fm.get("rating") if fm.get("rating") is not None else CSV_TO_STARS.get((row.get("rating") or "").strip())
+            status = (fm.get("status") or row.get("status") or "complete").strip() or "complete"
+            date = (fm.get("date") or (row.get("timestamp") or "")[:10])
+            body = rev["body"].strip() if rev else (row.get("comment") or "").strip()
+            tags = fm.get("tags") if fm.get("tags") else [t.strip() for t in (row.get("tags") or "").split("|") if t.strip()]
+            nid = extract_neodb_id(row.get("links", ""))
+            did = extract_douban_id(row.get("links", ""))
+            cover = ""
+            if nid:
+                fn = "neodb-" + nid.replace("/", "-") + ".jpg"
+                if os.path.exists(os.path.join(COVERS_DIR, fn)):
+                    cover = fn
+            nd = ndcache.get(nid, {}) if nid else {}
+            role, cname = creator_text(medium, row, subjects.get(did) if did else None, nd)
+            out.append({
+                "medium": medium, "medium_name": MEDIUM_NAMES[medium], "key": key,
+                "title": (row.get("title") or "").strip(), "author": cname, "author_role": role,
+                "status": status, "rating": rating, "date": date, "tags": tags, "body": body,
+                "neodb": first_neodb_url(row.get("links", "")),
+                "douban": first_douban_url(row.get("links", "")),
+                "cover": cover, "has_review": bool(rev),
+                "review_file": os.path.basename(rev["path"]) if rev else "",
+            })
+    return out
+
+
+def save_entry(medium, key, title, status, rating, date, tags, body):
+    """更新条目：CSV 的 title/status/rating/comment + reviews/ 影评文件。"""
+    fieldnames, rows = load_csv_full(medium)
+    target = None
+    for r in rows:
+        if row_key(medium, r) == key:
+            target = r
+            break
+    if target is None:
+        raise ValueError("找不到条目: " + key)
+    target["title"] = title
+    target["status"] = status
+    target["rating"] = STARS_TO_CSV.get(rating, "") if rating else ""
+    target["comment"] = body if not body else target.get("comment", "")
+    write_csv_rows(medium, fieldnames, rows)
+
+    reviews = load_reviews()
+    rev = reviews.get(key)
+    nid = extract_neodb_id(target.get("links", ""))
+    did = extract_douban_id(target.get("links", ""))
+    if rev:
+        path = rev["path"]
+    else:
+        os.makedirs(REVIEWS_DIR, exist_ok=True)
+        fname = review_filename(medium, title, did, nid, date)
+        path = unique_path(REVIEWS_DIR, fname)
+    with open(path, "w", encoding="utf-8", newline="\n") as f:
+        f.write(dump_review(title, medium, status, rating, date,
+                            first_douban_url(target.get("links", "")),
+                            first_neodb_url(target.get("links", "")), tags, body))
+    return os.path.basename(path)
+
+
+def delete_entry(medium, key):
+    fieldnames, rows = load_csv_full(medium)
+    keep = [r for r in rows if row_key(medium, r) != key]
+    if len(keep) == len(rows):
+        raise ValueError("找不到条目: " + key)
+    removed = [r for r in rows if row_key(medium, r) == key][0]
+    write_csv_rows(medium, fieldnames, keep)
+    nid = extract_neodb_id(removed.get("links", ""))
+    # 影评文件
+    reviews = load_reviews()
+    rev = reviews.get(key)
+    if rev and os.path.exists(rev["path"]):
+        os.remove(rev["path"])
+    # 封面 + 元数据缓存（仅当没有其它行共用该 neodb id）
+    if nid:
+        still = any(extract_neodb_id(r.get("links", "")) == nid for r in keep)
+        if not still:
+            cover = os.path.join(COVERS_DIR, "neodb-" + nid.replace("/", "-") + ".jpg")
+            if os.path.exists(cover):
+                os.remove(cover)
+            try:
+                from build import load_neodb_meta, save_neodb_meta
+                cache = load_neodb_meta()
+                if nid in cache:
+                    del cache[nid]
+                    save_neodb_meta(cache)
+            except Exception:
+                pass
+    return True

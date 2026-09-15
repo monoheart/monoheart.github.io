@@ -12,5 +12,6 @@ nav:
   - 影: media/movies.md
   - 剧: media/tv.md
   - 游戏: media/games.md
+  - 文章: posts/index.md
 extra_css:
   - stylesheets/extra.css
