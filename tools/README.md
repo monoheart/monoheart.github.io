@@ -41,4 +41,4 @@ python tools/build.py --deploy                # 构建并发布（提交 master 
 把 `site/` 同步到 `main` 分支并推（`main` 即 GitHub Pages 源）。
 GitHub 偶发连不上，重试即可。
 
-详见根目录 `HANDOFF.md`（完整交接文档）。
+完整说明（含给下一个 AI 的技术交接）见上一层目录的 `说明书.md`。
