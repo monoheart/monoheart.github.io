@@ -131,11 +131,8 @@ def card_html(r, subject, medium, reviews):
         comment = esc_multi(r.get("comment", ""))
     if not comment:
         comment = '<span class="media-comment--empty">（暂无短评）</span>'
-    meta_bits = []
-    author = lib.author_line(medium, r, subject)
-    if author:
-        meta_bits.append(esc(author))
-    meta_bits.append(stars)
+    author = lib.author_line(medium, r, subject) or "—"
+    meta_bits = [stars]
     date = (r.get("timestamp") or "")[:10]
     if date:
         meta_bits.append(esc(date))
@@ -151,9 +148,14 @@ def card_html(r, subject, medium, reviews):
         meta_line += " · " + " ".join(links)
     return (
         '<div class="media-card">\n'
+        '<div class="media-head">\n'
         f'{cover_block(r["_cover"])}\n'
-        '<div class="media-body">\n'
+        '<div class="media-titles">\n'
         f'<div class="media-title">{esc(r.get("title") or "未命名")}</div>\n'
+        f'<div class="media-author">{esc(author)}</div>\n'
+        "</div>\n"
+        "</div>\n"
+        '<div class="media-body">\n'
         f'<div class="media-meta">{meta_line}</div>\n'
         f'<div class="media-comment">{comment}</div>\n'
         "</div>\n"
@@ -185,20 +187,15 @@ def build(fetch_missing=False):
     os.makedirs(lib.MEDIA_DIR, exist_ok=True)
     # --- 各类型页（短评全文展示，无详情页）---
     for medium in lib.MEDIUMS:
-        rows = sorted([r for r in all_rows if r["_medium"] == medium],
-                      key=lambda r: (r.get("status") != "complete", r.get("timestamp", "")), reverse=False)
-        # complete 在前、时间倒序
+        rows = [r for r in all_rows if r["_medium"] == medium]
+        # 只展示看过的，时间倒序
         done = sorted([r for r in rows if r.get("status") == "complete"],
                       key=lambda r: r.get("timestamp", ""), reverse=True)
-        wish = sorted([r for r in rows if r.get("status") != "complete"],
-                      key=lambda r: r.get("timestamp", ""), reverse=True)
         name = lib.MEDIUM_NAMES[medium]
-        lines = [f"# {name}\n", f"共 {len(rows)}（看过 {len(done)} / 想看 {len(wish)}）\n"]
-        for sec, items in (("看过", done), ("想看", wish)):
-            lines.append(f"## {sec}（{len(items)}）\n")
-            for r in items:
-                lines.append(card_html(r, r["_subject"], medium, reviews))
-                lines.append("")
+        lines = [f"# {name}\n", f"共 {len(done)} 条\n"]
+        for r in done:
+            lines.append(card_html(r, r["_subject"], medium, reviews))
+            lines.append("")
         with open(os.path.join(lib.MEDIA_DIR, {"book": "books.md", "movie": "movies.md", "tv": "tv.md", "game": "games.md"}[medium]),
                   "w", encoding="utf-8", newline="\n") as f:
             f.write("\n".join(lines))
