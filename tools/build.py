@@ -284,7 +284,7 @@ def card_html(r, subject, medium, reviews):
                        f'<span class="media-author-v">{esc(cname)}</span></div>')
     else:
         author_html = ""
-    facts = facts_list(medium, nd, title)
+    facts = facts_list(medium, nd, title)[:3]
     meta_bits = [stars]
     date = (r.get("timestamp") or "")[:10]
     if date:

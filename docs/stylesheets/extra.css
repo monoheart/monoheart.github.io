@@ -3,7 +3,7 @@
 .md-typeset .media-card {
   display: flex;
   flex-direction: column;
-  height: 360px;               /* 每条统一高度，保证大小一致 */
+  height: auto;                /* 各部件尺寸固定，卡片高度自然统一 */
   box-sizing: border-box;
   padding: 18px 20px;
   margin: 0 0 18px;
@@ -13,11 +13,12 @@
   overflow: hidden;
 }
 
-/* 上半部分：封面 + 标题/作者/资料 */
+/* 上半部分：封面 + 标题/作者/资料（固定高度，保证卡片一致） */
 .md-typeset .media-head {
   display: flex;
   gap: 18px;
   flex: 0 0 auto;
+  height: 168px;
   min-height: 0;
 }
 
@@ -47,6 +48,7 @@
 .md-typeset .media-info {
   flex: 1 1 auto;
   min-width: 0;
+  max-height: 168px;
   overflow: hidden;
   overflow-wrap: anywhere;
   word-break: break-word;
@@ -76,7 +78,7 @@
   min-width: 0;
   color: var(--md-default-fg-color);
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 1;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
@@ -125,10 +127,10 @@
   white-space: nowrap;
 }
 
-/* 简评：更大更易读；超出即在框内滚动，不撑大卡片 */
+/* 简评：固定 5 行高度（不足 5 行也占满），超出即在框内滚动，不撑大卡片 */
 .md-typeset .media-comment {
-  flex: 1 1 auto;
-  min-height: 0;
+  flex: 0 0 auto;
+  height: calc(5 * 1.8em);     /* 恰好 5 行（行高 1.8） */
   overflow-y: auto;
   padding-right: 8px;
   font-size: 0.86rem;
@@ -151,9 +153,13 @@
 /* 窄屏：整体缩小，仍保持单列、统一大小 */
 @media screen and (max-width: 600px) {
   .md-typeset .media-card {
-    height: 330px;
     padding: 14px;
     margin-bottom: 14px;
+  }
+  .md-typeset .media-head,
+  .md-typeset .media-info {
+    height: 148px;
+    max-height: 148px;
   }
   .md-typeset .media-cover {
     flex: 0 0 96px;

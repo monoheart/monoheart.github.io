@@ -12,7 +12,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">チェンソーマン</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2022-10-11</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动作 / 动画</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">8</span></div>
 </div>
 </div>
 </div>
@@ -32,7 +31,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Breaking Bad</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2012-07-15</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 犯罪</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">16</span></div>
 </div>
 </div>
 </div>
@@ -52,7 +50,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Breaking Bad</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2011-07-17</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 犯罪</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">13</span></div>
 </div>
 </div>
 </div>
@@ -72,7 +69,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">安達としまむら</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2020-10-09</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">爱情 / 动画 / 同性</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">12</span></div>
 </div>
 </div>
 </div>
@@ -111,7 +107,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ダンジョン飯</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2023-12-08</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 奇幻 / 冒险</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">24</span></div>
 </div>
 </div>
 </div>
@@ -131,7 +126,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">ダンジョン飯</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2024-01-04</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 动作冒险 / 科幻</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">21</span></div>
 </div>
 </div>
 </div>
@@ -151,7 +145,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Breaking Bad</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2010-03-21</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 犯罪</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">13</span></div>
 </div>
 </div>
 </div>
@@ -171,7 +164,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Breaking Bad</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2008-01-20</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 犯罪</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">7</span></div>
 </div>
 </div>
 </div>
@@ -191,7 +183,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Breaking Bad</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2009-03-08</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 犯罪</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">13</span></div>
 </div>
 </div>
 </div>
@@ -211,7 +202,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Breaking Bad</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2008-01-20</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 犯罪</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">62</span></div>
 </div>
 </div>
 </div>
@@ -269,7 +259,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">違国日記</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2026-01-04</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动画</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">13</span></div>
 </div>
 </div>
 </div>
@@ -308,7 +297,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">SHIROBAKO</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2014-10-09</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 动画</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">24</span></div>
 </div>
 </div>
 </div>
@@ -593,7 +581,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">やはり俺の青春ラブコメはまちがっている。続</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2015-04-02</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动画</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">13</span></div>
 </div>
 </div>
 </div>
@@ -632,7 +619,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">やはり俺の青春ラブコメはまちがっている。完</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2020-07-09</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">爱情 / 动画</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">12</span></div>
 </div>
 </div>
 </div>
@@ -652,7 +638,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">メイドインアビス 烈日の黄金郷</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2022-07-06</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 动画 / 冒险</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">12</span></div>
 </div>
 </div>
 </div>
@@ -710,7 +695,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Rick and Morty</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2019-11-10</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">科幻 / 动画 / 冒险</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">10</span></div>
 </div>
 </div>
 </div>
@@ -730,7 +714,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Rick and Morty</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2021-06-20</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">喜剧 / 科幻 / 动画</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">10</span></div>
 </div>
 </div>
 </div>
@@ -822,7 +805,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">氷菓</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2012</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画 / 悬疑</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">22</span></div>
 </div>
 </div>
 </div>
@@ -899,7 +881,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">Cyberpunk: Edgerunners</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2022-09-13</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">科幻 / 动画</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">10</span></div>
 </div>
 </div>
 </div>
@@ -956,7 +937,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">BEASTARS 2nd Season</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2021-01-06</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">动画</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">12</span></div>
 </div>
 </div>
 </div>
@@ -995,7 +975,6 @@
 <div class="media-fact"><span class="media-fact-k">原作名</span><span class="media-fact-v">The End of the F***ing World</span></div>
 <div class="media-fact"><span class="media-fact-k">首播</span><span class="media-fact-v">2019-11-04</span></div>
 <div class="media-fact"><span class="media-fact-k">类型</span><span class="media-fact-v">剧情 / 喜剧 / 爱情</span></div>
-<div class="media-fact"><span class="media-fact-k">集数</span><span class="media-fact-v">8</span></div>
 </div>
 </div>
 </div>
