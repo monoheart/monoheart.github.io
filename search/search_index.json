@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"],"fields":{"title":{"boost":1000.0},"text":{"boost":1.0},"tags":{"boost":1000000.0}}},"docs":[{"location":"","title":"monoheart\u7535\u6ce2\u7ad9","text":"<p>\u6b22\u8fce\u6765\u5230 monoheart \u7535\u6ce2\u7ad9\u3002</p>"}]}
