@@ -3,6 +3,7 @@ site_url: https://monoheart.shop/
 theme:
   favicon: img/favicon.png
   name: 'material'
+  language: zh
   logo: img/favicon.png
   palette:
     primary: teal
