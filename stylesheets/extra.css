@@ -1,8 +1,3 @@
-/* 正文段落紧凑一点，避免段落之间出现很大的空隙 */
-.md-typeset p {
-  margin: 0.4em 0;
-}
-
 /* 正文图片统一风格：满宽、居中、圆角 */
 .md-typeset p > img,
 .md-typeset li > img,
